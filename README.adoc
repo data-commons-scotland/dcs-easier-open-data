@@ -1,24 +1,38 @@
 
 == _Easier_ open data about waste in Scotland
 
-=== Aim
+=== Objective
 
-So it is _easier_ to understand, consume, parse,
-and generally use than the existing open data.
+Several organisations are doing a good job of curating & publishing _open data_ about waste in Scotland but,
+the published data is not always "easy to use" for non-experts.
+We have see several references to this at open data conference events and on social media platforms...
+[quote]
+Whilst statisticians/coders may think that it is reasonably simple to knead together these
+somewhat diverse datasets into a coherent knowledge, the interested layman doesn't find it so easy.
 
-It may not be as detailed or have all the nuances as the existing open data - but aims to be
+One of the objectives of the Data Commons Scotland project is to address
+the "ease of use" issue over open data.
+The contents of this repository are the result of us _re-working_ some of the existing ("source") open data
+so it is _easier_ to understand, consume, parse, and all in one place.
+It may not be as detailed or have all the nuances as the source data - but aims to be
 better for the purposes of making the information accessible to non-experts.
 
-Also explain to the user that we've processed the source data just enough to:
+We have processed the source data just enough to:
 
 * provide value-based cross-referencing between datasets
-* add 3 fields whose values are generally useful but not easily derivable by a simple calc
+* add a few fields whose values are generally useful but not easily derivable by a simple calculation (e.g. latitude, longitude, waste material class)
 * make it available as simple CSV and JSON files.
 
-But we haven't augmented the data with derived values that can be simply calculated
+We have not augmented the data with derived values that can be simply calculated
 such as per-population amounts, averages, trends, totals, etc.
 
-=== The data
+=== The _easier_ datasets
+
+++++
+<div style="float:right; font-size:small;">
+(The fuller, <a href="metadata/datasets.csv">CSV version of this table</a>.)<br/>&nbsp;
+</div>
+++++
 
 [width="90%",cols="<,<,>,<,<,<"]
 
@@ -29,7 +43,7 @@ such as per-population amounts, averages, trends, totals, etc.
 
 1+<h| name
 1+<h| description
-1+>h| number of records
+1+<h| number of records
 1+<h| creator
 1+<h| supplier
 1+<h| licence
