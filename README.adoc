@@ -27,27 +27,27 @@ such as per-population amounts, averages, trends, totals, etc.
 3+^h|_easier_ dataset footnote:sourcing[Each "_easier_ dataset" in this repository, is derived from "source data".]
 3+^h|source data footnote:sourcing[]
 
-1+^h| name
-1+^h| description
-1+^h| number of records
-1+^h| creator
-1+^h| supplier
-1+^h| licence
+1+<h| name
+1+<h| description
+1+>h| number of records
+1+<h| creator
+1+<h| supplier
+1+<h| licence
 
-| link:data/population.csv[population] | TODO | 288 | NRS | http://statistics.gov.scot/data/population-estimates-current-geographic-boundaries[statistics.gov.scot] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
+| population^&nbsp;link:data/population.csv[CSV]^ | TODO | 288 | NRS | statistics.gov.scot^&nbsp;http://statistics.gov.scot/data/population-estimates-current-geographic-boundaries[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
-| link:data/household-waste.csv[household-waste] | TODO | 19008 | SEPA | http://statistics.gov.scot/data/household-waste[statistics.gov.scot] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
+| household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | TODO | 19008 | SEPA | statistics.gov.scot^&nbsp;http://statistics.gov.scot/data/household-waste[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
-| link:data/household-co2e.csv[household-co2e] | TODO | 288 | SEPA | https://www.environment.gov.scot/data/data-analysis/household-waste[SEPA] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | TODO | 288 | SEPA | SEPA^&nbsp;https://www.environment.gov.scot/data/data-analysis/household-waste[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| link:data/business-waste-by-region.csv[business-waste-by-region] | TODO | 8976 | SEPA | https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data[SEPA] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | TODO | 8976 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| link:data/business-waste-by-sector.csv[business-waste-by-sector] | TODO | 2640 | SEPA | https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data[SEPA] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | TODO | 2640 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| link:data/waste-site.csv[waste-site] | TODO | 1254 | SEPA | https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[SEPA] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | TODO | 1254 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| link:data/waste-site-io.csv[waste-site-io] | TODO | 265000 | SEPA | https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[SEPA] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | TODO | 265000 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| link:data/material-coding.csv[material-coding] | TODO | 557 | SEPA | https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[SEPA] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| material-coding^&nbsp;link:data/material-coding.csv[CSV]^ | TODO | 557 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
 |=========================================================
