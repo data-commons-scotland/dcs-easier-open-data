@@ -28,13 +28,10 @@ such as per-population amounts, averages, trends, totals, etc.
 
 === The _easier_ datasets
 
-++++
-<div style="float:right; font-size:small;">
-(The fuller, <a href="metadata/datasets.csv">CSV version of this table</a>.)<br/>&nbsp;
-</div>
-++++
+[.text-right]
+(The fuller, link:metadata/datasets.csv[CSV version] of this table.)
 
-[width="90%",cols="<,<,>,<,<,<"]
+[width="100%",cols="<,<,>,<,<,<"]
 
 |=========================================================
 
