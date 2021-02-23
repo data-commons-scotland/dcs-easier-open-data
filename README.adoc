@@ -71,95 +71,95 @@ such as per-population amounts, averages, trends, totals, etc.
 | dimension
 | description
 | dataset
-| example value in dimension
-| count of values in dimension
-| min value in dimension
-| max value in dimension
+| example value of dimension
+| count of values of dimension
+| min value of dimension
+| max value of dimension
 
-.5+| region .5+| TODO | population^&nbsp;link:data/population.csv[CSV]^ | West Dunbartonshire | 32 |  |
+.5+| region .5+| TODO | population^&nbsp;link:data/population.csv[CSV]^ | West Dunbartonshire | 32 |  | 
 
- | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Falkirk | 32 |  |
+| household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Falkirk | 32 |  | 
 
- | household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | Aberdeen City | 32 |  |
+| household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | Aberdeen City | 32 |  | 
 
- | business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | Falkirk | 34 |  |
+| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | Falkirk | 34 |  | 
 
- | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | North Lanarkshire | 32 |  |
+| waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | North Lanarkshire | 32 |  | 
 
-| business-sector | TODO | business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | Manufacture of food and beverage products | 10 |  | 
+.1+| business-sector .1+| TODO | business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | Manufacture of food and beverage products | 10 |  | 
 
 .7+| year .7+| TODO | population^&nbsp;link:data/population.csv[CSV]^ | 2013 | 9 | 2011 | 2019
 
 | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | 2011 | 9 | 2011 | 2019
 
- | household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | 2013 | 9 | 2011 | 2019
+| household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | 2013 | 9 | 2011 | 2019
 
- | business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | 2011 | 8 | 2011 | 2018
+| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | 2011 | 8 | 2011 | 2018
 
- | business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | 2011 | 8 | 2011 | 2018
+| business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | 2011 | 8 | 2011 | 2018
 
- | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 2019 | 1 | 2019 | 2019
+| waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 2019 | 1 | 2019 | 2019
 
- | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 2013 | 14 | 2007 | 2020
+| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 2013 | 14 | 2007 | 2020
 
-| quarter | TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | Q4 | 4 |  | 
+.1+| quarter .1+| TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | Q4 | 4 |  | 
 
-| site-name | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Bellshill H/care Waste Treatment & Transfer | 1246 |  | 
+.1+| site-name .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Bellshill H/care Waste Treatment & Transfer | 1246 |  | 
 
-| permit | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | PPC/A/1180708 | 1254 |  | 
+.2+| permit .2+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | PPC/A/1180708 | 1254 |  | 
 
-| permit | TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | WML/E/0000334 | 182 |  | 
+| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | WML/E/0000334 | 182 |  | 
 
-| status | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Not applicable | 4 |  | 
+.1+| status .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Not applicable | 4 |  | 
 
-| latitude | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 55.824871489601804 | 1227 |  | 
+.1+| latitude .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 55.824871489601804 | 1227 |  | 
 
-| longitude | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | -4.035165962797409 | 1227 |  | 
+.1+| longitude .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | -4.035165962797409 | 1227 |  | 
 
-| io | TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | Waste Outputs (Table D) | 2 |  | 
+.1+| io .1+| TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | Waste Outputs (Table D) | 2 |  | 
 
-| material | TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Animal and mixed food waste | 22 |  | 
+.4+| material .4+| TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Animal and mixed food waste | 22 |  | 
 
-| material | TODO | business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | Spent solvents | 33 |  | 
+| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | Spent solvents | 33 |  | 
 
-| material | TODO | business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | Spent solvents | 33 |  | 
+| business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | Spent solvents | 33 |  | 
 
-| material | TODO | material-coding^&nbsp;link:data/material-coding.csv[CSV]^ | Acid, alkaline or saline wastes | 34 |  | 
+| material-coding^&nbsp;link:data/material-coding.csv[CSV]^ | Acid, alkaline or saline wastes | 34 |  | 
 
-| management | TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Other Diversion | 3 |  | 
+.1+| management .1+| TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Other Diversion | 3 |  | 
 
-| ewc-code | TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 16 06 06* | 429 |  | 
+.2+| ewc-code .2+| TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 16 06 06* | 429 |  | 
 
-| ewc-code | TODO | material-coding^&nbsp;link:data/material-coding.csv[CSV]^ | 11 01 06* | 557 |  | 
+| material-coding^&nbsp;link:data/material-coding.csv[CSV]^ | 11 01 06* | 557 |  | 
 
-| ewc-description | TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | separately collected electrolyte from batteries and accumulators | 355 |  | 
+.1+| ewc-description .1+| TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | separately collected electrolyte from batteries and accumulators | 355 |  | 
 
-| operator | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | TRADEBE UK | 753 |  | 
+.2+| operator .2+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | TRADEBE UK | 753 |  | 
 
-| operator | TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | SAFETYKLEEN UK LIMITED | 134 |  | 
+| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | SAFETYKLEEN UK LIMITED | 134 |  | 
 
-| activity | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Other treatment | 50 |  | 
+.1+| activity .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Other treatment | 50 |  | 
 
-| sector | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Other special | 45 |  | 
+.1+| sector .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Other special | 45 |  | 
 
-| population | TODO | population^&nbsp;link:data/population.csv[CSV]^ | 89800 |  | 21420 | 633120
+.1+| population .1+| TODO | population^&nbsp;link:data/population.csv[CSV]^ | 89800 |  | 21420 | 633120
 
-| tonnes | TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | 0 |  | 0 | 183691
+.5+| tonnes .5+| TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | 0 |  | 0 | 183691
 
-| tonnes | TODO | household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | 251386.54 |  | 24768.53 | 762399.92
+| household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | 251386.54 |  | 24768.53 | 762399.92
 
-| tonnes | TODO | business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | 753 |  | 0 | 486432
+| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | 753 |  | 0 | 486432
 
-| tonnes | TODO | business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | 54 |  | 0 | 1039179
+| business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | 54 |  | 0 | 1039179
 
-| tonnes | TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 0 |  | 0 | 135775.2
+| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 0 |  | 0 | 135775.2
 
-| tonnes-input | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 154.55 |  | 0 | 1476044
+.1+| tonnes-input .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 154.55 |  | 0 | 1476044
 
-| tonnes-treated-recovered | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 133.04 |  | 0 | 1476044
+.1+| tonnes-treated-recovered .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 133.04 |  | 0 | 1476044
 
-| tonnes-output | TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 152.8 |  | 0 | 235354.51
+.1+| tonnes-output .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 152.8 |  | 0 | 235354.51
 
 |=========================================================
 
-(The fuller, link:metadata/dimensions.csv[CSV version of the table] above.)
+(The link:metadata/dimensions.csv[CSV version of the table] above.)
