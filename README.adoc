@@ -28,35 +28,36 @@ such as per-population amounts, averages, trends, totals, etc.
 
 === The _easier_ datasets
 
-[width="100%",cols="<,<,>,<,<,<"]
+[width="100%",cols="<,<,<,>,<,<,<"]
 
 |=========================================================
 
-3+^h|_easier_ dataset footnote:sourcing[Each "_easier_ dataset" in this repository, is derived from "source data".]
+4+^h|_easier_ dataset footnote:sourcing[Each "_easier_ dataset" in this repository, is derived from "source data".]
 3+^h|source data footnote:sourcing[]
 
 1+<h| name
 1+<h| description
+1+<h| file
 1+<h| number of records
 1+<h| creator
 1+<h| supplier
 1+<h| licence
 
-| population^&nbsp;link:data/population.csv[CSV]^ | TODO | 288 | NRS | statistics.gov.scot^&nbsp;http://statistics.gov.scot/data/population-estimates-current-geographic-boundaries[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
+| anchor:population[] population | TODO | link:data/population.csv[CSV] | 288 | NRS | statistics.gov.scot^&nbsp;http://statistics.gov.scot/data/population-estimates-current-geographic-boundaries[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
-| household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | TODO | 19008 | SEPA | statistics.gov.scot^&nbsp;http://statistics.gov.scot/data/household-waste[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
+| anchor:household-waste[] household-waste | TODO | link:data/household-waste.csv[CSV] | 19008 | SEPA | statistics.gov.scot^&nbsp;http://statistics.gov.scot/data/household-waste[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
-| household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | TODO | 288 | SEPA | SEPA^&nbsp;https://www.environment.gov.scot/data/data-analysis/household-waste[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| anchor:household-co2e[] household-co2e | TODO | link:data/household-co2e.csv[CSV] | 288 | SEPA | SEPA^&nbsp;https://www.environment.gov.scot/data/data-analysis/household-waste[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | TODO | 8976 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| anchor:business-waste-by-region[] business-waste-by-region | TODO | link:data/business-waste-by-region.csv[CSV] | 8976 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | TODO | 2640 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| anchor:business-waste-by-sector[] business-waste-by-sector | TODO | link:data/business-waste-by-sector.csv[CSV] | 2640 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | TODO | 1254 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| anchor:waste-site[] waste-site | TODO | link:data/waste-site.csv[CSV] | 1254 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | TODO | 265000 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| anchor:waste-site-io[] waste-site-io | TODO | link:data/waste-site-io.csv[CSV] | 265000 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| material-coding^&nbsp;link:data/material-coding.csv[CSV]^ | TODO | 557 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+| anchor:material-coding[] material-coding | TODO | link:data/material-coding.csv[CSV] | 557 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
 |=========================================================
 
@@ -76,89 +77,89 @@ such as per-population amounts, averages, trends, totals, etc.
 | min value of dimension
 | max value of dimension
 
-.5+| region .5+| TODO | population^&nbsp;link:data/population.csv[CSV]^ | West Dunbartonshire | 32 |  | 
+.5+| region .5+| TODO | xref:population[population] | West Dunbartonshire | 32 |  | 
 
-| household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Falkirk | 32 |  | 
+| xref:household-waste[household-waste] | Falkirk | 32 |  | 
 
-| household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | Aberdeen City | 32 |  | 
+| xref:household-co2e[household-co2e] | Aberdeen City | 32 |  | 
 
-| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | Falkirk | 34 |  | 
+| xref:business-waste-by-region[business-waste-by-region] | Falkirk | 34 |  | 
 
-| waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | North Lanarkshire | 32 |  | 
+| xref:waste-site[waste-site] | North Lanarkshire | 32 |  | 
 
-.1+| business-sector .1+| TODO | business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | Manufacture of food and beverage products | 10 |  | 
+.1+| business-sector .1+| TODO | xref:business-waste-by-sector[business-waste-by-sector] | Manufacture of food and beverage products | 10 |  | 
 
-.7+| year .7+| TODO | population^&nbsp;link:data/population.csv[CSV]^ | 2013 | 9 | 2011 | 2019
+.7+| year .7+| TODO | xref:population[population] | 2013 | 9 | 2011 | 2019
 
-| household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | 2011 | 9 | 2011 | 2019
+| xref:household-waste[household-waste] | 2011 | 9 | 2011 | 2019
 
-| household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | 2013 | 9 | 2011 | 2019
+| xref:household-co2e[household-co2e] | 2013 | 9 | 2011 | 2019
 
-| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | 2011 | 8 | 2011 | 2018
+| xref:business-waste-by-region[business-waste-by-region] | 2011 | 8 | 2011 | 2018
 
-| business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | 2011 | 8 | 2011 | 2018
+| xref:business-waste-by-sector[business-waste-by-sector] | 2011 | 8 | 2011 | 2018
 
-| waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 2019 | 1 | 2019 | 2019
+| xref:waste-site[waste-site] | 2019 | 1 | 2019 | 2019
 
-| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 2013 | 14 | 2007 | 2020
+| xref:waste-site-io[waste-site-io] | 2013 | 14 | 2007 | 2020
 
-.1+| quarter .1+| TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | Q4 | 4 |  | 
+.1+| quarter .1+| TODO | xref:waste-site-io[waste-site-io] | Q4 | 4 |  | 
 
-.1+| site-name .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Bellshill H/care Waste Treatment & Transfer | 1246 |  | 
+.1+| site-name .1+| TODO | xref:waste-site[waste-site] | Bellshill H/care Waste Treatment & Transfer | 1246 |  | 
 
-.2+| permit .2+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | PPC/A/1180708 | 1254 |  | 
+.2+| permit .2+| TODO | xref:waste-site[waste-site] | PPC/A/1180708 | 1254 |  | 
 
-| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | WML/E/0000334 | 182 |  | 
+| xref:waste-site-io[waste-site-io] | WML/E/0000334 | 182 |  | 
 
-.1+| status .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Not applicable | 4 |  | 
+.1+| status .1+| TODO | xref:waste-site[waste-site] | Not applicable | 4 |  | 
 
-.1+| latitude .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 55.824871489601804 | 1227 |  | 
+.1+| latitude .1+| TODO | xref:waste-site[waste-site] | 55.824871489601804 | 1227 |  | 
 
-.1+| longitude .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | -4.035165962797409 | 1227 |  | 
+.1+| longitude .1+| TODO | xref:waste-site[waste-site] | -4.035165962797409 | 1227 |  | 
 
-.1+| io .1+| TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | Waste Outputs (Table D) | 2 |  | 
+.1+| io .1+| TODO | xref:waste-site-io[waste-site-io] | Waste Outputs (Table D) | 2 |  | 
 
-.4+| material .4+| TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Animal and mixed food waste | 22 |  | 
+.4+| material .4+| TODO | xref:household-waste[household-waste] | Animal and mixed food waste | 22 |  | 
 
-| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | Spent solvents | 33 |  | 
+| xref:business-waste-by-region[business-waste-by-region] | Spent solvents | 33 |  | 
 
-| business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | Spent solvents | 33 |  | 
+| xref:business-waste-by-sector[business-waste-by-sector] | Spent solvents | 33 |  | 
 
-| material-coding^&nbsp;link:data/material-coding.csv[CSV]^ | Acid, alkaline or saline wastes | 34 |  | 
+| xref:material-coding[material-coding] | Acid, alkaline or saline wastes | 34 |  | 
 
-.1+| management .1+| TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | Other Diversion | 3 |  | 
+.1+| management .1+| TODO | xref:household-waste[household-waste] | Other Diversion | 3 |  | 
 
-.2+| ewc-code .2+| TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 16 06 06* | 429 |  | 
+.2+| ewc-code .2+| TODO | xref:waste-site-io[waste-site-io] | 16 06 06* | 429 |  | 
 
-| material-coding^&nbsp;link:data/material-coding.csv[CSV]^ | 11 01 06* | 557 |  | 
+| xref:material-coding[material-coding] | 11 01 06* | 557 |  | 
 
-.1+| ewc-description .1+| TODO | waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | separately collected electrolyte from batteries and accumulators | 355 |  | 
+.1+| ewc-description .1+| TODO | xref:waste-site-io[waste-site-io] | separately collected electrolyte from batteries and accumulators | 355 |  | 
 
-.2+| operator .2+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | TRADEBE UK | 753 |  | 
+.2+| operator .2+| TODO | xref:waste-site[waste-site] | TRADEBE UK | 753 |  | 
 
-| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | SAFETYKLEEN UK LIMITED | 134 |  | 
+| xref:waste-site-io[waste-site-io] | SAFETYKLEEN UK LIMITED | 134 |  | 
 
-.1+| activity .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Other treatment | 50 |  | 
+.1+| activity .1+| TODO | xref:waste-site[waste-site] | Other treatment | 50 |  | 
 
-.1+| sector .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | Other special | 45 |  | 
+.1+| sector .1+| TODO | xref:waste-site[waste-site] | Other special | 45 |  | 
 
-.1+| population .1+| TODO | population^&nbsp;link:data/population.csv[CSV]^ | 89800 |  | 21420 | 633120
+.1+| population .1+| TODO | xref:population[population] | 89800 |  | 21420 | 633120
 
-.5+| tonnes .5+| TODO | household-waste^&nbsp;link:data/household-waste.csv[CSV]^ | 0 |  | 0 | 183691
+.5+| tonnes .5+| TODO | xref:household-waste[household-waste] | 0 |  | 0 | 183691
 
-| household-co2e^&nbsp;link:data/household-co2e.csv[CSV]^ | 251386.54 |  | 24768.53 | 762399.92
+| xref:household-co2e[household-co2e] | 251386.54 |  | 24768.53 | 762399.92
 
-| business-waste-by-region^&nbsp;link:data/business-waste-by-region.csv[CSV]^ | 753 |  | 0 | 486432
+| xref:business-waste-by-region[business-waste-by-region] | 753 |  | 0 | 486432
 
-| business-waste-by-sector^&nbsp;link:data/business-waste-by-sector.csv[CSV]^ | 54 |  | 0 | 1039179
+| xref:business-waste-by-sector[business-waste-by-sector] | 54 |  | 0 | 1039179
 
-| waste-site-io^&nbsp;link:data/waste-site-io.csv[CSV]^ | 0 |  | 0 | 135775.2
+| xref:waste-site-io[waste-site-io] | 0 |  | 0 | 135775.2
 
-.1+| tonnes-input .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 154.55 |  | 0 | 1476044
+.1+| tonnes-input .1+| TODO | xref:waste-site[waste-site] | 154.55 |  | 0 | 1476044
 
-.1+| tonnes-treated-recovered .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 133.04 |  | 0 | 1476044
+.1+| tonnes-treated-recovered .1+| TODO | xref:waste-site[waste-site] | 133.04 |  | 0 | 1476044
 
-.1+| tonnes-output .1+| TODO | waste-site^&nbsp;link:data/waste-site.csv[CSV]^ | 152.8 |  | 0 | 235354.51
+.1+| tonnes-output .1+| TODO | xref:waste-site[waste-site] | 152.8 |  | 0 | 235354.51
 
 |=========================================================
 
