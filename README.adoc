@@ -78,7 +78,7 @@ such as per-population amounts, averages, trends, totals, etc.
 | min value of dimension
 | max value of dimension
 
-.5+| region .5+| TODO | xref:population[population] | West Dunbartonshire | 32 |  | 
+.5+| region .5+| The name of a council area. | xref:population[population] | West Dunbartonshire | 32 |  | 
 
 | xref:household-waste[household-waste] | Falkirk | 32 |  | 
 
@@ -88,9 +88,9 @@ such as per-population amounts, averages, trends, totals, etc.
 
 | xref:waste-site[waste-site] | North Lanarkshire | 32 |  | 
 
-.1+| business-sector .1+| TODO | xref:business-waste-by-sector[business-waste-by-sector] | Manufacture of food and beverage products | 10 |  | 
+.1+| business-sector .1+| The label representing the business/economic sector. | xref:business-waste-by-sector[business-waste-by-sector] | Manufacture of food and beverage products | 10 |  | 
 
-.7+| year .7+| TODO | xref:population[population] | 2013 | 9 | 2011 | 2019
+.7+| year .7+| The integer representation of a year. | xref:population[population] | 2013 | 9 | 2011 | 2019
 
 | xref:household-waste[household-waste] | 2011 | 9 | 2011 | 2019
 
@@ -104,23 +104,23 @@ such as per-population amounts, averages, trends, totals, etc.
 
 | xref:waste-site-io[waste-site-io] | 2013 | 14 | 2007 | 2020
 
-.1+| quarter .1+| TODO | xref:waste-site-io[waste-site-io] | Q4 | 4 |  | 
+.1+| quarter .1+| The label indicating a year's quarter. | xref:waste-site-io[waste-site-io] | Q4 | 4 |  | 
 
-.1+| site-name .1+| TODO | xref:waste-site[waste-site] | Bellshill H/care Waste Treatment & Transfer | 1246 |  | 
+.1+| site-name .1+| The name of the waste site. | xref:waste-site[waste-site] | Bellshill H/care Waste Treatment & Transfer | 1246 |  | 
 
-.2+| permit .2+| TODO | xref:waste-site[waste-site] | PPC/A/1180708 | 1254 |  | 
+.2+| permit .2+| The waste site operator's offical permit or licence. | xref:waste-site[waste-site] | PPC/A/1180708 | 1254 |  | 
 
 | xref:waste-site-io[waste-site-io] | WML/E/0000334 | 182 |  | 
 
-.1+| status .1+| TODO | xref:waste-site[waste-site] | Not applicable | 4 |  | 
+.1+| status .1+| The label indicating the open/closed status of the waste site in the record's timeframe.  | xref:waste-site[waste-site] | Not applicable | 4 |  | 
 
-.1+| latitude .1+| TODO | xref:waste-site[waste-site] | 55.824871489601804 | 1227 |  | 
+.1+| latitude .1+| The signed decimal representing a latitude. | xref:waste-site[waste-site] | 55.824871489601804 | 1227 |  | 
 
-.1+| longitude .1+| TODO | xref:waste-site[waste-site] | -4.035165962797409 | 1227 |  | 
+.1+| longitude .1+| The signed decimal representing a longitude. | xref:waste-site[waste-site] | -4.035165962797409 | 1227 |  | 
 
-.1+| io .1+| TODO | xref:waste-site-io[waste-site-io] | Waste Outputs (Table D) | 2 |  | 
+.1+| io .1+| The label indicating the direction of travel of the waste from the PoV of a waste site. | xref:waste-site-io[waste-site-io] | Waste Outputs (Table D) | 2 |  | 
 
-.4+| material .4+| TODO | xref:household-waste[household-waste] | Animal and mixed food waste | 22 |  | 
+.4+| material .4+| The name of a waste material in SEPA's classification. | xref:household-waste[household-waste] | Animal and mixed food waste | 22 |  | 
 
 | xref:business-waste-by-region[business-waste-by-region] | Spent solvents | 33 |  | 
 
@@ -128,25 +128,25 @@ such as per-population amounts, averages, trends, totals, etc.
 
 | xref:material-coding[material-coding] | Acid, alkaline or saline wastes | 34 |  | 
 
-.1+| management .1+| TODO | xref:household-waste[household-waste] | Other Diversion | 3 |  | 
+.1+| management .1+| The waste management/end-state label. | xref:household-waste[household-waste] | Other Diversion | 3 |  | 
 
-.2+| ewc-code .2+| TODO | xref:waste-site-io[waste-site-io] | 16 06 06* | 429 |  | 
+.2+| ewc-code .2+| The code from the European Waste Classification hierarchy. | xref:waste-site-io[waste-site-io] | 16 06 06* | 429 |  | 
 
 | xref:material-coding[material-coding] | 11 01 06* | 557 |  | 
 
-.1+| ewc-description .1+| TODO | xref:waste-site-io[waste-site-io] | separately collected electrolyte from batteries and accumulators | 355 |  | 
+.1+| ewc-description .1+| The description from the European Waste Classification hierarchy. | xref:waste-site-io[waste-site-io] | separately collected electrolyte from batteries and accumulators | 355 |  | 
 
-.2+| operator .2+| TODO | xref:waste-site[waste-site] | TRADEBE UK | 753 |  | 
+.2+| operator .2+| The name of the waste site operator. | xref:waste-site[waste-site] | TRADEBE UK | 753 |  | 
 
 | xref:waste-site-io[waste-site-io] | SAFETYKLEEN UK LIMITED | 134 |  | 
 
-.1+| activity .1+| TODO | xref:waste-site[waste-site] | Other treatment | 50 |  | 
+.1+| activity .1+| The waste processing activities supported by a waste site. | xref:waste-site[waste-site] | Other treatment | 50 |  | 
 
-.1+| sector .1+| TODO | xref:waste-site[waste-site] | Other special | 45 |  | 
+.1+| sector .1+| The client/waste type that is serviced by the waste site. | xref:waste-site[waste-site] | Other special | 45 |  | 
 
-.1+| population .1+| TODO | xref:population[population] | 89800 |  | 21420 | 633120
+.1+| population .1+| The population count as an integer. | xref:population[population] | 89800 |  | 21420 | 633120
 
-.5+| tonnes .5+| TODO | xref:household-waste[household-waste] | 0 |  | 0 | 183691
+.5+| tonnes .5+| The waste related quantity as a decimal. | xref:household-waste[household-waste] | 0 |  | 0 | 183691
 
 | xref:household-co2e[household-co2e] | 251386.54 |  | 24768.53 | 762399.92
 
@@ -156,11 +156,11 @@ such as per-population amounts, averages, trends, totals, etc.
 
 | xref:waste-site-io[waste-site-io] | 0 |  | 0 | 135775.2
 
-.1+| tonnes-input .1+| TODO | xref:waste-site[waste-site] | 154.55 |  | 0 | 1476044
+.1+| tonnes-input .1+| The quantity of incoming waste as a decimal. | xref:waste-site[waste-site] | 154.55 |  | 0 | 1476044
 
-.1+| tonnes-treated-recovered .1+| TODO | xref:waste-site[waste-site] | 133.04 |  | 0 | 1476044
+.1+| tonnes-treated-recovered .1+| The quantity of waste treated or recovered as a decimal. | xref:waste-site[waste-site] | 133.04 |  | 0 | 1476044
 
-.1+| tonnes-output .1+| TODO | xref:waste-site[waste-site] | 152.8 |  | 0 | 235354.51
+.1+| tonnes-output .1+| The quantity of outgoing waste as a decimal. | xref:waste-site[waste-site] | 152.8 |  | 0 | 235354.51
 
 |=========================================================
 
