@@ -12,8 +12,9 @@ somewhat diverse datasets into a coherent knowledge, the interested layman doesn
 
 One of the objectives of the Data Commons Scotland project is to address
 the "ease of use" issue over open data.
-The contents of this repository are the result of us _re-working_ some of the existing ("source") open data
-so it is _easier_ to understand, consume, parse, and all in one place.
+The contents of this repository are the result of us _re-working_ some of the existing
+_source_ open data
+so that it is *easier* to understand, consume, parse, and all in one place.
 It may not be as detailed or have all the nuances as the source data - but aims to be
 better for the purposes of making the information accessible to non-experts.
 
@@ -21,9 +22,9 @@ We have processed the source data just enough to:
 
 * provide value-based cross-referencing between datasets
 * add a few fields whose values are generally useful but not easily derivable by a simple calculation (such as latitude & longitude)
-* make it available as simple CSV and JSON files.
+* make it available as simple CSV and JSON files in a Git repository.
 
-We have not augmented the data with derived values that can be simply calculated
+We have not augmented the data with derived values that can be simply calculated,
 such as per-population amounts, averages, trends, totals, etc.
 
 === The _easier_ datasets
@@ -32,8 +33,8 @@ such as per-population amounts, averages, trends, totals, etc.
 
 |=========================================================
 
-4+^h|_easier_ dataset footnote:sourcing[Each "_easier_ dataset" in this repository, is derived from "source data".]
-3+^h|source data footnote:sourcing[]
+4+^h|dataset ^(generated&nbsp;February&nbsp;2021)^
+3+^h|source data ^(sourced&nbsp;January&nbsp;2021)^
 
 1+<h| name
 1+<h| description
