@@ -14,7 +14,7 @@ One of the objectives of the Data Commons Scotland project is to address
 the "ease of use" issue over open data.
 The contents of this repository are the result of us _re-working_ some of the existing
 _source_ open data
-so that it is *_easier_* to understand, consume, parse, and all in one place.
+so that it is *_easier_* to use, understand, consume, parse, and all in one place.
 It may not be as detailed or have all the nuances as the source data - but aims to be
 better for the purposes of making the information accessible to non-experts.
 
@@ -65,6 +65,14 @@ such as per-population amounts, averages, trends, totals, etc.
 (The fuller, link:metadata/datasets.csv[CSV version of the table] above.)
 
 === The dimensions of the _easier_ datasets
+
+One of the things that makes these datasets _easier_ to use,
+is that they use consistent dimensions values/controlled code-lists.
+This makes it easier to join/link datasets.
+
+So we have tried to rectify the inconsistencies that occur in the source data
+(in particular, the inconsistent labelling of waste materials and regions).
+However, this is still "work-in-progress" and we yet to tease out & make consistent further useful dimensions.
 
 [width="100%",cols="7",options="header"]
 
