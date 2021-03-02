@@ -1,0 +1,289 @@
+region,year,population
+West Dunbartonshire,2013,89800
+West Dunbartonshire,2014,89710
+West Dunbartonshire,2019,88930
+West Dunbartonshire,2016,89860
+West Dunbartonshire,2017,89610
+West Dunbartonshire,2018,89130
+West Dunbartonshire,2011,90610
+West Dunbartonshire,2012,90340
+West Dunbartonshire,2015,89590
+West Lothian,2017,181310
+West Lothian,2014,177200
+West Lothian,2018,182140
+West Lothian,2012,176010
+West Lothian,2016,180130
+West Lothian,2019,183100
+West Lothian,2013,176160
+West Lothian,2015,178550
+West Lothian,2011,175300
+Clackmannanshire,2011,51500
+Clackmannanshire,2012,51280
+Clackmannanshire,2014,51190
+Clackmannanshire,2013,51280
+Clackmannanshire,2017,51450
+Clackmannanshire,2019,51540
+Clackmannanshire,2018,51400
+Clackmannanshire,2016,51350
+Clackmannanshire,2015,51360
+Dumfries and Galloway,2014,149960
+Dumfries and Galloway,2012,150840
+Dumfries and Galloway,2018,148790
+Dumfries and Galloway,2013,150280
+Dumfries and Galloway,2011,151410
+Dumfries and Galloway,2019,148860
+Dumfries and Galloway,2017,149200
+Dumfries and Galloway,2015,149670
+Dumfries and Galloway,2016,149520
+East Ayrshire,2015,122060
+East Ayrshire,2014,122130
+East Ayrshire,2019,122010
+East Ayrshire,2013,122430
+East Ayrshire,2017,121940
+East Ayrshire,2016,122200
+East Ayrshire,2018,121840
+East Ayrshire,2011,122690
+East Ayrshire,2012,122730
+East Lothian,2018,105790
+East Lothian,2017,104840
+East Lothian,2019,107090
+East Lothian,2011,99920
+East Lothian,2014,102090
+East Lothian,2013,101390
+East Lothian,2016,104090
+East Lothian,2015,103050
+East Lothian,2012,100860
+East Renfrewshire,2016,93810
+East Renfrewshire,2019,95530
+East Renfrewshire,2017,94760
+East Renfrewshire,2014,92410
+East Renfrewshire,2011,90810
+East Renfrewshire,2012,91040
+East Renfrewshire,2013,91530
+East Renfrewshire,2015,92940
+East Renfrewshire,2018,95170
+Outer Hebrides,2018,26830
+Outer Hebrides,2019,26720
+Outer Hebrides,2013,27400
+Outer Hebrides,2015,27070
+Outer Hebrides,2012,27560
+Outer Hebrides,2017,26950
+Outer Hebrides,2016,26900
+Outer Hebrides,2011,27690
+Outer Hebrides,2014,27250
+Falkirk,2016,159380
+Falkirk,2014,157690
+Falkirk,2015,158460
+Falkirk,2018,160340
+Falkirk,2017,160130
+Falkirk,2013,157160
+Falkirk,2011,156250
+Falkirk,2012,156800
+Falkirk,2019,160890
+Highland,2012,232890
+Highland,2018,235540
+Highland,2017,235180
+Highland,2011,232730
+Highland,2016,234770
+Highland,2013,232930
+Highland,2015,234110
+Highland,2019,235830
+Highland,2014,233080
+Inverclyde,2019,77800
+Inverclyde,2018,78150
+Inverclyde,2014,79890
+Inverclyde,2013,80340
+Inverclyde,2012,80690
+Inverclyde,2011,81220
+Inverclyde,2016,79160
+Inverclyde,2015,79500
+Inverclyde,2017,78760
+Midlothian,2014,86220
+Midlothian,2019,92460
+Midlothian,2012,84240
+Midlothian,2017,90090
+Midlothian,2013,84710
+Midlothian,2011,83450
+Midlothian,2015,87390
+Midlothian,2018,91340
+Midlothian,2016,88610
+Moray,2011,93470
+Moray,2017,95780
+Moray,2013,94360
+Moray,2015,95510
+Moray,2016,96070
+Moray,2018,95520
+Moray,2019,95820
+Moray,2012,92930
+Moray,2014,94770
+North Ayrshire,2017,135790
+North Ayrshire,2015,136130
+North Ayrshire,2016,135890
+North Ayrshire,2019,134740
+North Ayrshire,2011,138090
+North Ayrshire,2013,136940
+North Ayrshire,2018,135280
+North Ayrshire,2012,137570
+North Ayrshire,2014,136480
+Orkney Islands,2016,21850
+Orkney Islands,2017,22000
+Orkney Islands,2015,21670
+Orkney Islands,2013,21560
+Orkney Islands,2018,22190
+Orkney Islands,2019,22270
+Orkney Islands,2014,21580
+Orkney Islands,2011,21420
+Orkney Islands,2012,21530
+Scottish Borders,2012,113720
+Scottish Borders,2017,115020
+Scottish Borders,2013,113880
+Scottish Borders,2018,115270
+Scottish Borders,2019,115510
+Scottish Borders,2014,114040
+Scottish Borders,2015,114030
+Scottish Borders,2016,114530
+Scottish Borders,2011,113880
+Shetland Islands,2015,23200
+Shetland Islands,2018,22990
+Shetland Islands,2016,23200
+Shetland Islands,2013,23200
+Shetland Islands,2014,23220
+Shetland Islands,2017,23080
+Shetland Islands,2019,22920
+Shetland Islands,2011,23240
+Shetland Islands,2012,23210
+South Ayrshire,2016,112470
+South Ayrshire,2018,112550
+South Ayrshire,2011,112980
+South Ayrshire,2014,112530
+South Ayrshire,2012,112920
+South Ayrshire,2017,112680
+South Ayrshire,2015,112400
+South Ayrshire,2013,112870
+South Ayrshire,2019,112610
+South Lanarkshire,2018,319020
+South Lanarkshire,2011,313900
+South Lanarkshire,2017,318170
+South Lanarkshire,2019,320530
+South Lanarkshire,2014,315300
+South Lanarkshire,2013,314810
+South Lanarkshire,2015,316230
+South Lanarkshire,2012,314330
+South Lanarkshire,2016,317100
+Stirling,2019,94210
+Stirling,2017,94000
+Stirling,2014,91520
+Stirling,2018,94330
+Stirling,2013,91230
+Stirling,2011,90330
+Stirling,2015,92830
+Stirling,2016,93750
+Stirling,2012,91010
+Aberdeen City,2017,228800
+Aberdeen City,2014,228920
+Aberdeen City,2012,224910
+Aberdeen City,2011,222460
+Aberdeen City,2015,230350
+Aberdeen City,2013,227070
+Aberdeen City,2018,227560
+Aberdeen City,2016,229840
+Aberdeen City,2019,228670
+Aberdeenshire,2013,257770
+Aberdeenshire,2017,261800
+Aberdeenshire,2019,261210
+Aberdeenshire,2014,260530
+Aberdeenshire,2015,261960
+Aberdeenshire,2018,261470
+Aberdeenshire,2012,255560
+Aberdeenshire,2011,253650
+Aberdeenshire,2016,262190
+Argyll and Bute,2017,86810
+Argyll and Bute,2014,87650
+Argyll and Bute,2019,85870
+Argyll and Bute,2011,88930
+Argyll and Bute,2012,86910
+Argyll and Bute,2013,88050
+Argyll and Bute,2016,87130
+Argyll and Bute,2015,86890
+Argyll and Bute,2018,86260
+City of Edinburgh,2012,482630
+City of Edinburgh,2013,487460
+City of Edinburgh,2016,507170
+City of Edinburgh,2014,492610
+City of Edinburgh,2019,524930
+City of Edinburgh,2017,513210
+City of Edinburgh,2015,498810
+City of Edinburgh,2011,477940
+City of Edinburgh,2018,518500
+Renfrewshire,2018,177790
+Renfrewshire,2016,175930
+Renfrewshire,2017,176830
+Renfrewshire,2015,174560
+Renfrewshire,2012,174300
+Renfrewshire,2014,174230
+Renfrewshire,2013,173890
+Renfrewshire,2011,174700
+Renfrewshire,2019,179100
+Angus,2012,116220
+Angus,2011,116200
+Angus,2018,116040
+Angus,2016,116520
+Angus,2017,116280
+Angus,2014,116740
+Angus,2019,116200
+Angus,2015,116900
+Angus,2013,116290
+Dundee City,2019,149320
+Dundee City,2013,148100
+Dundee City,2017,148710
+Dundee City,2014,148130
+Dundee City,2015,148210
+Dundee City,2012,147780
+Dundee City,2016,148270
+Dundee City,2018,148750
+Dundee City,2011,147200
+East Dunbartonshire,2019,108640
+East Dunbartonshire,2013,105840
+East Dunbartonshire,2011,105000
+East Dunbartonshire,2016,107540
+East Dunbartonshire,2014,106710
+East Dunbartonshire,2017,108130
+East Dunbartonshire,2015,106960
+East Dunbartonshire,2012,105880
+East Dunbartonshire,2018,108330
+Fife,2014,367250
+Fife,2017,371410
+Fife,2015,368080
+Fife,2013,366900
+Fife,2011,365300
+Fife,2018,371910
+Fife,2012,366210
+Fife,2019,373550
+Fife,2016,370330
+Perth and Kinross,2012,147740
+Perth and Kinross,2017,151100
+Perth and Kinross,2018,151290
+Perth and Kinross,2015,149930
+Perth and Kinross,2011,146850
+Perth and Kinross,2014,148930
+Perth and Kinross,2016,150680
+Perth and Kinross,2019,151950
+Perth and Kinross,2013,147770
+Glasgow City,2016,615070
+Glasgow City,2012,595070
+Glasgow City,2019,633120
+Glasgow City,2015,606340
+Glasgow City,2017,621020
+Glasgow City,2011,593060
+Glasgow City,2013,596520
+Glasgow City,2014,599640
+Glasgow City,2018,626410
+North Lanarkshire,2019,341370
+North Lanarkshire,2016,339390
+North Lanarkshire,2015,338260
+North Lanarkshire,2012,337890
+North Lanarkshire,2018,340180
+North Lanarkshire,2014,338000
+North Lanarkshire,2017,339960
+North Lanarkshire,2013,337780
+North Lanarkshire,2011,337720
