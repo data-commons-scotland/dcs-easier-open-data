@@ -1,0 +1,289 @@
+region,year,tonnes
+Aberdeen City,2013,251386.54
+Aberdeen City,2015,254691.52
+Aberdeen City,2012,268300.04
+Aberdeen City,2014,252280.48
+Aberdeen City,2011,284570.52
+Aberdeen City,2017,198457.82
+Aberdeen City,2019,180260.08
+Aberdeen City,2016,253014.04
+Aberdeen City,2018,198520.35
+Aberdeenshire,2013,341201.65
+Aberdeenshire,2015,326703.78
+Aberdeenshire,2012,345963.64
+Aberdeenshire,2014,333131.32
+Aberdeenshire,2011,388382.66
+Aberdeenshire,2017,324744.27
+Aberdeenshire,2019,310946.56
+Aberdeenshire,2016,335342.56
+Aberdeenshire,2018,308147.54
+Angus,2013,122417.82
+Angus,2015,112960.94
+Angus,2012,142586.11
+Angus,2014,121945.49
+Angus,2011,136750.23
+Angus,2017,115851.3
+Angus,2019,100812.99
+Angus,2016,120934.7
+Angus,2018,112141.6
+Argyll and Bute,2013,125105.2
+Argyll and Bute,2015,132630.1
+Argyll and Bute,2012,131958.45
+Argyll and Bute,2014,134689.27
+Argyll and Bute,2011,127816.42
+Argyll and Bute,2017,126816.89
+Argyll and Bute,2019,117899.46
+Argyll and Bute,2016,137205.96
+Argyll and Bute,2018,119133.64
+City of Edinburgh,2013,480304.9
+City of Edinburgh,2015,467412.9
+City of Edinburgh,2012,475669.48
+City of Edinburgh,2014,472525.84
+City of Edinburgh,2011,503845.61
+City of Edinburgh,2017,506753.57
+City of Edinburgh,2019,471188.11
+City of Edinburgh,2016,472825.51
+City of Edinburgh,2018,492763.8
+Clackmannanshire,2013,56696.29
+Clackmannanshire,2015,56312.54
+Clackmannanshire,2012,57461.95
+Clackmannanshire,2014,59172.95
+Clackmannanshire,2011,70744.84
+Clackmannanshire,2017,55303.13
+Clackmannanshire,2019,53322.71
+Clackmannanshire,2016,54419.01
+Clackmannanshire,2018,53563.59
+Dumfries and Galloway,2013,217160.94
+Dumfries and Galloway,2015,208539.13
+Dumfries and Galloway,2012,225553.37
+Dumfries and Galloway,2014,220803.01
+Dumfries and Galloway,2011,234720.82
+Dumfries and Galloway,2017,219796.19
+Dumfries and Galloway,2019,209440.15
+Dumfries and Galloway,2016,224545.57
+Dumfries and Galloway,2018,226977.69
+Dundee City,2013,158108.71
+Dundee City,2015,163792.17
+Dundee City,2012,184805.97
+Dundee City,2014,155234.71
+Dundee City,2011,164637.27
+Dundee City,2017,155825.84
+Dundee City,2019,149839.01
+Dundee City,2016,167256.79
+Dundee City,2018,148309.77
+East Ayrshire,2013,132824.03
+East Ayrshire,2015,121631.44
+East Ayrshire,2012,141284.18
+East Ayrshire,2014,126942.99
+East Ayrshire,2011,145156.06
+East Ayrshire,2017,121302.64
+East Ayrshire,2019,119102.13
+East Ayrshire,2016,120485.29
+East Ayrshire,2018,118072.84
+East Dunbartonshire,2013,123559.6
+East Dunbartonshire,2015,123273.42
+East Dunbartonshire,2012,132093.41
+East Dunbartonshire,2014,118992.14
+East Dunbartonshire,2011,142264.46
+East Dunbartonshire,2017,130601.89
+East Dunbartonshire,2019,110997.62
+East Dunbartonshire,2016,124905.57
+East Dunbartonshire,2018,111395.22
+East Lothian,2013,119798.46
+East Lothian,2015,114026.36
+East Lothian,2012,120864.48
+East Lothian,2014,123525.7
+East Lothian,2011,129635.81
+East Lothian,2017,111917.93
+East Lothian,2019,106233.13
+East Lothian,2016,114931.49
+East Lothian,2018,110671.63
+East Renfrewshire,2013,96751.49
+East Renfrewshire,2015,101088.82
+East Renfrewshire,2012,105700.48
+East Renfrewshire,2014,102518.05
+East Renfrewshire,2011,119358.51
+East Renfrewshire,2017,95963.41
+East Renfrewshire,2019,94537.89
+East Renfrewshire,2016,101101.76
+East Renfrewshire,2018,89058.28
+Falkirk,2013,162901.14
+Falkirk,2015,153315.46
+Falkirk,2012,165811.33
+Falkirk,2014,157378.61
+Falkirk,2011,185439.3
+Falkirk,2017,149771.37
+Falkirk,2019,153945.99
+Falkirk,2016,156989.54
+Falkirk,2018,154934.88
+Fife,2013,375433.89
+Fife,2015,388929.56
+Fife,2012,417838.04
+Fife,2014,377693.23
+Fife,2011,451724.02
+Fife,2017,348827.72
+Fife,2019,387425.15
+Fife,2016,365825.68
+Fife,2018,339825.4
+Glasgow City,2013,686365.1
+Glasgow City,2015,673050.98
+Glasgow City,2012,694444.84
+Glasgow City,2014,676159.67
+Glasgow City,2011,762399.92
+Glasgow City,2017,678903.33
+Glasgow City,2019,744090.13
+Glasgow City,2016,661880.94
+Glasgow City,2018,733838.38
+Highland,2013,305552.54
+Highland,2015,318292.77
+Highland,2012,306425.53
+Highland,2014,310898.09
+Highland,2011,291326.33
+Highland,2017,320643.5
+Highland,2019,297897.89
+Highland,2016,320207.82
+Highland,2018,317170.82
+Inverclyde,2013,64746.68
+Inverclyde,2015,61110.81
+Inverclyde,2012,79931.03
+Inverclyde,2014,58606.22
+Inverclyde,2011,90533.69
+Inverclyde,2017,56822.31
+Inverclyde,2019,58005.69
+Inverclyde,2016,63347.84
+Inverclyde,2018,57547.07
+Midlothian,2013,98602.36
+Midlothian,2015,91430.84
+Midlothian,2012,97330.73
+Midlothian,2014,92297.35
+Midlothian,2011,96717.27
+Midlothian,2017,98178.29
+Midlothian,2019,91550.52
+Midlothian,2016,95307.07
+Midlothian,2018,91864.42
+Moray,2013,102058.16
+Moray,2015,96668.58
+Moray,2012,114010.24
+Moray,2014,103522.5
+Moray,2011,124198.66
+Moray,2017,97367.96
+Moray,2019,87796.45
+Moray,2016,96300.99
+Moray,2018,91647.15
+Outer Hebrides,2013,34572.49
+Outer Hebrides,2015,37069.39
+Outer Hebrides,2012,35935.2
+Outer Hebrides,2014,35446.52
+Outer Hebrides,2011,43513.87
+Outer Hebrides,2017,38582.28
+Outer Hebrides,2019,36484.5
+Outer Hebrides,2016,39072.9
+Outer Hebrides,2018,37890.75
+North Ayrshire,2013,137359.77
+North Ayrshire,2015,140643.98
+North Ayrshire,2012,149901.92
+North Ayrshire,2014,143032.56
+North Ayrshire,2011,171465.43
+North Ayrshire,2017,138758.23
+North Ayrshire,2019,132846.59
+North Ayrshire,2016,141122.42
+North Ayrshire,2018,141041.99
+North Lanarkshire,2013,386145.54
+North Lanarkshire,2015,397847.94
+North Lanarkshire,2012,414559.45
+North Lanarkshire,2014,371944.62
+North Lanarkshire,2011,457003
+North Lanarkshire,2017,409844.57
+North Lanarkshire,2019,361416.08
+North Lanarkshire,2016,408245.81
+North Lanarkshire,2018,353940.63
+Orkney Islands,2013,26862.84
+Orkney Islands,2015,24768.53
+Orkney Islands,2012,27670.19
+Orkney Islands,2014,27693.21
+Orkney Islands,2011,25775.77
+Orkney Islands,2017,29076.23
+Orkney Islands,2019,26999.1
+Orkney Islands,2016,28540.21
+Orkney Islands,2018,27128.41
+Perth and Kinross,2013,152753.85
+Perth and Kinross,2015,149343.42
+Perth and Kinross,2012,158973.36
+Perth and Kinross,2014,148627.33
+Perth and Kinross,2011,209244.94
+Perth and Kinross,2017,140920.45
+Perth and Kinross,2019,141893.38
+Perth and Kinross,2016,152218.54
+Perth and Kinross,2018,140218.46
+Renfrewshire,2013,199196.29
+Renfrewshire,2015,193119.42
+Renfrewshire,2012,220064.49
+Renfrewshire,2014,198096.61
+Renfrewshire,2011,223303.13
+Renfrewshire,2017,195416.85
+Renfrewshire,2019,180557.29
+Renfrewshire,2016,195744.18
+Renfrewshire,2018,189500.02
+Scottish Borders,2013,123108.71
+Scottish Borders,2015,128339.03
+Scottish Borders,2012,129555.48
+Scottish Borders,2014,128170.89
+Scottish Borders,2011,137640.54
+Scottish Borders,2017,134429.02
+Scottish Borders,2019,123165.54
+Scottish Borders,2016,131503.65
+Scottish Borders,2018,134118.08
+Shetland Islands,2013,32115.53
+Shetland Islands,2015,33650.45
+Shetland Islands,2012,33588
+Shetland Islands,2014,31736.02
+Shetland Islands,2011,34121.59
+Shetland Islands,2017,32006.96
+Shetland Islands,2019,29252.97
+Shetland Islands,2016,32751.92
+Shetland Islands,2018,31051.88
+South Ayrshire,2013,138627.12
+South Ayrshire,2015,121106.38
+South Ayrshire,2012,148640.41
+South Ayrshire,2014,122999.53
+South Ayrshire,2011,144066.27
+South Ayrshire,2017,126038.68
+South Ayrshire,2019,108979.57
+South Ayrshire,2016,125903.69
+South Ayrshire,2018,124757.37
+South Lanarkshire,2013,383544.11
+South Lanarkshire,2015,378978.55
+South Lanarkshire,2012,411207.75
+South Lanarkshire,2014,386558.81
+South Lanarkshire,2011,458874.01
+South Lanarkshire,2017,370202.38
+South Lanarkshire,2019,337047.59
+South Lanarkshire,2016,362831.68
+South Lanarkshire,2018,361194.97
+Stirling,2013,85611.83
+Stirling,2015,86960.25
+Stirling,2012,87139.73
+Stirling,2014,84830.61
+Stirling,2011,92590.99
+Stirling,2017,84555.53
+Stirling,2019,87065.36
+Stirling,2016,89509.29
+Stirling,2018,88160.01
+West Dunbartonshire,2013,90331.93
+West Dunbartonshire,2015,111118.72
+West Dunbartonshire,2012,103512.31
+West Dunbartonshire,2014,100894.32
+West Dunbartonshire,2011,119424.64
+West Dunbartonshire,2017,104711.52
+West Dunbartonshire,2019,95008.2
+West Dunbartonshire,2016,106830.85
+West Dunbartonshire,2018,102725.46
+West Lothian,2013,166657.69
+West Lothian,2015,168733.58
+West Lothian,2012,176200.54
+West Lothian,2014,168269.98
+West Lothian,2011,200493.37
+West Lothian,2017,145822.45
+West Lothian,2019,158981.85
+West Lothian,2016,170225.68
+West Lothian,2018,152060.99
