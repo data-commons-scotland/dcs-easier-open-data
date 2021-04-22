@@ -27,7 +27,7 @@ We have processed the source data just enough to:
 We have not augmented the data with derived values that can be simply calculated,
 such as per-population amounts, averages, trends, totals, etc.
 
-=== The 10 _easier_ datasets
+=== The 11 _easier_ datasets
 
 [width="100%",cols="<,<,<,>,<,<,<"]
 
@@ -55,6 +55,8 @@ such as per-population amounts, averages, trends, totals, etc.
 | anchor:waste-site[] waste-site | The locations, services & capacities of waste sites. | link:data/waste-site.csv[CSV] link:data/waste-site.json[JSON] | 1254 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
 | anchor:waste-site-io[] waste-site-io | The categorised quantities of waste going in and out of waste sites. | link:data/waste-site-io.csv[CSV] | 2667914 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
+
+| anchor:stirling-bin-collection[] stirling-bin-collection | The categorised quantities of the waste collected from household bins. | link:data/stirling-bin-collection.csv[CSV] link:data/stirling-bin-collection.json[JSON] | 127 | Stirling council | Stirling council^&nbsp;https://data.stirling.gov.uk/dataset/waste-management[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
 | anchor:material-coding[] material-coding | A mapping between the EWC codes and SEPA's materials classification (as used in these datasets). | link:data/material-coding.csv[CSV] link:data/material-coding.json[JSON] | 557 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
@@ -90,7 +92,7 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 | min value of dimension
 | max value of dimension
 
-.6+| region .6+| The name of a council area. | xref:household-waste[household-waste] | Falkirk | 32 |  | 
+.7+| region .7+| The name of a council area. | xref:household-waste[household-waste] | Falkirk | 32 |  | 
 
 | xref:household-co2e[household-co2e] | Aberdeen City | 32 |  | 
 
@@ -98,13 +100,15 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 | xref:waste-site[waste-site] | North Lanarkshire | 32 |  | 
 
+| xref:stirling-bin-collection[stirling-bin-collection] | Stirling | 1 |  | 
+
 | xref:households[households] | West Dunbartonshire | 32 |  | 
 
 | xref:population[population] | West Dunbartonshire | 32 |  | 
 
 .1+| business-sector .1+| The label representing the business/economic sector. | xref:business-waste-by-sector[business-waste-by-sector] | Manufacture of food and beverage products | 10 |  | 
 
-.8+| year .8+| The integer representation of a year. | xref:household-waste[household-waste] | 2011 | 9 | 2011 | 2019
+.9+| year .9+| The integer representation of a year. | xref:household-waste[household-waste] | 2011 | 9 | 2011 | 2019
 
 | xref:household-co2e[household-co2e] | 2013 | 9 | 2011 | 2019
 
@@ -116,11 +120,15 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 | xref:waste-site-io[waste-site-io] | 2013 | 14 | 2007 | 2020
 
+| xref:stirling-bin-collection[stirling-bin-collection] | 2018 | 4 | 2018 | 2021
+
 | xref:households[households] | 2011 | 9 | 2011 | 2019
 
 | xref:population[population] | 2013 | 9 | 2011 | 2019
 
-.1+| quarter .1+| The integer representation of the year's quarter. | xref:waste-site-io[waste-site-io] | 4 | 4 |  | 
+.2+| quarter .2+| The integer representation of the year's quarter. | xref:waste-site-io[waste-site-io] | 4 | 4 |  | 
+
+| xref:stirling-bin-collection[stirling-bin-collection] | 3 | 4 |  | 
 
 .1+| site-name .1+| The name of the waste site. | xref:waste-site[waste-site] | Bellshill H/care Waste Treatment & Transfer | 1246 |  | 
 
@@ -136,15 +144,21 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 .1+| io-direction .1+| The label indicating the direction of travel of the waste from the PoV of a waste site. | xref:waste-site-io[waste-site-io] | in | 2 |  | 
 
-.4+| material .4+| The name of a waste material in SEPA's classification. | xref:household-waste[household-waste] | Animal and mixed food waste | 22 |  | 
+.5+| material .5+| The name of a waste material in SEPA's classification. | xref:household-waste[household-waste] | Animal and mixed food waste | 22 |  | 
 
 | xref:business-waste-by-region[business-waste-by-region] | Spent solvents | 33 |  | 
 
 | xref:business-waste-by-sector[business-waste-by-sector] | Spent solvents | 33 |  | 
 
+| xref:stirling-bin-collection[stirling-bin-collection] | Vegetal wastes | 6 |  | 
+
 | xref:material-coding[material-coding] | Acid, alkaline or saline wastes | 34 |  | 
 
 .1+| management .1+| The label indicating how the waste was managed/processed (i.e. what its end-state was). | xref:household-waste[household-waste] | Other Diversion | 3 |  | 
+
+.1+| recycling? .1+| True if the waste was categorised as 'for recycling' when collected. | xref:stirling-bin-collection[stirling-bin-collection] | false | 2 |  | 
+
+.1+| missed-bin? .1+| True if the waste was in a missed bin. | xref:stirling-bin-collection[stirling-bin-collection] | false | 2 |  | 
 
 .3+| ewc-code .3+| The code from the European Waste Classification hierarchy. | xref:waste-site-io[waste-site-io] | 00 00 00 | 787 |  | 
 
@@ -154,7 +168,9 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 .1+| ewc-description .1+| The description from the European Waste Classification hierarchy. | xref:ewc-coding[ewc-coding] | WASTES RESULTING FROM EXPLORATION, MINING, QUARRYING, AND PHYSICAL AND CHEMICAL TREATMENT OF MINERALS | 774 |  | 
 
-.1+| operator .1+| The name of the waste site operator. | xref:waste-site[waste-site] | TRADEBE UK | 753 |  | 
+.2+| operator .2+| The name of the waste site operator. | xref:waste-site[waste-site] | TRADEBE UK | 753 |  | 
+
+| xref:waste-site-io[waste-site-io] | ABERDEENSHIRE COUNCIL | 1003 |  | 
 
 .1+| activities .1+| The waste processing activities supported by the waste site. | xref:waste-site[waste-site] | Other treatment | 50 |  | 
 
@@ -164,7 +180,7 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 .1+| households .1+| The households count as an integer. | xref:households[households] | 42962 |  | 9424 | 307161
 
-.5+| tonnes .5+| The waste related quantity as a decimal. | xref:household-waste[household-waste] | 0 |  | 0 | 183691
+.6+| tonnes .6+| The waste related quantity as a decimal. | xref:household-waste[household-waste] | 0 |  | 0 | 183691
 
 | xref:household-co2e[household-co2e] | 251386.54 |  | 24768.53 | 762399.92
 
@@ -173,6 +189,8 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 | xref:business-waste-by-sector[business-waste-by-sector] | 54 |  | 0 | 1039179
 
 | xref:waste-site-io[waste-site-io] | 0 |  | -8.56 | 2325652.83
+
+| xref:stirling-bin-collection[stirling-bin-collection] | 1.24 |  | 0.3 | 5447.70
 
 .1+| tonnes-input .1+| The quantity of incoming waste as a decimal. | xref:waste-site[waste-site] | 154.55 |  | 0 | 1476044
 

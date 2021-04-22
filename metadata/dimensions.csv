@@ -3,6 +3,7 @@ region,The name of a council area.,household-waste,Falkirk,32,,
 region,The name of a council area.,household-co2e,Aberdeen City,32,,
 region,The name of a council area.,business-waste-by-region,Falkirk,34,,
 region,The name of a council area.,waste-site,North Lanarkshire,32,,
+region,The name of a council area.,stirling-bin-collection,Stirling,1,,
 region,The name of a council area.,households,West Dunbartonshire,32,,
 region,The name of a council area.,population,West Dunbartonshire,32,,
 business-sector,The label representing the business/economic sector.,business-waste-by-sector,Manufacture of food and beverage products,10,,
@@ -12,9 +13,11 @@ year,The integer representation of a year.,business-waste-by-region,2011,8,2011,
 year,The integer representation of a year.,business-waste-by-sector,2011,8,2011,2018
 year,The integer representation of a year.,waste-site,2019,1,2019,2019
 year,The integer representation of a year.,waste-site-io,2013,14,2007,2020
+year,The integer representation of a year.,stirling-bin-collection,2018,4,2018,2021
 year,The integer representation of a year.,households,2011,9,2011,2019
 year,The integer representation of a year.,population,2013,9,2011,2019
 quarter,The integer representation of the year's quarter.,waste-site-io,4,4,,
+quarter,The integer representation of the year's quarter.,stirling-bin-collection,3,4,,
 site-name,The name of the waste site.,waste-site,Bellshill H/care Waste Treatment & Transfer,1246,,
 permit,The waste site operator's official permit or licence.,waste-site,PPC/A/1180708,1254,,
 permit,The waste site operator's official permit or licence.,waste-site-io,PPC/A/1000060,1401,,
@@ -25,13 +28,17 @@ io-direction,The label indicating the direction of travel of the waste from the 
 material,The name of a waste material in SEPA's classification.,household-waste,Animal and mixed food waste,22,,
 material,The name of a waste material in SEPA's classification.,business-waste-by-region,Spent solvents,33,,
 material,The name of a waste material in SEPA's classification.,business-waste-by-sector,Spent solvents,33,,
+material,The name of a waste material in SEPA's classification.,stirling-bin-collection,Vegetal wastes,6,,
 material,The name of a waste material in SEPA's classification.,material-coding,"Acid, alkaline or saline wastes",34,,
 management,The label indicating how the waste was managed/processed (i.e. what its end-state was).,household-waste,Other Diversion,3,,
+recycling?,True if the waste was categorised as 'for recycling' when collected.,stirling-bin-collection,false,2,,
+missed-bin?,True if the waste was in a missed bin.,stirling-bin-collection,false,2,,
 ewc-code,The code from the European Waste Classification hierarchy.,waste-site-io,00 00 00,787,,
 ewc-code,The code from the European Waste Classification hierarchy.,material-coding,11 01 06*,557,,
 ewc-code,The code from the European Waste Classification hierarchy.,ewc-coding,01,973,,
 ewc-description,The description from the European Waste Classification hierarchy.,ewc-coding,"WASTES RESULTING FROM EXPLORATION, MINING, QUARRYING, AND PHYSICAL AND CHEMICAL TREATMENT OF MINERALS",774,,
 operator,The name of the waste site operator.,waste-site,TRADEBE UK,753,,
+operator,The name of the waste site operator.,waste-site-io,ABERDEENSHIRE COUNCIL,1003,,
 activities,The waste processing activities supported by the waste site.,waste-site,Other treatment,50,,
 accepts,The kinds of clients/wastes accepted by the waste site.,waste-site,Other special,42,,
 population,The population count as an integer.,population,89800,,21420,633120
@@ -41,6 +48,7 @@ tonnes,The waste related quantity as a decimal.,household-co2e,251386.54,,24768.
 tonnes,The waste related quantity as a decimal.,business-waste-by-region,753,,0,486432
 tonnes,The waste related quantity as a decimal.,business-waste-by-sector,54,,0,1039179
 tonnes,The waste related quantity as a decimal.,waste-site-io,0,,-8.56,2325652.83
+tonnes,The waste related quantity as a decimal.,stirling-bin-collection,1.24,,0.3,5447.70
 tonnes-input,The quantity of incoming waste as a decimal.,waste-site,154.55,,0,1476044
 tonnes-treated-recovered,The quantity of waste treated or recovered as a decimal.,waste-site,133.04,,0,1476044
 tonnes-output,The quantity of outgoing waste as a decimal.,waste-site,152.8,,0,235354.51
