@@ -27,7 +27,7 @@ We have processed the source data just enough to:
 We have not augmented the data with derived values that can be simply calculated,
 such as per-population amounts, averages, trends, totals, etc.
 
-=== The 11 _easier_ datasets
+=== The 12 _easier_ datasets
 
 [width="100%",cols="<,<,<,>,<,<,<"]
 
@@ -61,6 +61,8 @@ such as per-population amounts, averages, trends, totals, etc.
 | anchor:material-coding[] material-coding | A mapping between the EWC codes and SEPA's materials classification (as used in these datasets). | link:data/material-coding.csv[CSV] link:data/material-coding.json[JSON] | 557 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
 | anchor:ewc-coding[] ewc-coding | EWC (European Waste Classification) codes and descriptions. | link:data/ewc-coding.csv[CSV] link:data/ewc-coding.json[JSON] | 973 | European Commission of the EU | Publications Office of the EU^&nbsp;https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02000D0532-20150601&from=EN#tocId7[URL]^ | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
+
+| anchor:co2e-multiplier[] co2e-multiplier | Per-material weight-multipliers to calaculate CO2e amounts. This data has been copied from section 6.2 of The Scottish Carbon Metric. | link:data/co2e-multiplier.csv[CSV] link:data/co2e-multiplier.json[JSON] | 37 | Zero Waste Scotland | Zero Waste Scotland^&nbsp;https://www.zerowastescotland.org.uk/sites/default/files/The%20Scottish%20Carbon%20Metric.pdf[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
 | anchor:households[] households | Occupied residential dwelling counts. Useful for calculating per-household amounts. | link:data/households.csv[CSV] link:data/households.json[JSON] | 288 | NRS | statistics.gov.scot^&nbsp;http://statistics.gov.scot/data/household-estimates[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
@@ -106,21 +108,21 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 | xref:population[population] | West Dunbartonshire | 32 |  | 
 
-.1+| business-sector .1+| The label representing the business/economic sector. | xref:business-waste-by-sector[business-waste-by-sector] | Manufacture of food and beverage products | 10 |  | 
+.1+| business-sector .1+| The label representing the business/economic sector. | xref:business-waste-by-sector[business-waste-by-sector] | Water industry | 10 |  | 
 
 .9+| year .9+| The integer representation of a year. | xref:household-waste[household-waste] | 2011 | 9 | 2011 | 2019
 
 | xref:household-co2e[household-co2e] | 2013 | 9 | 2011 | 2019
 
-| xref:business-waste-by-region[business-waste-by-region] | 2011 | 8 | 2011 | 2018
+| xref:business-waste-by-region[business-waste-by-region] | 2018 | 8 | 2011 | 2018
 
-| xref:business-waste-by-sector[business-waste-by-sector] | 2011 | 8 | 2011 | 2018
+| xref:business-waste-by-sector[business-waste-by-sector] | 2018 | 8 | 2011 | 2018
 
 | xref:waste-site[waste-site] | 2019 | 1 | 2019 | 2019
 
 | xref:waste-site-io[waste-site-io] | 2013 | 14 | 2007 | 2020
 
-| xref:stirling-bin-collection[stirling-bin-collection] | 2018 | 4 | 2018 | 2021
+| xref:stirling-bin-collection[stirling-bin-collection] | 2020 | 4 | 2018 | 2021
 
 | xref:households[households] | 2011 | 9 | 2011 | 2019
 
@@ -128,7 +130,7 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 .2+| quarter .2+| The integer representation of the year's quarter. | xref:waste-site-io[waste-site-io] | 4 | 4 |  | 
 
-| xref:stirling-bin-collection[stirling-bin-collection] | 3 | 4 |  | 
+| xref:stirling-bin-collection[stirling-bin-collection] | 2 | 4 |  | 
 
 .1+| site-name .1+| The name of the waste site. | xref:waste-site[waste-site] | Bellshill H/care Waste Treatment & Transfer | 1246 |  | 
 
@@ -150,7 +152,7 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 | xref:business-waste-by-sector[business-waste-by-sector] | Spent solvents | 33 |  | 
 
-| xref:stirling-bin-collection[stirling-bin-collection] | Vegetal wastes | 6 |  | 
+| xref:stirling-bin-collection[stirling-bin-collection] | Household and similar wastes | 6 |  | 
 
 | xref:material-coding[material-coding] | Acid, alkaline or saline wastes | 34 |  | 
 
@@ -158,7 +160,7 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 .1+| recycling? .1+| True if the waste was categorised as 'for recycling' when collected. | xref:stirling-bin-collection[stirling-bin-collection] | false | 2 |  | 
 
-.1+| missed-bin? .1+| True if the waste was in a missed bin. | xref:stirling-bin-collection[stirling-bin-collection] | false | 2 |  | 
+.1+| missed-bin? .1+| True if the waste was in a missed bin. | xref:stirling-bin-collection[stirling-bin-collection] | true | 2 |  | 
 
 .3+| ewc-code .3+| The code from the European Waste Classification hierarchy. | xref:waste-site-io[waste-site-io] | 00 00 00 | 787 |  | 
 
@@ -168,6 +170,8 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 .1+| ewc-description .1+| The description from the European Waste Classification hierarchy. | xref:ewc-coding[ewc-coding] | WASTES RESULTING FROM EXPLORATION, MINING, QUARRYING, AND PHYSICAL AND CHEMICAL TREATMENT OF MINERALS | 774 |  | 
 
+.1+| waste-stream .1+| The name of a waste stream in ZWS' classification. | xref:co2e-multiplier[co2e-multiplier] | Textiles | 37 |  | 
+
 .2+| operator .2+| The name of the waste site operator. | xref:waste-site[waste-site] | TRADEBE UK | 753 |  | 
 
 | xref:waste-site-io[waste-site-io] | ABERDEENSHIRE COUNCIL | 1003 |  | 
@@ -175,6 +179,8 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 .1+| activities .1+| The waste processing activities supported by the waste site. | xref:waste-site[waste-site] | Other treatment | 50 |  | 
 
 .1+| accepts .1+| The kinds of clients/wastes accepted by the waste site. | xref:waste-site[waste-site] | Other special | 42 |  | 
+
+.1+| multiplier .1+| The value to multiply a weight by to calculate the C02e amount. | xref:co2e-multiplier[co2e-multiplier] | 100.00 | 36 | 0.03 | 100.00
 
 .1+| population .1+| The population count as an integer. | xref:population[population] | 89800 |  | 21420 | 633120
 
@@ -184,13 +190,13 @@ However, this is still "work-in-progress" and we yet to tease out & make consist
 
 | xref:household-co2e[household-co2e] | 251386.54 |  | 24768.53 | 762399.92
 
-| xref:business-waste-by-region[business-waste-by-region] | 753 |  | 0 | 486432
+| xref:business-waste-by-region[business-waste-by-region] | 488 |  | 0 | 486432
 
-| xref:business-waste-by-sector[business-waste-by-sector] | 54 |  | 0 | 1039179
+| xref:business-waste-by-sector[business-waste-by-sector] | 6 |  | 0 | 1039179
 
 | xref:waste-site-io[waste-site-io] | 0 |  | -8.56 | 2325652.83
 
-| xref:stirling-bin-collection[stirling-bin-collection] | 1.24 |  | 0.3 | 5447.70
+| xref:stirling-bin-collection[stirling-bin-collection] | 60.42 |  | 0.3 | 5447.70
 
 .1+| tonnes-input .1+| The quantity of incoming waste as a decimal. | xref:waste-site[waste-site] | 154.55 |  | 0 | 1476044
 
