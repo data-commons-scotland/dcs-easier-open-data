@@ -53,7 +53,7 @@ Fife,2019,"Fife Council, Prestonhall Rd T/S, Cupar",WML/E/0020065,Not operationa
 Argyll and Bute,2019,"Glengorm LFS, Tobermory, Mull",WML/W/0020045,Not operational,56.62587897501543,-6.097241991281198,ARGYLL & BUTE COUNCIL,Civic amenity / Landfill (not operational) / Transfer station,Commercial / Household / Industrial,0,0,0
 Aberdeenshire,2019,"Howe of Byth, Cowbog, New Pitsligo",PPC/A/1038332,Not operational,57.602514650076344,-2.271516933310051,LOVIE (NEW PITSLIGO) LIMITED,Landfill (not operational) / Other treatment,Commercial / Household / Industrial / Inert / Other special / Special asbestos,0,0,0
 Argyll and Bute,2019,"Gartbreck LFS, Isle of Islay, Argyll",WML/W/0020049,Not operational,55.740359476029354,-6.318037771136814,ARGYLL & BUTE COUNCIL,Civic amenity / Landfill (not operational) / Transfer station,Commercial / Household / Industrial,0,0,0
-Fife,2019,"A G Watson Auto Salvage, Belleknowes",WML/E/0000259,Not operational,56.03965177491931,-3.399633785583329,USERVE LIMITED,Metal recycler,Commercial / Household / Industrial,0,0,0
+Fife,2019,"A G Watson Auto Salvage, Belleknowes",WML/E/0000259,Not operational,56.03965177491931,-3.3996337855833287,USERVE LIMITED,Metal recycler,Commercial / Household / Industrial,0,0,0
 West Lothian,2019,"2D Inchmuir Road, Whitehill Ind Est, Bathgate",WML/L/1155841,Not operational,55.88371348390693,-3.6255771340045997,ACROSS THE RAINBOW LIMITED,Pet crematoria,Household,0,0,0
 Clackmannanshire,2019,"HM Prison Glenochil, Tullibody",WML/L/1114931,Not operational,56.14245192807688,-3.8165166557219155,HM PRISON GLENOCHIL,Transfer station,Commercial,0,0,0
 Aberdeenshire,2019,Inverurie Paper Mills Landfill,WML/N/0020063,Not operational,57.26304405978294,-2.3649154462151656,INTERNATIONAL PAPER (UK) LTD,Landfill (not operational),Industrial,0,0,0
@@ -185,7 +185,7 @@ Dumfries and Galloway,2019,"Blacks Plantation Landfill, Whithorn",WML/W/0020024,
 Renfrewshire,2019,Linwood Transfer Station,WML/W/0000082,Not operational,55.85533783257079,-4.481846099550913,ENVA SCOTLAND LIMITED,Transfer station,Commercial / Household / Industrial,0,0,0
 Aberdeenshire,2019,"Bruce Plant Ltd, Badentoy Industrial Estate",WML/N/0020190,Not operational,57.06700680428846,-2.1610681119589525,BRUCE PLANT LTD,Landfill (not operational),Commercial / Household / Industrial,0,0,0
 South Lanarkshire,2019,"Douglas Valley Recycling , Ayr Road, Rigside",WML/L/1018871,Not operational,55.6016888438387,-3.7937102451841858,DOUGLAS VALLEY RECYCLING LTD,Transfer station,Industrial / Inert,0,0,0
-Fife,2019,"British Alcan Aluminium Plc, Fife",WML/E/0000261,Not operational,56.0727388658991,-3.212075068055858,BRITISH ALCAN ALUMINIUM PLC,Landfill (not operational),Industrial,0,0,0
+Fife,2019,"British Alcan Aluminium Plc, Fife",WML/E/0000261,Not operational,56.0727388658991,-3.2120750680558583,BRITISH ALCAN ALUMINIUM PLC,Landfill (not operational),Industrial,0,0,0
 Dundee City,2019,Scot Water - Dundee Area Office/Depot TS,WML/E/0120007,Not operational,56.49768870435029,-3.0215131909392223,SCOTTISH WATER,Transfer station,Industrial,0,0,0
 Glasgow City,2019,"110 Carntynehall Road, Carntyne, Glasgow",WML/L/1087235,Not operational,55.855779202804484,-4.177565711444188,VEHICLE DISMANTLERS CARNTYNE LIMITED,Metal recycler,Other special,0,0,0
 Highland,2019,"Nigg Oil Terminal, Tain",PPC/A/1012611,Not operational,57.70655578975581,-4.026305105435773,REPSOL SINOPEC RESOURCES UK LIMITED,Other treatment,Industrial / Other special,0,0,0
@@ -338,7 +338,7 @@ Angus,2019,"UK Waste Mgmt Ltd, Wellbank Quarry LF, Dundee",WML/E/0020114,Not ope
 Falkirk,2019,"Scottish Power TS, Glasgow Rd, Camelon",WML/E/0000046,Not operational,56.00727898168233,-3.8289038906663944,SP POWER SYSTEMS LTD,Transfer station,Industrial,0,0,0
 East Dunbartonshire,2019,"Gartshore No 1 Colliery, Twechar",WML/W/0000060,Not operational,55.9659782355769,-4.06141426238645,KELVIN TANK SERVICES LTD,Landfill (not operational),Commercial,0,0,0
 West Lothian,2019,"K & A Car Breakers, Albyn Industrial Estate",WML/E/0000064,Not operational,55.94322674753011,-3.4628193885932155,K & A CAR BREAKERS,Metal recycler,Commercial,0,0,0
-Angus,2019,"Kelbie Metals MR/ELV, Wardmill Road, Arbroath",WML/E/0000209,Not operational,56.56461845056946,-2.585411167775228,FRANK KELBIE,Metal recycler,Commercial / Household / Industrial,0,0,0
+Angus,2019,"Kelbie Metals MR/ELV, Wardmill Road, Arbroath",WML/E/0000209,Not operational,56.56461845056946,-2.5854111677752276,FRANK KELBIE,Metal recycler,Commercial / Household / Industrial,0,0,0
 North Lanarkshire,2019,"McWilliam Contrts TS,Hollandhurst Rd,Coatbrdg",WML/W/0000181,Not operational,55.87246494154468,-4.033978450751619,MACWILLIAM PLANT LTD,Transfer station,Commercial,0,0,0
 Aberdeenshire,2019,"23 Denmark Street, Fraserburgh",WML/N/0020136,Not operational,57.695640111771404,-2.007986026264897,JOHN WILLIAMSON (1988),Transfer station,Commercial / Household / Other special,0,0,0
 Dundee City,2019,"ASPECT LLP Perrie St, Dundee",WML/E/0120025,Not operational,56.47288044936031,-3.017015312937256,ASPECTS CONTRACTS,Transfer station,Household / Special asbestos,0,0,0
@@ -383,7 +383,7 @@ Highland,2019,"HC Melvich LFS, Melvich, Sutherland",WML/N/0050060,Not operationa
 South Lanarkshire,2019,"Blyth Bros ELV, Whiteshaw Foundry, Carluke",WML/W/0000154,Not operational,55.73825034698555,-3.857783455697041,BLYTH BROTHERS & CO,Metal recycler,Commercial / Household / Industrial,0,0,0
 Outer Hebrides,2019,"Arnish Point Waste Transfer Station, Lewis",WML/L/1109240,Not operational,58.18666928693764,-6.378278605138707,HIGHLANDS & ISLANDS ENTERPRISE,Transfer station,Industrial,0,0,0
 Aberdeenshire,2019,"Lower Tyacksnook, Lonmay, Fraserburgh",WML/N/0020123,Not operational,57.62592602025507,-1.9437025787760676,OOSTERHOF & CO,Landfill (not operational),Industrial / Inert,0,0,0
-Highland,2019,"Kishorn Port Ltd, Kishorn Base/Yard, Kishorn",WML/L/1175043,Not operational,57.39416976826522,-5.639080170576592,KISHORN PORT LIMITED,Other treatment,Commercial,0,0,0
+Highland,2019,"Kishorn Port Ltd, Kishorn Base/Yard, Kishorn",WML/L/1175043,Not operational,57.39416976826522,-5.63908017057659,KISHORN PORT LIMITED,Other treatment,Commercial,0,0,0
 South Lanarkshire,2019,"Auchentibber Landfill, East Kilbride",WML/W/0000132,Not operational,55.75754227046253,-4.11441579639085,PRIVATE CONTACT,Landfill (not operational),Commercial / Industrial,0,0,0
 Angus,2019,"J R Morgan,Anniston Brickworks LF,Inverkeilor",WML/E/0000221,Not operational,56.62380655586264,-2.5471272097731332,W J & R MORGAN,Landfill (not operational),Household,0,0,0
 Dundee City,2019,"Healthcare Environmental Services, Dundee",PPC/A/1033633,Not operational,56.475396964844656,-3.0557088997679167,HEALTHCARE ENVIRONMENTAL SERVICES LTD,Other treatment,Commercial / Household / Industrial / Other special,0,0,0
@@ -743,7 +743,7 @@ Glasgow City,2019,"Nuneaton Street, Dalmarnock, Glasgow",WML/W/0022042,Operation
 Renfrewshire,2019,"WEEE Solutions,Unit 3, Linwood Trading Estate",WML/L/1083066,Operational,55.83987814173655,-4.489774705366874,WEEE SOLUTIONS LIMITED,Other treatment,Commercial / Household / Other special,4236.21,4236.44,4141.45
 South Lanarkshire,2019,"SLC, 18 Forrest St, Blantyre",WML/L/1103592,Operational,55.79212109858479,-4.077473626277689,SOUTH LANARKSHIRE COUNCIL,Transfer station,Commercial,1530.08,0,1530.08
 Highland,2019,"HC RC & TS, Lairg Station, Sutherland",WML/N/0050046,Operational,58.00492564098465,-4.3941657165519326,THE HIGHLAND COUNCIL,Civic amenity / Transfer station,Household / Industrial,341.29,0,283.85
-Fife,2019,"RWE Markinch Limited, Glenrothes",PPC/A/1096556,Operational,56.201619729282115,-3.1606331446762073,RWE MARKINCH LIMITED,Co-incineration,Commercial / Industrial,320721.06,0,15159.69
+Fife,2019,"RWE Markinch Limited, Glenrothes",PPC/A/1096556,Operational,56.201619729282115,-3.1606331446762077,RWE MARKINCH LIMITED,Co-incineration,Commercial / Industrial,320721.06,0,15159.69
 Fife,2019,Envirokleen Unit Kirkcaldy,WML/L/1034793,Operational,56.131949922400935,-3.1226816673812356,ENVIRO KLEEN (SCOTLAND) LIMITED,Transfer station,Commercial,6611.5,2185.5,7474.98
 Falkirk,2019,"Unit 5 Redding Industrial Estate, Redding",WML/L/1098861,Operational,55.98428692322563,-3.739642960231788,DAVID JONES,Transfer station,Commercial / Household / Industrial,2664.64,2664.64,1893.04
 Dumfries and Galloway,2019,"Mosspark Waste Transfer Station, Dumfries",WML/L/1090370,Operational,55.06417514171441,-3.559127542157667,OAKBANK WASTE MANAGEMENT LIMITED,Transfer station,Commercial / Household / Industrial / Other special,54367.5,54797.05,26150.07
@@ -827,7 +827,7 @@ Stirling,2019," Polmaise WMF, Fallin, Stirling",WML/E/0220285,Operational,56.116
 Highland,2019,"Duisky Landfill Site, Fort William (Site 5)",PPC/N/0050031,Operational,56.84086869046492,-5.278024745000017,LOCHIEL LOGISTICS LTD,Composting / Landfill / Other treatment / Transfer station,Commercial / Household / Industrial / Special asbestos,29120.52,25769.65,3255
 North Ayrshire,2019,"Tes-Amm (Europe) Ltd Drummond Cresent, Irvine",WML/W/0020183,Operational,55.59902353009698,-4.644123185473258,TES-AMM (EUROPE) LTD,Other treatment,Commercial / Household / Other special,4171.84,0,3058.27
 Glasgow City,2019,"Unit 1B,179 Drakemire Drive, Glasgow",WML/L/1150331,Operational,55.803905279787266,-4.24808022911361,CALEDONIA RECYCLING LIMITED,Transfer station,Industrial,6788.45,0,6796
-Moray,2019,"Mulben Garage ELV/MR, Keith",WML/N/0020109,Operational,57.539126664979,-3.0730474359754165,MULBEN GARAGE,Metal recycler,Commercial / Household / Industrial,2,2,8.81
+Moray,2019,"Mulben Garage ELV/MR, Keith",WML/N/0020109,Operational,57.539126664979,-3.0730474359754174,MULBEN GARAGE,Metal recycler,Commercial / Household / Industrial,2,2,8.81
 South Lanarkshire,2019,"GCC, Cathkin L/F, Cairnmuir Rd, East Kilbride",PPC/W/0020063,Operational,55.791488283098005,-4.193567433678191,GLASGOW CITY COUNCIL,Landfill,Commercial / Household / Inert,0,0,40.5
 Highland,2019,"Kingussie Metals, The Yard, Manse Rd",WML/N/0020104,Operational,57.07995178028551,-4.0420611714518975,THOMAS NOLAN,Metal recycler / Transfer station,Commercial / Household / Industrial,221.25,14,214.25
 Highland,2019,"HC RC Bonar Bridge CAS, Bonar Bridge",WML/N/0050045,Operational,57.90492175187532,-4.35786479481798,THE HIGHLAND COUNCIL,Civic amenity,Household,457.84,0,457.84
@@ -919,7 +919,7 @@ Angus,2019,"Angus Council, Forfar Recycling Centre",WML/E/0020030,Operational,56
 Angus,2019,"Henderson Motors ELV, Inveraldie Farm, Dundee",WML/E/0220192,Operational,56.51756258184002,-2.9469204817807997,HENDERSON MOTORS,Metal recycler,Commercial / Household / Industrial,7.98,13.94,10.16
 West Dunbartonshire,2019,"Barr Environ, Auchencarroch L/F, Jamestown",PPC/W/0020026,Operational,56.000425866207834,-4.548955349192072,BARR ENVIRONMENTAL LIMITED,Composting / Landfill / Transfer station,Commercial / Household / Industrial / Inert / Special asbestos,184080.66,170425.52,15120.4
 South Lanarkshire,2019,"Carscallan Farm Landfill, Quarter, Hamilton",PPC/A/1098705,Operational,55.74855279049535,-4.035731410670505,RAEBURN BRICK LIMITED,Landfill,Inert,124491.38,0,0
-Perth and Kinross,2019,"SITA, Binn Landfill, Binn Farm, Glenfarg",PPC/E/0020056,Operational,56.310154756731315,-3.3319909717195855,SUEZ RECYCLING & RECOVERY UK LTD,Landfill,Commercial / Household / Industrial / Special asbestos,16428.87,0,8760.86
+Perth and Kinross,2019,"SITA, Binn Landfill, Binn Farm, Glenfarg",PPC/E/0020056,Operational,56.310154756731315,-3.3319909717195846,SUEZ RECYCLING & RECOVERY UK LTD,Landfill,Commercial / Household / Industrial / Special asbestos,16428.87,0,8760.86
 Dumfries and Galloway,2019,"Auto Salvage, Knowehead Quarry, Locharbriggs",WML/W/0000212,Operational,55.1161205061234,-3.5860997738839933,ROBERT GORDON (JNR),Metal recycler,Commercial / Household / Industrial / Other special,676,676,750.4
 Dumfries and Galloway,2019,"DA Autoparts, St Mary's Ind Est, Dumfries",WML/W/0000204,Operational,55.0761623155098,-3.6022991088058625,D A AUTOPARTS,Metal recycler,Commercial / Household / Other special,91.25,0,91.25
 Highland,2019,"ILM Highland, Teaninich Ind Est, Alness",WML/L/1018845,Operational,57.69206872601856,-4.268414457935444,ILM HIGHLAND,Other treatment,Other special,2438,126.3,2351
@@ -985,7 +985,7 @@ North Lanarkshire,2019,"J S Motors ELV, Station Road, Muirhead",WML/W/0220055,Op
 Aberdeenshire,2019,"David Fraser, Scrap Dealer ELV, Huntly",WML/N/0020100,Operational,57.44519625533768,-2.7982639633151174,PRIVATE CONTACT,Metal recycler,Commercial / Household / Industrial,190,190.99,169.72
 Dumfries and Galloway,2019,"DA Autoparts, Commerce Rd, Stranraer",WML/W/0220125,Operational,54.89524046752212,-5.017177589484446,D A AUTOPARTS LTD,Metal recycler,Commercial / Household / Other special,1336.99,1336.99,1365.02
 Fife,2019,"Former Randolph Colliery, Kirkcaldy",WML/L/1168963,Operational,56.150658903832664,-3.1227119533987167,JJ LAND PURCHASES LTD,Transfer station,Industrial,0,0,21790.92
-South Lanarkshire,2019,"Waterbank Farm, Westerfield Road, Carmunnock",WML/L/1027841,Operational,55.778989641669824,-4.230775645131874,BEDROCK PLANT HIRE LTD.,Transfer station,Commercial,1587,1471,116
+South Lanarkshire,2019,"Waterbank Farm, Westerfield Road, Carmunnock",WML/L/1027841,Operational,55.778989641669824,-4.230775645131873,BEDROCK PLANT HIRE LTD.,Transfer station,Commercial,1587,1471,116
 Highland,2019,"MSIS, Admiralty Base, Shore Road, Invergordon",PPC/A/1016853,Operational,57.688047077676245,-4.164031125301898,M S INDUSTRIAL SERVICES LTD,Other treatment,Commercial / Household / Industrial / Other special,9892.69,7092.8,2574.86
 Highland,2019,"Nairn Pet Crem, Grigor Hill Ind Est, Nairn",WML/N/0220157,Operational,57.577621089250435,-3.8492850209272333,NAIRN PET CREMATORIUM,Pet crematoria,Other special,9.67,0,0.29
 North Lanarkshire,2019,"Strathclyde Alloys MR, Orbiston St, Motherwe",WML/W/0000276,Operational,55.78374992352111,-3.974611771792827,STRATHCLYDE ALLOYS PROCESSES,Metal recycler,Commercial,218.9,0,430.2
@@ -1084,11 +1084,11 @@ Midlothian,2019,"Viridor, Edinburgh Transfer Station",WML/L/1099347,Operational,
 Aberdeen City,2019,"John Lawrie Metals) Ltd, East Tullos, Aberdee",WML/N/0020154,Operational,57.12700083175123,-2.078913148844314,JOHN LAWRIE METALS LIMITED,Transfer station,Commercial / Household / Industrial,69546.83,69054.4,78783.18
 City of Edinburgh,2019,"Braehead Quarry, Craigs Road, Edinburgh",WML/E/0220228,Operational,55.9506935832896,-3.323850480859966,FORTH RESOURCE MANAGEMENT LIMITED,Composting,Commercial / Household,24612.76,12993.33,12777.53
 Aberdeen City,2019,"ASCO UK Limited, Hillview WTS, Tullos",PPC/A/1016775,Operational,57.12460650301742,-2.085845756713654,ASCO UK LIMITED,Other treatment / Transfer station,Commercial / Household / Industrial / Other special,0,0,284.2
-Fife,2019,"COPART UK, Belleknowes Ind Est",WML/L/1039077,Operational,56.03965177491931,-3.399633785583329,USERVE LIMITED,Metal recycler,Commercial / Household / Industrial,7681.57,8321.56,11760
+Fife,2019,"COPART UK, Belleknowes Ind Est",WML/L/1039077,Operational,56.03965177491931,-3.3996337855833287,USERVE LIMITED,Metal recycler,Commercial / Household / Industrial,7681.57,8321.56,11760
 North Lanarkshire,2019,"Dalton Demolitions MR, Atlas Works, Airdrie",WML/W/0000176,Operational,55.86552067528318,-3.9618010379129602,DALTONS DEMOLITIONS LTD,Metal recycler,Commercial / Household / Industrial / Special asbestos,7954.16,7954.16,7516.72
 Aberdeenshire,2019,"Wester Hatton L/F Site, Balmedie, Aberdeen",PPC/N/0020001,Operational,57.229070331021205,-2.0760333190683093,WRG WASTE SERVICES LIMITED,Landfill (not operational),Commercial / Household / Industrial,0,0,3449.9
 Midlothian,2019,"Lothian Auto Salvage, Engine Road, Loanhead",WML/E/0000096,Operational,55.879158790199426,-3.1445986576802536,LOTHIAN AUTO SALVAGE,Metal recycler / Transfer station,Commercial / Household / Industrial / Other special,112.5,115.5,466.88
-Dumfries and Galloway,2019,"Shawhill Station Yard, Scotts Street, Annan",WML/L/1041678,Operational,54.985930640946684,-3.2493787945861765,JOHN WALKER & SON,Metal recycler,Commercial / Household / Industrial,3309.3,3309.3,3658.84
+Dumfries and Galloway,2019,"Shawhill Station Yard, Scotts Street, Annan",WML/L/1041678,Operational,54.985930640946684,-3.249378794586176,JOHN WALKER & SON,Metal recycler,Commercial / Household / Industrial,3309.3,3309.3,3658.84
 Midlothian,2019,"RM Scally, 13 Robertson Bank, Gorebridge",WML/E/0000089,Operational,55.838573757475466,-3.042651018468722,RONALD M SCALLY,Metal recycler,Commercial / Household / Industrial,20.5,0,50.8
 Falkirk,2019,"David Morton(Larbert)Ltd, Glen Works, Falkirk",WML/E/0000029,Operational,55.982330551491124,-3.7834639746472285,DAVID MORTON (LARBERT) LIMITED,Metal recycler,Commercial / Industrial,310,290,275
 Scottish Borders,2019,"Site 3, Charlesfield Ind Est, St Boswells",WML/E/0220045,Operational,55.558968374417944,-2.6530882019145263,D A AUTOPARTS LTD,Metal recycler,Commercial / Household / Industrial,345.2,345.2,0
@@ -1187,7 +1187,7 @@ Orkney Islands,2019,"Big Breck Quarry, Twatt, Orkney",WML/L/1018864,Operational,
 Highland,2019,"HC Durness Recycling Center CA Site, Durness",WML/N/0050056,Operational,58.56704490492179,-4.726329796278432,THE HIGHLAND COUNCIL,Civic amenity,Household,446.32,0,446.32
 Perth and Kinross,2019,"Co-An TS, Welton Road Ind Est, Blairgowrie",WML/E/0020124,Operational,56.58845140926428,-3.3337519908243833,CO-AN,Transfer station,Industrial,145.63,0,145.63
 West Lothian,2019,"Campbell Auto Salvage, Colinshiel Road",WML/E/0000043,Operational,55.90484419701814,-3.67968855906814,CAMPBELL AUTO SALVAGE,Metal recycler,Commercial / Household,579.75,1101.8,35.39
-Glasgow City,2019,"SP Distribution Depot, Cambuslang",WML/L/1162616,Operational,55.8328456474723,-4.168138384226833,SP DISTRIBUTION PLC,Transfer station,Commercial,768.39,0,768.39
+Glasgow City,2019,"SP Distribution Depot, Cambuslang",WML/L/1162616,Operational,55.8328456474723,-4.168138384226834,SP DISTRIBUTION PLC,Transfer station,Commercial,768.39,0,768.39
 East Dunbartonshire,2019,"Centurion Works, Balmuildy Rd, Bishopbriggs",WML/W/0022032,Operational,55.917233108830004,-4.258846706729769,HUNTER ENVIRO LIMITED,Transfer station,Commercial,1471.84,1411.3,1758.94
 Angus,2019,"Tayside Contrcts,Kirriemuir Rd Eco TP  Forfar",WML/E/0020207,Operational,56.65426762698636,-2.8982084102609336,TAYSIDE CONTRACTS,Other treatment,Household,770,770,770
 Aberdeenshire,2019,"Rosehall Farm, Newmachar, Aberdeen",PPC/A/1021025,Operational,57.23781514920947,-2.1789278021677183,ANNE CHARLES,Pet cemetery,Household,0.06,0,0

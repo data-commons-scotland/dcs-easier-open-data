@@ -56,7 +56,7 @@ such as per-population amounts, averages, trends, totals, etc.
 
 | anchor:waste-site-io[] waste-site-io | The categorised quantities of waste going in and out of waste sites. | link:data/waste-site-io.csv[CSV] | 2667914 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| anchor:stirling-bin-collection[] stirling-bin-collection | The categorised quantities of the waste collected from household bins. | link:data/stirling-bin-collection.csv[CSV] link:data/stirling-bin-collection.json[JSON] | 127 | Stirling council | Stirling council^&nbsp;https://data.stirling.gov.uk/dataset/waste-management[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
+| anchor:stirling-bin-collection[] stirling-bin-collection | The categorised quantities of the waste collected from household bins. | link:data/stirling-bin-collection.csv[CSV] link:data/stirling-bin-collection.json[JSON] | 136 | Stirling council | Stirling council^&nbsp;https://data.stirling.gov.uk/dataset/waste-management[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
 | anchor:material-coding[] material-coding | A mapping between the EWC codes and SEPA's materials classification (as used in these datasets). | link:data/material-coding.csv[CSV] link:data/material-coding.json[JSON] | 557 | SEPA | SEPA^&nbsp;https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[URL]^ | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
