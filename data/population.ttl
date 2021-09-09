@@ -1,0 +1,1728 @@
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 138090;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 147200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 90610;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 105000;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51500;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 174700;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 253650;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 27690;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2011> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    93470;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 88930;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 313900;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2011> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 477940;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 21420;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 113880;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2011> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    232730;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112980;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2011> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    81220;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 99920;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2011> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    90330;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 337720;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 593060;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 146850;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2011> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    365300;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 122690;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 222460;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 175300;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 90810;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2011> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    83450;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2011> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    156250;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 151410;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 23240;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51280;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2012> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    84240;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 23210;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 27560;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112920;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 113720;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2012> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    92930;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 482630;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 174300;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 255560;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2012> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116220;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 122730;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 91040;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 86910;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 137570;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2012> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    156800;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 147740;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 150840;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2012> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    366210;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2012> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    80690;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 595070;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2012> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    91010;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 337890;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 314330;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 100860;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2012> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    232890;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 147780;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 176010;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 21530;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 224910;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 105880;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 90340;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 227070;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2013> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    84710;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148100;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 487460;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2013> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116290;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 27400;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 91530;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2013> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    91230;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2013> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    157160;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 147770;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2013> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    366900;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 596520;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 337780;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112870;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 136940;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 173890;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 105840;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2013> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    94360;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2013> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    232930;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 101390;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 88050;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 21560;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 150280;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51280;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 176160;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 257770;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 314810;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2013> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    80340;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 113880;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 89800;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 23200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 122430;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 122130;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 87650;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 114040;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 106710;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 492610;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2014> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    91520;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2014> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    94770;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2014> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    233080;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 92410;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 136480;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 228920;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 27250;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 23220;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112530;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2014> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116740;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51190;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 102090;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2014> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    86220;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2014> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    157690;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 260530;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148930;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2014> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    367250;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 599640;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 338000;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 174230;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 177200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2014> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    79890;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 315300;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148130;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 21580;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 89710;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 149960;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 103050;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148210;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2015> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    95510;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 89590;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 498810;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 178550;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51360;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 21670;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 606340;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2015> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    234110;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 92940;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 149670;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112400;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 122060;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 338260;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 27070;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 86890;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 114030;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2015> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    92830;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 149930;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2015> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    368080;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 136130;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2015> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    87390;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2015> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    158460;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 230350;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2015> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    79500;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 23200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 261960;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2015> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116900;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 316230;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 106960;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 174560;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 107540;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 150680;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2016> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    370330;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 180130;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 89860;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148270;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2016> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116520;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 122200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 104090;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51350;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 149520;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2016> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    159380;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2016> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    234770;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 93810;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 26900;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 114530;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 21850;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112470;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 23200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2016> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    88610;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2016> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    79160;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 135890;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2016> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    96070;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 87130;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 262190;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 175930;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 507170;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2016> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    93750;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 317100;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 229840;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 615070;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 339390;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 176830;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 115020;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 22000;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112680;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 23080;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2017> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    95780;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2017> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    90090;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 135790;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 26950;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 151100;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2017> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    371410;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 621020;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 339960;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2017> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    94000;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 318170;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 181310;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 89610;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 513210;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 86810;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 149200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51450;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 228800;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2017> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116280;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 261800;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2017> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    160130;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 94760;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2017> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    78760;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2017> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    235180;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 121940;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148710;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 104840;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 108130;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 518500;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 177790;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 86260;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 182140;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 89130;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2018> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    94330;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 319020;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 261470;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 227560;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 626410;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 151290;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 340180;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148750;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2018> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116040;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2018> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    371910;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 108330;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 26830;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 95170;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2018> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    235540;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2018> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    160340;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148790;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51400;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 105790;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 121840;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 115270;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 22190;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112550;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 22990;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2018> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    91340;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2018> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    78150;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 135280;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2018> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    95520;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Ayrshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 134740;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/North%20Lanarkshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 341370;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Outer%20Hebrides/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 26720;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Perth%20and%20Kinross/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 151950;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Orkney%20Islands/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 22270;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Inverclyde/2019> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    77800;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Highland/2019> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    235830;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Moray/2019> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    95820;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Midlothian/2019> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    92460;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Stirling/2019> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    94210;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Lanarkshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 320530;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Lothian/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 183100;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/West%20Dunbartonshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 88930;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Scottish%20Borders/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 115510;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Renfrewshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 179100;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/South%20Ayrshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 112610;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Shetland%20Islands/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 22920;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/City%20of%20Edinburgh/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 524930;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Argyll%20and%20Bute/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 85870;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dumfries%20and%20Galloway/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 148860;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Clackmannanshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 51540;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeen%20City/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 228670;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Angus/2019> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    116200;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Aberdeenshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 261210;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Falkirk/2019> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    160890;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Renfrewshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 95530;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Glasgow%20City/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 633120;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Fife/2019> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    373550;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Ayrshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 122010;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/Dundee%20City/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 149320;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Lothian/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 107090;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/population/East%20Dunbartonshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 108640;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/population>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .

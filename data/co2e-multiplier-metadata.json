@@ -1,0 +1,24 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "co2e-multiplier.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "material",
+      "titles": "material",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterial"
+    }, {
+      "name": "multiplier",
+      "titles": "multiplier",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMultiplier"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier"
+    }],
+    "primaryKey": "material",
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/{material}"
+  }
+}

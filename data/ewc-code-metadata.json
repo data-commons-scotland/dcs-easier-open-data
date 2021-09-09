@@ -1,0 +1,36 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "ewc-code.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "ewcCode",
+      "titles": "ewc-code",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCode"
+    }, {
+      "name": "ewcDescription",
+      "titles": "ewc-description",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasDescription"
+    }, {
+      "name": "sepaMaterial",
+      "titles": "material",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterial",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/sepa-material/{sepaMaterial}"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/ewc-code"
+    }],
+    "primaryKey": "ewcCode",
+    "foreignKeys": [{
+      "columnReference": "sepaMaterial",
+      "reference": {
+        "resource": "sepa-material.csv",
+        "columnReference": "material"
+      }
+    }],
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/ewc-code/{ewcCode}"
+  }
+}

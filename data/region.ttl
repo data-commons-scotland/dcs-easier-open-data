@@ -1,0 +1,148 @@
+
+<http://wastemattersscotland.org/linked-data/entity/region/Falkirk> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Falkirk" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "South Ayrshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Aberdeenshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Aberdeen City";
+  <http://wastemattersscotland.org/linked-data/property/hasScotGovUri> <http://statistics.gov.scot/id/statistical-geography/S12000033>;
+  <http://wastemattersscotland.org/linked-data/property/hasWikidataUri> <http://www.wikidata.org/entity/Q62274582> .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Renfrewshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Glasgow City" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Orkney Islands" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "East Renfrewshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "City of Edinburgh";
+  <http://wastemattersscotland.org/linked-data/property/hasScotGovUri> <http://statistics.gov.scot/id/statistical-geography/S12000036>;
+  <http://wastemattersscotland.org/linked-data/property/hasWikidataUri> <http://www.wikidata.org/entity/Q2379199> .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Fife> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Fife";
+  <http://wastemattersscotland.org/linked-data/property/hasScotGovUri> <http://statistics.gov.scot/id/statistical-geography/S12000047>;
+  <http://wastemattersscotland.org/linked-data/property/hasWikidataUri> <http://www.wikidata.org/entity/Q201149> .
+
+<http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "East Dunbartonshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "North Ayrshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Offshore> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Offshore" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "North Lanarkshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "East Lothian" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Unknown> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Unknown" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Argyll and Bute" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Angus> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Angus" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Dumfries and Galloway" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Shetland Islands" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Stirling> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Stirling";
+  <http://wastemattersscotland.org/linked-data/property/hasScotGovUri> <http://statistics.gov.scot/id/statistical-geography/S12000030>;
+  <http://wastemattersscotland.org/linked-data/property/hasWikidataUri> <http://www.wikidata.org/entity/Q217838> .
+
+<http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "South Lanarkshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Dundee City";
+  <http://wastemattersscotland.org/linked-data/property/hasScotGovUri> <http://statistics.gov.scot/id/statistical-geography/S12000042>;
+  <http://wastemattersscotland.org/linked-data/property/hasWikidataUri> <http://www.wikidata.org/entity/Q2357511> .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Perth and Kinross" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "East Ayrshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Inverclyde> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Inverclyde" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Highland> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Highland" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Midlothian> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Midlothian" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Scottish Borders" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "West Dunbartonshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Clackmannanshire" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Moray> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Moray" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "West Lothian" .
+
+<http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/region>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Outer Hebrides";
+  <http://wastemattersscotland.org/linked-data/property/hasScotGovUri> <http://statistics.gov.scot/id/statistical-geography/S12000013>;
+  <http://wastemattersscotland.org/linked-data/property/hasWikidataUri> <http://www.wikidata.org/entity/Q80967> .

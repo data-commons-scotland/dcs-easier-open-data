@@ -1,0 +1,37 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "household.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "region",
+      "titles": "region",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasRegion",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/region/{region}"
+    }, {
+      "name": "year",
+      "titles": "year",
+      "datatype": "integer",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasYear"
+    }, {
+      "name": "count",
+      "titles": "count",
+      "datatype": "integer",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCount" 
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/household"
+    }],
+    "primaryKey": ["region", "year"],
+    "foreignKeys": [{
+      "columnReference": "region",
+      "reference": {
+        "resource": "region.csv",
+        "columnReference": "region"
+      }
+    }],
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/household/{region}/{year}"
+  }
+}

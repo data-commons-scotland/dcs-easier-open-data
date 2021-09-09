@@ -1,0 +1,51 @@
+
+== _Easier_ open data about waste in Scotland
+                          
+==== The data files
+
+[width="100%",cols="<,<,<,<,<",stripes="hover"]
+
+|=========================================================
+
+1.2+^h|name
+3.1+^h|the actual data +
+(in various formats)
+1.2+^h|the data's specification +
+(in CSVW format)
+
+
+1+^h| CSV +
+(table oriented format)
+1+^h| JSON +
+(Javascript oriented format)
+1+^h| Turtle +
+(linked data format)
+
+| anchor:bin-collection[] bin-collection | link:bin-collection.csv[bin-collection.csv] | link:bin-collection.json[bin-collection.json] | link:bin-collection.ttl[bin-collection.ttl] | link:bin-collection-metadata.json[bin-collection-metadata.json]
+
+| anchor:business-waste-by-region[] business-waste-by-region | link:business-waste-by-region.csv[business-waste-by-region.csv] | link:business-waste-by-region.json[business-waste-by-region.json] | link:business-waste-by-region.ttl[business-waste-by-region.ttl] | link:business-waste-by-region-metadata.json[business-waste-by-region-metadata.json]
+
+| anchor:business-waste-by-sector[] business-waste-by-sector | link:business-waste-by-sector.csv[business-waste-by-sector.csv] | link:business-waste-by-sector.json[business-waste-by-sector.json] | link:business-waste-by-sector.ttl[business-waste-by-sector.ttl] | link:business-waste-by-sector-metadata.json[business-waste-by-sector-metadata.json]
+
+| anchor:co2e-multiplier[] co2e-multiplier | link:co2e-multiplier.csv[co2e-multiplier.csv] | link:co2e-multiplier.json[co2e-multiplier.json] | link:co2e-multiplier.ttl[co2e-multiplier.ttl] | link:co2e-multiplier-metadata.json[co2e-multiplier-metadata.json]
+
+| anchor:ewc-code[] ewc-code | link:ewc-code.csv[ewc-code.csv] | link:ewc-code.json[ewc-code.json] | link:ewc-code.ttl[ewc-code.ttl] | link:ewc-code-metadata.json[ewc-code-metadata.json]
+
+| anchor:household[] household | link:household.csv[household.csv] | link:household.json[household.json] | link:household.ttl[household.ttl] | link:household-metadata.json[household-metadata.json]
+
+| anchor:household-co2e[] household-co2e | link:household-co2e.csv[household-co2e.csv] | link:household-co2e.json[household-co2e.json] | link:household-co2e.ttl[household-co2e.ttl] | link:household-co2e-metadata.json[household-co2e-metadata.json]
+
+| anchor:household-waste[] household-waste | link:household-waste.csv[household-waste.csv] | link:household-waste.json[household-waste.json] | link:household-waste.ttl[household-waste.ttl] | link:household-waste-metadata.json[household-waste-metadata.json]
+
+| anchor:population[] population | link:population.csv[population.csv] | link:population.json[population.json] | link:population.ttl[population.ttl] | link:population-metadata.json[population-metadata.json]
+
+| anchor:region[] region | link:region.csv[region.csv] | link:region.json[region.json] | link:region.ttl[region.ttl] | link:region-metadata.json[region-metadata.json]
+
+| anchor:sepa-material[] sepa-material | link:sepa-material.csv[sepa-material.csv] | link:sepa-material.json[sepa-material.json] | link:sepa-material.ttl[sepa-material.ttl] | link:sepa-material-metadata.json[sepa-material-metadata.json]
+
+| anchor:waste-site-io[] waste-site-io | link:waste-site-io.csv[waste-site-io.csv] | link:waste-site-io.json[waste-site-io.json] | link:waste-site-io.ttl[waste-site-io.ttl] | link:waste-site-io-metadata.json[waste-site-io-metadata.json]
+
+| anchor:waste-site-material-io[] waste-site-material-io | link:waste-site-material-io.csv[waste-site-material-io.csv] | link:waste-site-material-io.json[waste-site-material-io.json] | link:waste-site-material-io.ttl[waste-site-material-io.ttl] | link:waste-site-material-io-metadata.json[waste-site-material-io-metadata.json]
+
+|=========================================================
+

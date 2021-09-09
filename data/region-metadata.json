@@ -1,0 +1,30 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "region.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "region", 
+      "titles": "region", 
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasName"
+    }, {
+      "name": "code", 
+      "titles": "code", 
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasScotGovUri",
+      "valueUrl": "http://statistics.gov.scot/id/statistical-geography/{code}"
+    }, {
+      "name": "qid", 
+      "titles": "qid", 
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasWikidataUri",
+      "valueUrl": "http://www.wikidata.org/entity/{qid}"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/region"
+    }],
+    "primaryKey": "region",
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/region/{region}"
+  }
+}

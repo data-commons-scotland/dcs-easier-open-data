@@ -1,0 +1,42 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "business-waste-by-sector.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "sector",
+      "titles": "business-sector",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasSector"
+    }, {
+      "name": "year",
+      "titles": "year",
+      "datatype": "integer",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasYear"
+    }, {
+      "name": "material",
+      "titles": "material",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterial",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/sepa-material/{material}"
+    }, {
+      "name": "tonnes",
+      "titles": "tonnes",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasTonnes"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/business-waste-by-sector"
+    }],
+    "primaryKey": ["sector", "year", "material"],
+    "foreignKeys": [{
+      "columnReference": "material",
+      "reference": {
+        "resource": "sepa-material.csv",
+        "columnReference": "material"
+      }
+    }],
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/business-waste-by-sector/{sector}/{year}/{material}"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "sepa-material.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "material",
+      "titles": "material",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasName"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/sepa-material"
+    }],
+    "primaryKey": "material",
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/sepa-material/{material}"
+  }
+}

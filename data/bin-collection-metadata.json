@@ -1,0 +1,65 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "@id": "http://wastemattersscotland.org/linked-data/meta/bin-collection",
+  "url": "bin-collection.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "region",
+      "titles": "region",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasRegion",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/region/{region}"
+    }, {
+      "name": "year",
+      "titles": "year",
+      "datatype": "integer",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasYear"
+    }, {
+      "name": "quarter",
+      "titles": "quarter",
+      "datatype": "integer",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasQuarter"
+    }, {
+      "name": "material",
+      "titles": "material",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterial",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/sepa-material/{material}"
+    }, {
+      "name": "recycling",
+      "titles": "recycling?",
+      "datatype": "boolean",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/isRecycling"
+    }, {
+      "name": "missedBin",
+      "titles": "missed-bin?",
+      "datatype": "boolean",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/isMissedBin"
+    }, {
+      "name": "tonnes",
+      "titles": "tonnes",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasTonnes"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/bin-collection"
+    }],
+    "primaryKey": ["region", "year", "quarter", "material", "recycling", "missedBin"],
+    "foreignKeys": [{
+      "columnReference": "region",
+      "reference": {
+        "resource": "region.csv",
+        "columnReference": "region"
+      }
+    }, {
+      "columnReference": "material",
+      "reference": {
+        "resource": "sepa-material.csv",
+        "columnReference": "material"
+      }
+    }],
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/bin-collection/{region}/{year}/{quarter}/{material}/{recycling}/{missedBin}"
+  }
+}

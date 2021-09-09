@@ -1,0 +1,185 @@
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Textiles> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Textiles";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 100.0 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Textiles%20and%20Footwear>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 84.7 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Aluminium%20cans%20and%20foil>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Aluminium cans and foil";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 65.87 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Footwear> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 31.17 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Mixed%20Cans>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Mixed Cans";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 27.8 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Scrap%20Metal>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 16.07 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Steel%20Cans>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Steel Cans";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 12.25 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/PET%20%28including%20forming%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PET (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 12.12 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/WEEE%20-%20Small>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 10.54 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/WEEE%20-%20Mixed>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 9.77 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/WEEE%20-%20Large>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 9.0 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/PS%20%28including%20forming%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PS (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 8.81 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Wood> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 8.7 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Average%20Plastics>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Average Plastics";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 8.57 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Average%20plastic%20rigid%20%28including%20bottles%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Average plastic rigid (including bottles)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 8.56 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/HDPE%20%28including%20forming%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "HDPE (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 8.25 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/LDPE%20and%20LLDPE%20%28including%20forming%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "LDPE and LLDPE (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 7.8 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Average%20plastic%20film%20%28including%20bags%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Average plastic film (including bags)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 7.65 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/PP%20%28including%20forming%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PP (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 6.74 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/PVC%20%28including%20forming%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PVC (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 6.31 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Board> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Board";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 5.83 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Mixed%20paper%20and%20board>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Mixed paper and board";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 5.68 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Paper> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Paper";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 5.23 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Books> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Books";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 5.23 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Mineral%20Oil>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Mineral Oil";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 5.15 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/WEEE%20-%20Fridges%20and%20Freezers>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Fridges and Freezers";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 4.66 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Food%20and%20Drink%20Waste%20%28wet%20AD%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Food and Drink Waste (wet AD)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 4.35 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Food%20and%20Drink%20Waste%20%28Composting%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Food and Drink Waste (Composting)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 3.48 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Batteries%20%28Post%20Consumer%20Non%20Automotive%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Batteries (Post Consumer Non Automotive)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 3.46 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Glass%20%28colour%20separated%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Glass (colour separated)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 2.78 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Mixed%20Food%20and%20Garden%20Waste%20%28dry%20AD%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Mixed Food and Garden Waste (dry AD)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 2.7 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Garden%20Waste%20%28dry%20AD%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Garden Waste (dry AD)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 2.35 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Mixed%20Food%20and%20Garden%20Waste%20%28Composting%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Mixed Food and Garden Waste (Composting)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 2.1 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Garden%20Waste%20Composting>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Garden Waste Composting";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 1.81 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Glass%20%28mixed%20colours%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Glass (mixed colours)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 1.58 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Plasterboard>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Plasterboard";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 0.99 .
+
+<http://wastemattersscotland.org/linked-data/entity/co2e-multiplier/Aggregates%20%28Rubble%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Aggregates (Rubble)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier>;
+  <http://wastemattersscotland.org/linked-data/property/hasMultiplier> 0.03 .

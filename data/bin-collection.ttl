@@ -1,0 +1,1360 @@
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 60.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 2002.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 16.08;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 5.72;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 461.38;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 21.8;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/1/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 55.44;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 853.28;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/1/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 533.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1.48;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 566.34;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 2.5;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 4144.14;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1.38;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3.58;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/1/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 0.34;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 984.12;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 566.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/1/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1.16;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 564.72;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/1/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 5.9;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 4.64;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/1/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3601.22;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 22.72;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/1/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 831.26;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 50.98;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 4.98;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 12.68;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 26.04;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/1/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 581.96;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3592.04;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 721.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1631.68;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 4278.9;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/3/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 694.86;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/4/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1.26;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 5447.7;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2020/2/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 839.22;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2020;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 34.12;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3219.1;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/4/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3.08;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/4/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 426.22;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 11.16;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 87.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/4/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 796.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 491.94;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 0.38;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 523.76;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 6.78;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3453.12;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/4/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 0.68;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 9.36;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 977.34;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 533.6;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 8.02;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 481.56;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 13.18;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 4.08;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3330.98;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 0.9;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1428.9;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 813.3;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 7.5;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 63.44;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/4/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 31.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 12.32;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 660.28;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3833.5;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/4/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 549.26;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/4/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1406.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/4/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3720.6;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/3/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 516.56;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3943.88;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/1/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 18.18;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2019/2/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 747.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Vegetal%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Vegetal%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1.24;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 315.64;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3202.32;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 27.86;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 41.26;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 419.36;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 77.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 533.7;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 775.28;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 439.26;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 7.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 516.12;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 4.38;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3235.3;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 6.04;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 40.16;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 58.94;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 981.44;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 475.34;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 31.94;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 439.98;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Vegetal%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Vegetal%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1.18;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 126.72;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 37.02;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3086.92;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 41.36;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1224.16;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 732.1;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Vegetal%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Vegetal%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 7.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 157.98;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 150.76;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 133.9;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 63.4;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 573.78;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3233.4;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 552.18;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1819.26;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3786.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/3/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 518.04;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/4/Glass%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 4;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 0.92;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3595.26;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Paper%20and%20cardboard%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1.32;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/1/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 89.7;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2018/2/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 712.66;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 19.52;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 2572.96;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Plastic%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 0.86;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/1/Household%20and%20similar%20wastes/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 56.18;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/1/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 648.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 675.52;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Plastic%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 598.32;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/1/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 3.62;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/1/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 4168.92;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/1/Animal%20and%20mixed%20food%20waste/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1398.24;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/1/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 856.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 1.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Paper%20and%20cardboard%20wastes/true/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 6.44;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/1/Glass%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 736.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Household%20and%20similar%20wastes/false/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 4163.08;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/1/Animal%20and%20mixed%20food%20waste/false/true>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 1;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 0.3;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> true;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> false .
+
+<http://wastemattersscotland.org/linked-data/entity/bin-collection/Stirling/2021/2/Paper%20and%20cardboard%20wastes/true/false>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> <http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>;
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 2;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 913.6;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/isMissedBin> false;
+  <http://wastemattersscotland.org/linked-data/property/isRecycling> true .

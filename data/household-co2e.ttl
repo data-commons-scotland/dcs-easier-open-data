@@ -1,0 +1,1728 @@
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 251386.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 254691.52;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 268300.04;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 252280.48;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 284570.52;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 198457.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 180260.08;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 253014.04;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeen%20City/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeen%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 198520.35;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 341201.65;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 326703.78;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 345963.64;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 333131.32;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 388382.66;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 324744.27;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 310946.56;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 335342.56;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Aberdeenshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Aberdeenshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 308147.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2013> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 122417.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2015> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 112960.94;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2012> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 142586.11;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2014> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 121945.49;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2011> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 136750.23;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2017> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 115851.3;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2019> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 100812.99;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2016> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 120934.7;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Angus/2018> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Angus>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 112141.6;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 125105.2;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 132630.1;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 131958.45;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 134689.27;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 127816.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 126816.89;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 117899.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 137205.96;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Argyll%20and%20Bute/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Argyll%20and%20Bute>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 119133.64;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 480304.9;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 467412.9;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 475669.48;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 472525.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 503845.61;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 506753.57;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 471188.11;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 472825.51;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/City%20of%20Edinburgh/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/City%20of%20Edinburgh>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 492763.8;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 56696.29;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 56312.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 57461.95;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 59172.95;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 70744.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 55303.13;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 53322.71;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 54419.01;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Clackmannanshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Clackmannanshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 53563.59;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 217160.94;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 208539.13;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 225553.37;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 220803.01;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 234720.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 219796.19;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 209440.15;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 224545.57;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dumfries%20and%20Galloway/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dumfries%20and%20Galloway>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 226977.69;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 158108.71;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 163792.17;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 184805.97;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 155234.71;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 164637.27;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 155825.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 149839.01;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 167256.79;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Dundee%20City/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Dundee%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 148309.77;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 132824.03;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 121631.44;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 141284.18;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 126942.99;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 145156.06;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 121302.64;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 119102.13;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 120485.29;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Ayrshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 118072.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 123559.6;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 123273.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 132093.41;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 118992.14;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 142264.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 130601.89;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 110997.62;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 124905.57;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Dunbartonshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 111395.22;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 119798.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 114026.36;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 120864.48;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 123525.7;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 129635.81;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 111917.93;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 106233.13;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 114931.49;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Lothian/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 110671.63;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 96751.49;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 101088.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 105700.48;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 102518.05;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 119358.51;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 95963.41;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 94537.89;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 101101.76;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/East%20Renfrewshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/East%20Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 89058.28;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2013> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 162901.14;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2015> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 153315.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2012> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 165811.33;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2014> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 157378.61;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2011> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 185439.3;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2017> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 149771.37;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2019> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 153945.99;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2016> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 156989.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Falkirk/2018> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Falkirk>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 154934.88;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2013> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 375433.89;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2015> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 388929.56;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2012> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 417838.04;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2014> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 377693.23;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2011> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 451724.02;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2017> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 348827.72;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2019> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 387425.15;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2016> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 365825.68;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Fife/2018> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Fife>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 339825.4;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 686365.1;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 673050.98;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 694444.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 676159.67;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 762399.92;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 678903.33;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 744090.13;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 661880.94;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Glasgow%20City/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Glasgow%20City>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 733838.38;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 305552.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 318292.77;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 306425.53;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 310898.09;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 291326.33;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 320643.5;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 297897.89;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 320207.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Highland/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Highland>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 317170.82;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 64746.68;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 61110.81;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 79931.03;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 58606.22;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 90533.69;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 56822.31;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 58005.69;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 63347.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Inverclyde/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Inverclyde>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 57547.07;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 98602.36;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 91430.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 97330.73;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 92297.35;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 96717.27;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 98178.29;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 91550.52;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 95307.07;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Midlothian/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Midlothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 91864.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2013> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 102058.16;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2015> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 96668.58;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2012> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 114010.24;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2014> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 103522.5;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2011> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 124198.66;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2017> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 97367.96;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2019> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 87796.45;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2016> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 96300.99;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Moray/2018> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Moray>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 91647.15;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 34572.49;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 37069.39;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 35935.2;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 35446.52;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 43513.87;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 38582.28;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 36484.5;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 39072.9;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Outer%20Hebrides/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Outer%20Hebrides>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 37890.75;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 137359.77;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 140643.98;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 149901.92;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 143032.56;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 171465.43;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 138758.23;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 132846.59;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 141122.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Ayrshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 141041.99;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 386145.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 397847.94;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 414559.45;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 371944.62;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 457003.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 409844.57;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 361416.08;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 408245.81;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/North%20Lanarkshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/North%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 353940.63;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 26862.84;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 24768.53;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 27670.19;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 27693.21;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 25775.77;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 29076.23;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 26999.1;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 28540.21;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Orkney%20Islands/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Orkney%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 27128.41;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 152753.85;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 149343.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 158973.36;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 148627.33;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 209244.94;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 140920.45;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 141893.38;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 152218.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Perth%20and%20Kinross/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Perth%20and%20Kinross>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 140218.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 199196.29;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 193119.42;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 220064.49;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 198096.61;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 223303.13;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 195416.85;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 180557.29;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 195744.18;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Renfrewshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Renfrewshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 189500.02;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 123108.71;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 128339.03;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 129555.48;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 128170.89;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 137640.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 134429.02;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 123165.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 131503.65;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Scottish%20Borders/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Scottish%20Borders>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 134118.08;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 32115.53;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 33650.45;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 33588.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 31736.02;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 34121.59;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 32006.96;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 29252.97;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 32751.92;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Shetland%20Islands/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Shetland%20Islands>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 31051.88;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 138627.12;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 121106.38;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 148640.41;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 122999.53;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 144066.27;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 126038.68;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 108979.57;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 125903.69;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Ayrshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Ayrshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 124757.37;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 383544.11;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 378978.55;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 411207.75;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 386558.81;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 458874.01;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 370202.38;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 337047.59;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 362831.68;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/South%20Lanarkshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/South%20Lanarkshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 361194.97;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 85611.83;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 86960.25;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 87139.73;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 84830.61;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 92590.99;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 84555.53;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 87065.36;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 89509.29;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/Stirling/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 88160.01;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 90331.93;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 111118.72;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 103512.31;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 100894.32;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 119424.64;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 104711.52;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 95008.2;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 106830.85;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Dunbartonshire/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Dunbartonshire>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 102725.46;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2013>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 166657.69;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2013 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2015>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 168733.58;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2015 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2012>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 176200.54;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2012 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2014>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 168269.98;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2014 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2011>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 200493.37;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2011 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2017>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 145822.45;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2017 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2019>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 158981.85;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2019 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2016>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 170225.68;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2016 .
+
+<http://wastemattersscotland.org/linked-data/entity/household-co2e/West%20Lothian/2018>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e>;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/West%20Lothian>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnes> 152060.99;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2018 .

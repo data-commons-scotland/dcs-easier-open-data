@@ -1,0 +1,47 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "waste-site-material-io.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "year",
+      "titles": "year",
+      "datatype": "integer",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasYear"
+    }, {
+      "name": "permit",
+      "titles": "permit",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasPermit"
+    }, {
+      "name": "ioDirection",
+      "titles": "io-direction",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasIoDirection"
+    }, {
+      "name": "material",
+      "titles": "material",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterial",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/sepa-material/{material}"
+    }, {
+      "name": "tonnes",
+      "titles": "tonnes",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasTonnes"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/waste-site-material-io"
+    }],
+    "primaryKey": ["permit", "year", "material", "ioDirection"],
+    "foreignKeys": [{
+      "columnReference": "material",
+      "reference": {
+        "resource": "sepa-material.csv",
+        "columnReference": "material"
+      }
+    }],
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/waste-site-material-io/{permit}/{year}/{material}/{ioDirection}"
+  }
+}

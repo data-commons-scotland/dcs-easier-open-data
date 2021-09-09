@@ -1,0 +1,136 @@
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Acid%2C%20alkaline%20or%20saline%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Acid, alkaline or saline wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20and%20mixed%20food%20waste>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Animal and mixed food waste" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Animal%20faeces%2C%20urine%20and%20manure>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Animal faeces, urine and manure" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Batteries%20and%20accumulators%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Batteries and accumulators wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Chemical%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Chemical wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Combustion%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Combustion wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Common%20sludges>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Common sludges" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Discarded%20equipment%20%28excluding%20discarded%20vehicles%2C%20batteries%20and%20accumulators%20wastes%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Discarded equipment (excluding discarded vehicles, batteries and accumulators wastes)" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Discarded%20vehicles>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Discarded vehicles" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Dredging%20spoils>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Dredging spoils" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Glass%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Glass wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Health%20care%20and%20biological%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Health care and biological wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Household%20and%20similar%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Household and similar wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Industrial%20effluent%20sludges>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Industrial effluent sludges" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Metallic%20wastes%2C%20ferrous>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Metallic wastes, ferrous" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Metallic%20wastes%2C%20mixed%20ferrous%20and%20non-ferrous>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Metallic wastes, mixed ferrous and non-ferrous" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Metallic%20wastes%2C%20non-ferrous>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Metallic wastes, non-ferrous" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Mineral%20waste%20from%20construction%20and%20demolition>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Mineral waste from construction and demolition" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Mineral%20wastes%20from%20waste%20treatment%20and%20stabilised%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Mineral wastes from waste treatment and stabilised wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Mixed%20and%20undifferentiated%20materials>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Mixed and undifferentiated materials" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Other%20mineral%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Other mineral wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Paper%20and%20cardboard%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Paper and cardboard wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Plastic%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Plastic wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Rubber%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Rubber wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Sludges%20and%20liquid%20wastes%20from%20waste%20treatment>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Sludges and liquid wastes from waste treatment" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Soils> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Soils" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Sorting%20residues>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Sorting residues" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Spent%20solvents>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Spent solvents" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Textile%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Textile wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Used%20oils> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Used oils" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Vegetal%20wastes>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Vegetal wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Waste%20containing%20PCB>
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Waste containing PCB" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Wood%20wastes> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Wood wastes" .
+
+<http://wastemattersscotland.org/linked-data/entity/sepa-material/Uncategorised> <http://wastemattersscotland.org/linked-data/property/hasMeta>
+    <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material>;
+  <http://wastemattersscotland.org/linked-data/property/hasName> "Uncategorised" .
