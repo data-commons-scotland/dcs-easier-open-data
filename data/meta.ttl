@@ -11,6 +11,17 @@
   <http://wastemattersscotland.org/linked-data/property/hasSupplier> "SEPA";
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data" .
 
+<http://wastemattersscotland.org/linked-data/entity/meta/meta> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    14;
+  <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasCreator> "DCS";
+  <http://wastemattersscotland.org/linked-data/property/hasDescription> "Meta level information.";
+  <http://wastemattersscotland.org/linked-data/property/hasLicence> "CC BY 4.0";
+  <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
+  <http://wastemattersscotland.org/linked-data/property/hasName> "meta";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "DCS";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
+
 <http://wastemattersscotland.org/linked-data/entity/meta/business-waste-by-sector>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 2640;
   <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2020;
@@ -45,7 +56,7 @@
   <http://wastemattersscotland.org/linked-data/property/hasName> "region";
   <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Choose to use the common name for each region.";
   <http://wastemattersscotland.org/linked-data/property/hasSupplier> "DCS";
-  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://github.com/data-commons-scotland/dcs-easier-open-data" .
+  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/household-co2e> <http://wastemattersscotland.org/linked-data/property/hasCount>
     288;
