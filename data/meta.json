@@ -18,7 +18,7 @@
   "name":"meta",
   "licence":"CC BY 4.0",
   "notes":"",
-  "count":14,
+  "count":15,
   "licence-url":"https:\/\/creativecommons.org\/licenses\/by\/4.0\/",
   "supply-url":"file:\/\/\/"},
  {"description":
@@ -72,6 +72,17 @@
   "http:\/\/www.nationalarchives.gov.uk\/doc\/open-government-licence\/version\/2\/",
   "supply-url":
   "https:\/\/www.environment.gov.scot\/data\/data-analysis\/household-waste"},
+ {"description":
+  "The per-year per-quarter per-material amount (weight and CO2e) of reused items.",
+  "supplier":"The Fair Share",
+  "created-when":2021,
+  "creator":"The Fair Share",
+  "name":"fairshare",
+  "licence":"CC BY 4.0",
+  "notes":"Supplied as an Excel spreadsheet.",
+  "count":376,
+  "licence-url":"https:\/\/creativecommons.org\/licenses\/by\/4.0\/",
+  "supply-url":"file:\/\/\/"},
  {"description":
   "The categorised quantities of the waste collected from household bins.",
   "supplier":"Stirling council",

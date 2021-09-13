@@ -1,0 +1,58 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "fairshare.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "region",
+      "titles": "region",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasRegion",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/region/{region}"
+    }, {
+      "name": "year",
+      "titles": "year",
+      "datatype": "integer",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasYear"
+    }, {
+      "name": "quarter",
+      "titles": "quarter",
+      "datatype": "integer",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasQuarter"
+    }, {
+      "name": "yyyyMmDd",
+      "titles": "yyyy-MM-dd",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd"
+    }, {
+      "name": "material",
+      "titles": "material",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterial"
+    }, {
+      "name": "tonnesWeight",
+      "titles": "tonnes-weight",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasTonnesWeight"
+    }, {
+      "name": "tonnesCo2e",
+      "titles": "tonnes-co2e",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/fairshare"
+    }],
+    "primaryKey": ["year", "quarter", "material"],
+    "foreignKeys": [{
+      "columnReference": "region",
+      "reference": {
+        "resource": "region.csv",
+        "columnReference": "region"
+      }
+    }],
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/fairshare/{year}/{quarter}/{material}"
+  }
+}

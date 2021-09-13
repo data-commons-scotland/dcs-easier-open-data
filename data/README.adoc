@@ -1,5 +1,5 @@
              
-==== The 14 _easier_ datasets
+==== The 15 _easier_ datasets
 
 [width="100%",cols="<,<,<,<,<",stripes="hover"]
 
@@ -28,6 +28,8 @@
 | anchor:co2e-multiplier[] co2e-multiplier | link:co2e-multiplier.csv[co2e-multiplier.csv] | link:co2e-multiplier.json[co2e-multiplier.json] | link:co2e-multiplier.ttl[co2e-multiplier.ttl] | link:co2e-multiplier-metadata.json[co2e-multiplier-metadata.json]
 
 | anchor:ewc-code[] ewc-code | link:ewc-code.csv[ewc-code.csv] | link:ewc-code.json[ewc-code.json] | link:ewc-code.ttl[ewc-code.ttl] | link:ewc-code-metadata.json[ewc-code-metadata.json]
+
+| anchor:fairshare[] fairshare | link:fairshare.csv[fairshare.csv] | link:fairshare.json[fairshare.json] | link:fairshare.ttl[fairshare.ttl] | link:fairshare-metadata.json[fairshare-metadata.json]
 
 | anchor:household[] household | link:household.csv[household.csv] | link:household.json[household.json] | link:household.ttl[household.ttl] | link:household-metadata.json[household-metadata.json]
 
