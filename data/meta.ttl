@@ -12,7 +12,7 @@
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/meta> <http://wastemattersscotland.org/linked-data/property/hasCount>
-    15;
+    16;
   <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
   <http://wastemattersscotland.org/linked-data/property/hasCreator> "DCS";
   <http://wastemattersscotland.org/linked-data/property/hasDescription> "Meta level information.";
@@ -20,6 +20,18 @@
   <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
   <http://wastemattersscotland.org/linked-data/property/hasName> "meta";
   <http://wastemattersscotland.org/linked-data/property/hasSupplier> "DCS";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
+
+<http://wastemattersscotland.org/linked-data/entity/meta/household-waste-analysis>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 1440;
+  <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasCreator> "ZWS";
+  <http://wastemattersscotland.org/linked-data/property/hasDescription> "(An anonymised subset of) An analysis of sampled bin collection contents.";
+  <http://wastemattersscotland.org/linked-data/property/hasLicence> "CC BY 4.0";
+  <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
+  <http://wastemattersscotland.org/linked-data/property/hasName> "household-waste-analysis";
+  <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Supplied as an Excel spreadsheet.";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "ZWS";
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/business-waste-by-sector>
