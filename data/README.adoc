@@ -1,5 +1,5 @@
              
-==== The 15 _easier_ datasets
+==== The 16 _easier_ datasets
 
 [width="100%",cols="<,<,<,<,<",stripes="hover"]
 
@@ -36,6 +36,8 @@
 | anchor:household-co2e[] household-co2e | link:household-co2e.csv[household-co2e.csv] | link:household-co2e.json[household-co2e.json] | link:household-co2e.ttl[household-co2e.ttl] | link:household-co2e-metadata.json[household-co2e-metadata.json]
 
 | anchor:household-waste[] household-waste | link:household-waste.csv[household-waste.csv] | link:household-waste.json[household-waste.json] | link:household-waste.ttl[household-waste.ttl] | link:household-waste-metadata.json[household-waste-metadata.json]
+
+| anchor:household-waste-analysis[] household-waste-analysis | link:household-waste-analysis.csv[household-waste-analysis.csv] | link:household-waste-analysis.json[household-waste-analysis.json] | link:household-waste-analysis.ttl[household-waste-analysis.ttl] | link:household-waste-analysis-metadata.json[household-waste-analysis-metadata.json]
 
 | anchor:meta[] meta | link:meta.csv[meta.csv] | link:meta.json[meta.json] | link:meta.ttl[meta.ttl] | link:meta-metadata.json[meta-metadata.json]
 

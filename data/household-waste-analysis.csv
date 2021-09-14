@@ -1,0 +1,1541 @@
+material-L1,material-L2,phase,stream,idealStream,stratum,kgPerHhPerWk
+Glass waste,Green container glass,1,grey bin,recycling site,urban £,0.068
+Glass waste,Green container glass,1,grey bin,recycling site,urban ££,0.20270270270270271
+Glass waste,Green container glass,1,grey bin,recycling site,urban £££,0.1276595744680851
+Glass waste,Green container glass,1,grey bin,recycling site,rural £/££,0.08076923076923077
+Glass waste,Green container glass,1,grey bin,recycling site,rural £££,0.06274509803921569
+Glass waste,Green container glass,1,recycling bin,recycling site,urban £,0.0
+Glass waste,Green container glass,1,recycling bin,recycling site,urban ££,0.002702702702702703
+Glass waste,Green container glass,1,recycling bin,recycling site,urban £££,0.05957446808510638
+Glass waste,Green container glass,1,recycling bin,recycling site,rural £/££,0.0019230769230769232
+Glass waste,Green container glass,1,recycling bin,recycling site,rural £££,0.0
+Glass waste,Green container glass,2,grey bin,recycling site,urban £,0.04081632653061224
+Glass waste,Green container glass,2,grey bin,recycling site,urban ££,0.11578947368421054
+Glass waste,Green container glass,2,grey bin,recycling site,urban £££,0.15
+Glass waste,Green container glass,2,grey bin,recycling site,rural £/££,0.10816326530612244
+Glass waste,Green container glass,2,grey bin,recycling site,rural £££,0.08163265306122448
+Glass waste,Green container glass,2,recycling bin,recycling site,urban £,0.0
+Glass waste,Green container glass,2,recycling bin,recycling site,urban ££,0.028947368421052635
+Glass waste,Green container glass,2,recycling bin,recycling site,urban £££,0.0
+Glass waste,Green container glass,2,recycling bin,recycling site,rural £/££,0.01020408163265306
+Glass waste,Green container glass,2,recycling bin,recycling site,rural £££,0.0
+Glass waste,Brown container glass,1,grey bin,recycling site,urban £,0.04
+Glass waste,Brown container glass,1,grey bin,recycling site,urban ££,0.06756756756756757
+Glass waste,Brown container glass,1,grey bin,recycling site,urban £££,0.01276595744680851
+Glass waste,Brown container glass,1,grey bin,recycling site,rural £/££,0.12884615384615386
+Glass waste,Brown container glass,1,grey bin,recycling site,rural £££,0.0196078431372549
+Glass waste,Brown container glass,1,recycling bin,recycling site,urban £,0.0
+Glass waste,Brown container glass,1,recycling bin,recycling site,urban ££,0.0
+Glass waste,Brown container glass,1,recycling bin,recycling site,urban £££,0.0
+Glass waste,Brown container glass,1,recycling bin,recycling site,rural £/££,0.01346153846153846
+Glass waste,Brown container glass,1,recycling bin,recycling site,rural £££,0.0
+Glass waste,Brown container glass,2,grey bin,recycling site,urban £,0.18571428571428572
+Glass waste,Brown container glass,2,grey bin,recycling site,urban ££,0.02368421052631579
+Glass waste,Brown container glass,2,grey bin,recycling site,urban £££,0.024
+Glass waste,Brown container glass,2,grey bin,recycling site,rural £/££,0.08571428571428572
+Glass waste,Brown container glass,2,grey bin,recycling site,rural £££,0.05306122448979592
+Glass waste,Brown container glass,2,recycling bin,recycling site,urban £,0.02040816326530612
+Glass waste,Brown container glass,2,recycling bin,recycling site,urban ££,0.018421052631578946
+Glass waste,Brown container glass,2,recycling bin,recycling site,urban £££,0.0
+Glass waste,Brown container glass,2,recycling bin,recycling site,rural £/££,0.014285714285714285
+Glass waste,Brown container glass,2,recycling bin,recycling site,rural £££,0.0020408163265306124
+Glass waste,Clear container glass,1,grey bin,recycling site,urban £,0.344
+Glass waste,Clear container glass,1,grey bin,recycling site,urban ££,0.3324324324324325
+Glass waste,Clear container glass,1,grey bin,recycling site,urban £££,0.23404255319148937
+Glass waste,Clear container glass,1,grey bin,recycling site,rural £/££,0.375
+Glass waste,Clear container glass,1,grey bin,recycling site,rural £££,0.21176470588235297
+Glass waste,Clear container glass,1,recycling bin,recycling site,urban £,0.008
+Glass waste,Clear container glass,1,recycling bin,recycling site,urban ££,0.008108108108108109
+Glass waste,Clear container glass,1,recycling bin,recycling site,urban £££,0.02553191489361702
+Glass waste,Clear container glass,1,recycling bin,recycling site,rural £/££,0.04807692307692308
+Glass waste,Clear container glass,1,recycling bin,recycling site,rural £££,0.0
+Glass waste,Clear container glass,2,grey bin,recycling site,urban £,0.33469387755102037
+Glass waste,Clear container glass,2,grey bin,recycling site,urban ££,0.31842105263157894
+Glass waste,Clear container glass,2,grey bin,recycling site,urban £££,0.33
+Glass waste,Clear container glass,2,grey bin,recycling site,rural £/££,0.37959183673469393
+Glass waste,Clear container glass,2,grey bin,recycling site,rural £££,0.24081632653061225
+Glass waste,Clear container glass,2,recycling bin,recycling site,urban £,0.04081632653061224
+Glass waste,Clear container glass,2,recycling bin,recycling site,urban ££,0.02631578947368421
+Glass waste,Clear container glass,2,recycling bin,recycling site,urban £££,0.0
+Glass waste,Clear container glass,2,recycling bin,recycling site,rural £/££,0.05714285714285714
+Glass waste,Clear container glass,2,recycling bin,recycling site,rural £££,0.0
+Glass waste,Non-packaging glass,1,grey bin,grey bin,urban £,0.022000000000000002
+Glass waste,Non-packaging glass,1,grey bin,grey bin,urban ££,0.05135135135135135
+Glass waste,Non-packaging glass,1,grey bin,grey bin,urban £££,0.006382978723404255
+Glass waste,Non-packaging glass,1,grey bin,grey bin,rural £/££,0.021153846153846155
+Glass waste,Non-packaging glass,1,grey bin,grey bin,rural £££,0.025490196078431372
+Glass waste,Non-packaging glass,1,recycling bin,grey bin,urban £,0.0
+Glass waste,Non-packaging glass,1,recycling bin,grey bin,urban ££,0.0
+Glass waste,Non-packaging glass,1,recycling bin,grey bin,urban £££,0.0
+Glass waste,Non-packaging glass,1,recycling bin,grey bin,rural £/££,0.0
+Glass waste,Non-packaging glass,1,recycling bin,grey bin,rural £££,0.0
+Glass waste,Non-packaging glass,2,grey bin,grey bin,urban £,0.012244897959183673
+Glass waste,Non-packaging glass,2,grey bin,grey bin,urban ££,0.0
+Glass waste,Non-packaging glass,2,grey bin,grey bin,urban £££,0.0
+Glass waste,Non-packaging glass,2,grey bin,grey bin,rural £/££,0.0
+Glass waste,Non-packaging glass,2,grey bin,grey bin,rural £££,0.03469387755102041
+Glass waste,Non-packaging glass,2,recycling bin,grey bin,urban £,0.0
+Glass waste,Non-packaging glass,2,recycling bin,grey bin,urban ££,0.0
+Glass waste,Non-packaging glass,2,recycling bin,grey bin,urban £££,0.0
+Glass waste,Non-packaging glass,2,recycling bin,grey bin,rural £/££,0.0
+Glass waste,Non-packaging glass,2,recycling bin,grey bin,rural £££,0.0
+Paper and cardboard,"Newspaper, magazines",1,grey bin,recycling bin,urban £,0.05
+Paper and cardboard,"Newspaper, magazines",1,grey bin,recycling bin,urban ££,0.17567567567567569
+Paper and cardboard,"Newspaper, magazines",1,grey bin,recycling bin,urban £££,0.19148936170212766
+Paper and cardboard,"Newspaper, magazines",1,grey bin,recycling bin,rural £/££,0.075
+Paper and cardboard,"Newspaper, magazines",1,grey bin,recycling bin,rural £££,0.045098039215686274
+Paper and cardboard,"Newspaper, magazines",1,recycling bin,recycling bin,urban £,1.5119999999999998
+Paper and cardboard,"Newspaper, magazines",1,recycling bin,recycling bin,urban ££,1.1081081081081081
+Paper and cardboard,"Newspaper, magazines",1,recycling bin,recycling bin,urban £££,1.202127659574468
+Paper and cardboard,"Newspaper, magazines",1,recycling bin,recycling bin,rural £/££,1.2576923076923079
+Paper and cardboard,"Newspaper, magazines",1,recycling bin,recycling bin,rural £££,1.4862745098039216
+Paper and cardboard,"Newspaper, magazines",2,grey bin,recycling bin,urban £,0.08979591836734695
+Paper and cardboard,"Newspaper, magazines",2,grey bin,recycling bin,urban ££,0.1763157894736842
+Paper and cardboard,"Newspaper, magazines",2,grey bin,recycling bin,urban £££,0.07200000000000001
+Paper and cardboard,"Newspaper, magazines",2,grey bin,recycling bin,rural £/££,0.08775510204081632
+Paper and cardboard,"Newspaper, magazines",2,grey bin,recycling bin,rural £££,0.12040816326530612
+Paper and cardboard,"Newspaper, magazines",2,recycling bin,recycling bin,urban £,0.7877551020408163
+Paper and cardboard,"Newspaper, magazines",2,recycling bin,recycling bin,urban ££,1.392105263157895
+Paper and cardboard,"Newspaper, magazines",2,recycling bin,recycling bin,urban £££,1.436
+Paper and cardboard,"Newspaper, magazines",2,recycling bin,recycling bin,rural £/££,1.1489795918367347
+Paper and cardboard,"Newspaper, magazines",2,recycling bin,recycling bin,rural £££,1.2938775510204081
+Paper and cardboard,Other Recyclable Paper,1,grey bin,recycling bin,urban £,0.24600000000000002
+Paper and cardboard,Other Recyclable Paper,1,grey bin,recycling bin,urban ££,0.27567567567567564
+Paper and cardboard,Other Recyclable Paper,1,grey bin,recycling bin,urban £££,0.1574468085106383
+Paper and cardboard,Other Recyclable Paper,1,grey bin,recycling bin,rural £/££,0.27115384615384613
+Paper and cardboard,Other Recyclable Paper,1,grey bin,recycling bin,rural £££,0.2647058823529412
+Paper and cardboard,Other Recyclable Paper,1,recycling bin,recycling bin,urban £,0.332
+Paper and cardboard,Other Recyclable Paper,1,recycling bin,recycling bin,urban ££,0.4243243243243243
+Paper and cardboard,Other Recyclable Paper,1,recycling bin,recycling bin,urban £££,0.374468085106383
+Paper and cardboard,Other Recyclable Paper,1,recycling bin,recycling bin,rural £/££,0.21538461538461537
+Paper and cardboard,Other Recyclable Paper,1,recycling bin,recycling bin,rural £££,0.5529411764705883
+Paper and cardboard,Other Recyclable Paper,2,grey bin,recycling bin,urban £,0.23469387755102042
+Paper and cardboard,Other Recyclable Paper,2,grey bin,recycling bin,urban ££,0.23684210526315788
+Paper and cardboard,Other Recyclable Paper,2,grey bin,recycling bin,urban £££,0.17
+Paper and cardboard,Other Recyclable Paper,2,grey bin,recycling bin,rural £/££,0.1183673469387755
+Paper and cardboard,Other Recyclable Paper,2,grey bin,recycling bin,rural £££,0.3020408163265306
+Paper and cardboard,Other Recyclable Paper,2,recycling bin,recycling bin,urban £,0.4020408163265306
+Paper and cardboard,Other Recyclable Paper,2,recycling bin,recycling bin,urban ££,0.32105263157894737
+Paper and cardboard,Other Recyclable Paper,2,recycling bin,recycling bin,urban £££,0.474
+Paper and cardboard,Other Recyclable Paper,2,recycling bin,recycling bin,rural £/££,0.27346938775510204
+Paper and cardboard,Other Recyclable Paper,2,recycling bin,recycling bin,rural £££,0.5265306122448979
+Paper and cardboard,Non-recyclable Paper,1,grey bin,grey bin,urban £,0.308
+Paper and cardboard,Non-recyclable Paper,1,grey bin,grey bin,urban ££,0.44054054054054054
+Paper and cardboard,Non-recyclable Paper,1,grey bin,grey bin,urban £££,0.24255319148936172
+Paper and cardboard,Non-recyclable Paper,1,grey bin,grey bin,rural £/££,0.20192307692307693
+Paper and cardboard,Non-recyclable Paper,1,grey bin,grey bin,rural £££,0.25098039215686274
+Paper and cardboard,Non-recyclable Paper,1,recycling bin,grey bin,urban £,0.038
+Paper and cardboard,Non-recyclable Paper,1,recycling bin,grey bin,urban ££,0.016216216216216217
+Paper and cardboard,Non-recyclable Paper,1,recycling bin,grey bin,urban £££,0.02340425531914894
+Paper and cardboard,Non-recyclable Paper,1,recycling bin,grey bin,rural £/££,0.01730769230769231
+Paper and cardboard,Non-recyclable Paper,1,recycling bin,grey bin,rural £££,0.047058823529411764
+Paper and cardboard,Non-recyclable Paper,2,grey bin,grey bin,urban £,0.24693877551020407
+Paper and cardboard,Non-recyclable Paper,2,grey bin,grey bin,urban ££,0.2657894736842105
+Paper and cardboard,Non-recyclable Paper,2,grey bin,grey bin,urban £££,0.212
+Paper and cardboard,Non-recyclable Paper,2,grey bin,grey bin,rural £/££,0.2306122448979592
+Paper and cardboard,Non-recyclable Paper,2,grey bin,grey bin,rural £££,0.3122448979591837
+Paper and cardboard,Non-recyclable Paper,2,recycling bin,grey bin,urban £,0.022448979591836737
+Paper and cardboard,Non-recyclable Paper,2,recycling bin,grey bin,urban ££,0.002631578947368421
+Paper and cardboard,Non-recyclable Paper,2,recycling bin,grey bin,urban £££,0.012
+Paper and cardboard,Non-recyclable Paper,2,recycling bin,grey bin,rural £/££,0.018367346938775512
+Paper and cardboard,Non-recyclable Paper,2,recycling bin,grey bin,rural £££,0.2857142857142857
+Paper and cardboard,Board Packaging,1,grey bin,recycling bin,urban £,0.024
+Paper and cardboard,Board Packaging,1,grey bin,recycling bin,urban ££,0.010810810810810811
+Paper and cardboard,Board Packaging,1,grey bin,recycling bin,urban £££,0.01702127659574468
+Paper and cardboard,Board Packaging,1,grey bin,recycling bin,rural £/££,0.09615384615384616
+Paper and cardboard,Board Packaging,1,grey bin,recycling bin,rural £££,0.029411764705882353
+Paper and cardboard,Board Packaging,1,recycling bin,recycling bin,urban £,0.318
+Paper and cardboard,Board Packaging,1,recycling bin,recycling bin,urban ££,0.010810810810810811
+Paper and cardboard,Board Packaging,1,recycling bin,recycling bin,urban £££,0.25106382978723407
+Paper and cardboard,Board Packaging,1,recycling bin,recycling bin,rural £/££,0.10769230769230768
+Paper and cardboard,Board Packaging,1,recycling bin,recycling bin,rural £££,0.28431372549019607
+Paper and cardboard,Board Packaging,2,grey bin,recycling bin,urban £,0.06326530612244897
+Paper and cardboard,Board Packaging,2,grey bin,recycling bin,urban ££,0.034210526315789476
+Paper and cardboard,Board Packaging,2,grey bin,recycling bin,urban £££,0.022000000000000002
+Paper and cardboard,Board Packaging,2,grey bin,recycling bin,rural £/££,0.024489795918367346
+Paper and cardboard,Board Packaging,2,grey bin,recycling bin,rural £££,0.1489795918367347
+Paper and cardboard,Board Packaging,2,recycling bin,recycling bin,urban £,0.27142857142857146
+Paper and cardboard,Board Packaging,2,recycling bin,recycling bin,urban ££,0.1736842105263158
+Paper and cardboard,Board Packaging,2,recycling bin,recycling bin,urban £££,0.174
+Paper and cardboard,Board Packaging,2,recycling bin,recycling bin,rural £/££,0.20816326530612245
+Paper and cardboard,Board Packaging,2,recycling bin,recycling bin,rural £££,0.33469387755102037
+Paper and cardboard,Thin Card Packaging,1,grey bin,recycling bin,urban £,0.214
+Paper and cardboard,Thin Card Packaging,1,grey bin,recycling bin,urban ££,0.2513513513513514
+Paper and cardboard,Thin Card Packaging,1,grey bin,recycling bin,urban £££,0.1276595744680851
+Paper and cardboard,Thin Card Packaging,1,grey bin,recycling bin,rural £/££,0.1346153846153846
+Paper and cardboard,Thin Card Packaging,1,grey bin,recycling bin,rural £££,0.19019607843137254
+Paper and cardboard,Thin Card Packaging,1,recycling bin,recycling bin,urban £,0.314
+Paper and cardboard,Thin Card Packaging,1,recycling bin,recycling bin,urban ££,0.16756756756756758
+Paper and cardboard,Thin Card Packaging,1,recycling bin,recycling bin,urban £££,0.27872340425531916
+Paper and cardboard,Thin Card Packaging,1,recycling bin,recycling bin,rural £/££,0.3
+Paper and cardboard,Thin Card Packaging,1,recycling bin,recycling bin,rural £££,0.2568627450980392
+Paper and cardboard,Thin Card Packaging,2,grey bin,recycling bin,urban £,0.17551020408163265
+Paper and cardboard,Thin Card Packaging,2,grey bin,recycling bin,urban ££,0.16842105263157894
+Paper and cardboard,Thin Card Packaging,2,grey bin,recycling bin,urban £££,0.11
+Paper and cardboard,Thin Card Packaging,2,grey bin,recycling bin,rural £/££,0.13673469387755102
+Paper and cardboard,Thin Card Packaging,2,grey bin,recycling bin,rural £££,0.2469387755102041
+Paper and cardboard,Thin Card Packaging,2,recycling bin,recycling bin,urban £,0.28775510204081634
+Paper and cardboard,Thin Card Packaging,2,recycling bin,recycling bin,urban ££,0.33421052631578946
+Paper and cardboard,Thin Card Packaging,2,recycling bin,recycling bin,urban £££,0.33
+Paper and cardboard,Thin Card Packaging,2,recycling bin,recycling bin,rural £/££,0.22244897959183674
+Paper and cardboard,Thin Card Packaging,2,recycling bin,recycling bin,rural £££,0.20408163265306123
+Paper and cardboard,Other Card,1,grey bin,recycling bin,urban £,0.016
+Paper and cardboard,Other Card,1,grey bin,recycling bin,urban ££,0.0
+Paper and cardboard,Other Card,1,grey bin,recycling bin,urban £££,0.01276595744680851
+Paper and cardboard,Other Card,1,grey bin,recycling bin,rural £/££,0.0019230769230769232
+Paper and cardboard,Other Card,1,grey bin,recycling bin,rural £££,0.00784313725490196
+Paper and cardboard,Other Card,1,recycling bin,recycling bin,urban £,0.004
+Paper and cardboard,Other Card,1,recycling bin,recycling bin,urban ££,0.0
+Paper and cardboard,Other Card,1,recycling bin,recycling bin,urban £££,0.0
+Paper and cardboard,Other Card,1,recycling bin,recycling bin,rural £/££,0.019230769230769232
+Paper and cardboard,Other Card,1,recycling bin,recycling bin,rural £££,0.03725490196078431
+Paper and cardboard,Other Card,2,grey bin,recycling bin,urban £,0.0020408163265306124
+Paper and cardboard,Other Card,2,grey bin,recycling bin,urban ££,0.002631578947368421
+Paper and cardboard,Other Card,2,grey bin,recycling bin,urban £££,0.0
+Paper and cardboard,Other Card,2,grey bin,recycling bin,rural £/££,0.004081632653061225
+Paper and cardboard,Other Card,2,grey bin,recycling bin,rural £££,0.0
+Paper and cardboard,Other Card,2,recycling bin,recycling bin,urban £,0.07551020408163266
+Paper and cardboard,Other Card,2,recycling bin,recycling bin,urban ££,0.002631578947368421
+Paper and cardboard,Other Card,2,recycling bin,recycling bin,urban £££,0.002
+Paper and cardboard,Other Card,2,recycling bin,recycling bin,rural £/££,0.01020408163265306
+Paper and cardboard,Other Card,2,recycling bin,recycling bin,rural £££,0.0020408163265306124
+Paper and cardboard,Books,1,grey bin,recycling bin,urban £,0.01
+Paper and cardboard,Books,1,grey bin,recycling bin,urban ££,0.0
+Paper and cardboard,Books,1,grey bin,recycling bin,urban £££,0.0
+Paper and cardboard,Books,1,grey bin,recycling bin,rural £/££,0.0
+Paper and cardboard,Books,1,grey bin,recycling bin,rural £££,0.0
+Paper and cardboard,Books,1,recycling bin,recycling bin,urban £,0.078
+Paper and cardboard,Books,1,recycling bin,recycling bin,urban ££,0.010810810810810811
+Paper and cardboard,Books,1,recycling bin,recycling bin,urban £££,0.006382978723404255
+Paper and cardboard,Books,1,recycling bin,recycling bin,rural £/££,0.06153846153846154
+Paper and cardboard,Books,1,recycling bin,recycling bin,rural £££,0.03333333333333333
+Paper and cardboard,Books,2,grey bin,recycling bin,urban £,0.06326530612244897
+Paper and cardboard,Books,2,grey bin,recycling bin,urban ££,0.010526315789473684
+Paper and cardboard,Books,2,grey bin,recycling bin,urban £££,0.002
+Paper and cardboard,Books,2,grey bin,recycling bin,rural £/££,0.018367346938775512
+Paper and cardboard,Books,2,grey bin,recycling bin,rural £££,0.10408163265306122
+Paper and cardboard,Books,2,recycling bin,recycling bin,urban £,0.0673469387755102
+Paper and cardboard,Books,2,recycling bin,recycling bin,urban ££,0.018421052631578946
+Paper and cardboard,Books,2,recycling bin,recycling bin,urban £££,0.14
+Paper and cardboard,Books,2,recycling bin,recycling bin,rural £/££,0.0
+Paper and cardboard,Books,2,recycling bin,recycling bin,rural £££,0.022448979591836737
+Paper and cardboard,Yellow Pages/Directories,1,grey bin,recycling bin,urban £,0.0
+Paper and cardboard,Yellow Pages/Directories,1,grey bin,recycling bin,urban ££,0.0
+Paper and cardboard,Yellow Pages/Directories,1,grey bin,recycling bin,urban £££,0.0
+Paper and cardboard,Yellow Pages/Directories,1,grey bin,recycling bin,rural £/££,0.0
+Paper and cardboard,Yellow Pages/Directories,1,grey bin,recycling bin,rural £££,0.0
+Paper and cardboard,Yellow Pages/Directories,1,recycling bin,recycling bin,urban £,0.018000000000000002
+Paper and cardboard,Yellow Pages/Directories,1,recycling bin,recycling bin,urban ££,0.002702702702702703
+Paper and cardboard,Yellow Pages/Directories,1,recycling bin,recycling bin,urban £££,0.027659574468085108
+Paper and cardboard,Yellow Pages/Directories,1,recycling bin,recycling bin,rural £/££,0.01730769230769231
+Paper and cardboard,Yellow Pages/Directories,1,recycling bin,recycling bin,rural £££,0.00980392156862745
+Paper and cardboard,Yellow Pages/Directories,2,grey bin,recycling bin,urban £,0.0020408163265306124
+Paper and cardboard,Yellow Pages/Directories,2,grey bin,recycling bin,urban ££,0.013157894736842105
+Paper and cardboard,Yellow Pages/Directories,2,grey bin,recycling bin,urban £££,0.012
+Paper and cardboard,Yellow Pages/Directories,2,grey bin,recycling bin,rural £/££,0.0
+Paper and cardboard,Yellow Pages/Directories,2,grey bin,recycling bin,rural £££,0.0
+Paper and cardboard,Yellow Pages/Directories,2,recycling bin,recycling bin,urban £,0.024489795918367346
+Paper and cardboard,Yellow Pages/Directories,2,recycling bin,recycling bin,urban ££,0.06315789473684211
+Paper and cardboard,Yellow Pages/Directories,2,recycling bin,recycling bin,urban £££,0.172
+Paper and cardboard,Yellow Pages/Directories,2,recycling bin,recycling bin,rural £/££,0.004081632653061225
+Paper and cardboard,Yellow Pages/Directories,2,recycling bin,recycling bin,rural £££,0.0163265306122449
+Paper and cardboard,Cardboard beverage packaging / cartons,1,grey bin,recycling site,urban £,0.034
+Paper and cardboard,Cardboard beverage packaging / cartons,1,grey bin,recycling site,urban ££,0.02702702702702703
+Paper and cardboard,Cardboard beverage packaging / cartons,1,grey bin,recycling site,urban £££,0.02340425531914894
+Paper and cardboard,Cardboard beverage packaging / cartons,1,grey bin,recycling site,rural £/££,0.01730769230769231
+Paper and cardboard,Cardboard beverage packaging / cartons,1,grey bin,recycling site,rural £££,0.01764705882352941
+Paper and cardboard,Cardboard beverage packaging / cartons,1,recycling bin,recycling site,urban £,0.084
+Paper and cardboard,Cardboard beverage packaging / cartons,1,recycling bin,recycling site,urban ££,0.016216216216216217
+Paper and cardboard,Cardboard beverage packaging / cartons,1,recycling bin,recycling site,urban £££,0.010638297872340425
+Paper and cardboard,Cardboard beverage packaging / cartons,1,recycling bin,recycling site,rural £/££,0.011538461538461537
+Paper and cardboard,Cardboard beverage packaging / cartons,1,recycling bin,recycling site,rural £££,0.03725490196078431
+Paper and cardboard,Cardboard beverage packaging / cartons,2,grey bin,recycling site,urban £,0.02857142857142857
+Paper and cardboard,Cardboard beverage packaging / cartons,2,grey bin,recycling site,urban ££,0.02631578947368421
+Paper and cardboard,Cardboard beverage packaging / cartons,2,grey bin,recycling site,urban £££,0.034
+Paper and cardboard,Cardboard beverage packaging / cartons,2,grey bin,recycling site,rural £/££,0.0326530612244898
+Paper and cardboard,Cardboard beverage packaging / cartons,2,grey bin,recycling site,rural £££,0.11428571428571428
+Paper and cardboard,Cardboard beverage packaging / cartons,2,recycling bin,recycling site,urban £,0.024489795918367346
+Paper and cardboard,Cardboard beverage packaging / cartons,2,recycling bin,recycling site,urban ££,0.013157894736842105
+Paper and cardboard,Cardboard beverage packaging / cartons,2,recycling bin,recycling site,urban £££,0.013999999999999999
+Paper and cardboard,Cardboard beverage packaging / cartons,2,recycling bin,recycling site,rural £/££,0.012244897959183673
+Paper and cardboard,Cardboard beverage packaging / cartons,2,recycling bin,recycling site,rural £££,0.030612244897959183
+Metal - ferrous and non-ferrous,Cans - steel,1,grey bin,recycling bin,urban £,0.278
+Metal - ferrous and non-ferrous,Cans - steel,1,grey bin,recycling bin,urban ££,0.07297297297297298
+Metal - ferrous and non-ferrous,Cans - steel,1,grey bin,recycling bin,urban £££,0.04042553191489361
+Metal - ferrous and non-ferrous,Cans - steel,1,grey bin,recycling bin,rural £/££,0.09807692307692308
+Metal - ferrous and non-ferrous,Cans - steel,1,grey bin,recycling bin,rural £££,0.06666666666666667
+Metal - ferrous and non-ferrous,Cans - steel,1,recycling bin,recycling bin,urban £,0.05
+Metal - ferrous and non-ferrous,Cans - steel,1,recycling bin,recycling bin,urban ££,0.03783783783783783
+Metal - ferrous and non-ferrous,Cans - steel,1,recycling bin,recycling bin,urban £££,0.07446808510638298
+Metal - ferrous and non-ferrous,Cans - steel,1,recycling bin,recycling bin,rural £/££,0.06346153846153846
+Metal - ferrous and non-ferrous,Cans - steel,1,recycling bin,recycling bin,rural £££,0.06862745098039216
+Metal - ferrous and non-ferrous,Cans - steel,2,grey bin,recycling bin,urban £,0.12448979591836734
+Metal - ferrous and non-ferrous,Cans - steel,2,grey bin,recycling bin,urban ££,0.09210526315789473
+Metal - ferrous and non-ferrous,Cans - steel,2,grey bin,recycling bin,urban £££,0.054000000000000006
+Metal - ferrous and non-ferrous,Cans - steel,2,grey bin,recycling bin,rural £/££,0.10816326530612244
+Metal - ferrous and non-ferrous,Cans - steel,2,grey bin,recycling bin,rural £££,0.1
+Metal - ferrous and non-ferrous,Cans - steel,2,recycling bin,recycling bin,urban £,0.004081632653061225
+Metal - ferrous and non-ferrous,Cans - steel,2,recycling bin,recycling bin,urban ££,0.1131578947368421
+Metal - ferrous and non-ferrous,Cans - steel,2,recycling bin,recycling bin,urban £££,0.126
+Metal - ferrous and non-ferrous,Cans - steel,2,recycling bin,recycling bin,rural £/££,0.07959183673469387
+Metal - ferrous and non-ferrous,Cans - steel,2,recycling bin,recycling bin,rural £££,0.08979591836734695
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,grey bin,recycling bin,urban £,0.05
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,grey bin,recycling bin,urban ££,0.09189189189189188
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,grey bin,recycling bin,urban £££,0.010638297872340425
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,grey bin,recycling bin,rural £/££,0.036538461538461534
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,grey bin,recycling bin,rural £££,0.027450980392156862
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,recycling bin,recycling bin,urban £,0.034
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,recycling bin,recycling bin,urban ££,0.02972972972972973
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,recycling bin,recycling bin,urban £££,0.03829787234042553
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,recycling bin,recycling bin,rural £/££,0.038461538461538464
+Metal - ferrous and non-ferrous,Cans - Aluminium,1,recycling bin,recycling bin,rural £££,0.054901960784313725
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,grey bin,recycling bin,urban £,0.05102040816326531
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,grey bin,recycling bin,urban ££,0.07105263157894737
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,grey bin,recycling bin,urban £££,0.02
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,grey bin,recycling bin,rural £/££,0.046938775510204075
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,grey bin,recycling bin,rural £££,0.0326530612244898
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,recycling bin,recycling bin,urban £,0.05306122448979592
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,recycling bin,recycling bin,urban ££,0.06315789473684211
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,recycling bin,recycling bin,urban £££,0.022000000000000002
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,recycling bin,recycling bin,rural £/££,0.036734693877551024
+Metal - ferrous and non-ferrous,Cans - Aluminium,2,recycling bin,recycling bin,rural £££,0.02857142857142857
+Metal - ferrous and non-ferrous,Aluminium packaging,1,grey bin,recycling site,urban £,0.038
+Metal - ferrous and non-ferrous,Aluminium packaging,1,grey bin,recycling site,urban ££,0.04864864864864865
+Metal - ferrous and non-ferrous,Aluminium packaging,1,grey bin,recycling site,urban £££,0.05957446808510638
+Metal - ferrous and non-ferrous,Aluminium packaging,1,grey bin,recycling site,rural £/££,0.03461538461538462
+Metal - ferrous and non-ferrous,Aluminium packaging,1,grey bin,recycling site,rural £££,0.08235294117647059
+Metal - ferrous and non-ferrous,Aluminium packaging,1,recycling bin,recycling site,urban £,0.004
+Metal - ferrous and non-ferrous,Aluminium packaging,1,recycling bin,recycling site,urban ££,0.002702702702702703
+Metal - ferrous and non-ferrous,Aluminium packaging,1,recycling bin,recycling site,urban £££,0.00425531914893617
+Metal - ferrous and non-ferrous,Aluminium packaging,1,recycling bin,recycling site,rural £/££,0.0038461538461538464
+Metal - ferrous and non-ferrous,Aluminium packaging,1,recycling bin,recycling site,rural £££,0.0
+Metal - ferrous and non-ferrous,Aluminium packaging,2,grey bin,recycling site,urban £,0.061224489795918366
+Metal - ferrous and non-ferrous,Aluminium packaging,2,grey bin,recycling site,urban ££,0.06315789473684211
+Metal - ferrous and non-ferrous,Aluminium packaging,2,grey bin,recycling site,urban £££,0.044000000000000004
+Metal - ferrous and non-ferrous,Aluminium packaging,2,grey bin,recycling site,rural £/££,0.04081632653061224
+Metal - ferrous and non-ferrous,Aluminium packaging,2,grey bin,recycling site,rural £££,0.12244897959183673
+Metal - ferrous and non-ferrous,Aluminium packaging,2,recycling bin,recycling site,urban £,0.0020408163265306124
+Metal - ferrous and non-ferrous,Aluminium packaging,2,recycling bin,recycling site,urban ££,0.002631578947368421
+Metal - ferrous and non-ferrous,Aluminium packaging,2,recycling bin,recycling site,urban £££,0.006
+Metal - ferrous and non-ferrous,Aluminium packaging,2,recycling bin,recycling site,rural £/££,0.0020408163265306124
+Metal - ferrous and non-ferrous,Aluminium packaging,2,recycling bin,recycling site,rural £££,0.004081632653061225
+Metal - ferrous and non-ferrous,Other Scrap metal,1,grey bin,recycling site,urban £,0.11800000000000001
+Metal - ferrous and non-ferrous,Other Scrap metal,1,grey bin,recycling site,urban ££,0.04054054054054054
+Metal - ferrous and non-ferrous,Other Scrap metal,1,grey bin,recycling site,urban £££,0.0702127659574468
+Metal - ferrous and non-ferrous,Other Scrap metal,1,grey bin,recycling site,rural £/££,0.05384615384615384
+Metal - ferrous and non-ferrous,Other Scrap metal,1,grey bin,recycling site,rural £££,0.054901960784313725
+Metal - ferrous and non-ferrous,Other Scrap metal,1,recycling bin,recycling site,urban £,0.0
+Metal - ferrous and non-ferrous,Other Scrap metal,1,recycling bin,recycling site,urban ££,0.0
+Metal - ferrous and non-ferrous,Other Scrap metal,1,recycling bin,recycling site,urban £££,0.0
+Metal - ferrous and non-ferrous,Other Scrap metal,1,recycling bin,recycling site,rural £/££,0.01346153846153846
+Metal - ferrous and non-ferrous,Other Scrap metal,1,recycling bin,recycling site,rural £££,0.0
+Metal - ferrous and non-ferrous,Other Scrap metal,2,grey bin,recycling site,urban £,0.16326530612244897
+Metal - ferrous and non-ferrous,Other Scrap metal,2,grey bin,recycling site,urban ££,0.05263157894736842
+Metal - ferrous and non-ferrous,Other Scrap metal,2,grey bin,recycling site,urban £££,0.048
+Metal - ferrous and non-ferrous,Other Scrap metal,2,grey bin,recycling site,rural £/££,0.05306122448979592
+Metal - ferrous and non-ferrous,Other Scrap metal,2,grey bin,recycling site,rural £££,0.10612244897959185
+Metal - ferrous and non-ferrous,Other Scrap metal,2,recycling bin,recycling site,urban £,0.0
+Metal - ferrous and non-ferrous,Other Scrap metal,2,recycling bin,recycling site,urban ££,0.0
+Metal - ferrous and non-ferrous,Other Scrap metal,2,recycling bin,recycling site,urban £££,0.01
+Metal - ferrous and non-ferrous,Other Scrap metal,2,recycling bin,recycling site,rural £/££,0.0
+Metal - ferrous and non-ferrous,Other Scrap metal,2,recycling bin,recycling site,rural £££,0.0
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,grey bin,recycling bin,urban £,0.022000000000000002
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,grey bin,recycling bin,urban ££,0.018918918918918916
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,grey bin,recycling bin,urban £££,0.014893617021276595
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,grey bin,recycling bin,rural £/££,0.023076923076923075
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,grey bin,recycling bin,rural £££,0.023529411764705882
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,recycling bin,recycling bin,urban £,0.006
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,recycling bin,recycling bin,urban ££,0.0
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,recycling bin,recycling bin,urban £££,0.002127659574468085
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,recycling bin,recycling bin,rural £/££,0.004807692307692308
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,1,recycling bin,recycling bin,rural £££,0.0
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,grey bin,recycling bin,urban £,0.046938775510204075
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,grey bin,recycling bin,urban ££,0.021052631578947368
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,grey bin,recycling bin,urban £££,0.048
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,grey bin,recycling bin,rural £/££,0.022448979591836737
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,grey bin,recycling bin,rural £££,0.0326530612244898
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,recycling bin,recycling bin,urban £,0.012244897959183673
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,recycling bin,recycling bin,urban ££,0.010526315789473684
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,recycling bin,recycling bin,urban £££,0.002
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,recycling bin,recycling bin,rural £/££,0.012244897959183673
+Metal - ferrous and non-ferrous,Aerosols  - Aluminium,2,recycling bin,recycling bin,rural £££,0.004081632653061225
+Metal - ferrous and non-ferrous,Aerosols - steel,1,grey bin,recycling bin,urban £,0.002
+Metal - ferrous and non-ferrous,Aerosols - steel,1,grey bin,recycling bin,urban ££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,1,grey bin,recycling bin,urban £££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,1,grey bin,recycling bin,rural £/££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,1,grey bin,recycling bin,rural £££,0.00392156862745098
+Metal - ferrous and non-ferrous,Aerosols - steel,1,recycling bin,recycling bin,urban £,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,1,recycling bin,recycling bin,urban ££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,1,recycling bin,recycling bin,urban £££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,1,recycling bin,recycling bin,rural £/££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,1,recycling bin,recycling bin,rural £££,0.00784313725490196
+Metal - ferrous and non-ferrous,Aerosols - steel,2,grey bin,recycling bin,urban £,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,2,grey bin,recycling bin,urban ££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,2,grey bin,recycling bin,urban £££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,2,grey bin,recycling bin,rural £/££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,2,grey bin,recycling bin,rural £££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,2,recycling bin,recycling bin,urban £,0.08775510204081632
+Metal - ferrous and non-ferrous,Aerosols - steel,2,recycling bin,recycling bin,urban ££,0.005263157894736842
+Metal - ferrous and non-ferrous,Aerosols - steel,2,recycling bin,recycling bin,urban £££,0.002
+Metal - ferrous and non-ferrous,Aerosols - steel,2,recycling bin,recycling bin,rural £/££,0.0
+Metal - ferrous and non-ferrous,Aerosols - steel,2,recycling bin,recycling bin,rural £££,0.0
+Plastic bottles,HDPE drink bottles,1,grey bin,recycling bin,urban £,0.044000000000000004
+Plastic bottles,HDPE drink bottles,1,grey bin,recycling bin,urban ££,0.032432432432432434
+Plastic bottles,HDPE drink bottles,1,grey bin,recycling bin,urban £££,0.02127659574468085
+Plastic bottles,HDPE drink bottles,1,grey bin,recycling bin,rural £/££,0.055769230769230765
+Plastic bottles,HDPE drink bottles,1,grey bin,recycling bin,rural £££,0.06666666666666667
+Plastic bottles,HDPE drink bottles,1,recycling bin,recycling bin,urban £,0.106
+Plastic bottles,HDPE drink bottles,1,recycling bin,recycling bin,urban ££,0.06216216216216216
+Plastic bottles,HDPE drink bottles,1,recycling bin,recycling bin,urban £££,0.07234042553191489
+Plastic bottles,HDPE drink bottles,1,recycling bin,recycling bin,rural £/££,0.06538461538461539
+Plastic bottles,HDPE drink bottles,1,recycling bin,recycling bin,rural £££,0.08823529411764706
+Plastic bottles,HDPE drink bottles,2,grey bin,recycling bin,urban £,0.014285714285714285
+Plastic bottles,HDPE drink bottles,2,grey bin,recycling bin,urban ££,0.02368421052631579
+Plastic bottles,HDPE drink bottles,2,grey bin,recycling bin,urban £££,0.02
+Plastic bottles,HDPE drink bottles,2,grey bin,recycling bin,rural £/££,0.02653061224489796
+Plastic bottles,HDPE drink bottles,2,grey bin,recycling bin,rural £££,0.02857142857142857
+Plastic bottles,HDPE drink bottles,2,recycling bin,recycling bin,urban £,0.08163265306122448
+Plastic bottles,HDPE drink bottles,2,recycling bin,recycling bin,urban ££,0.05526315789473685
+Plastic bottles,HDPE drink bottles,2,recycling bin,recycling bin,urban £££,0.06
+Plastic bottles,HDPE drink bottles,2,recycling bin,recycling bin,rural £/££,0.06938775510204082
+Plastic bottles,HDPE drink bottles,2,recycling bin,recycling bin,rural £££,0.08367346938775509
+Plastic bottles,PET drink bottles,1,grey bin,recycling bin,urban £,0.134
+Plastic bottles,PET drink bottles,1,grey bin,recycling bin,urban ££,0.07837837837837838
+Plastic bottles,PET drink bottles,1,grey bin,recycling bin,urban £££,0.031914893617021274
+Plastic bottles,PET drink bottles,1,grey bin,recycling bin,rural £/££,0.11346153846153847
+Plastic bottles,PET drink bottles,1,grey bin,recycling bin,rural £££,0.07058823529411765
+Plastic bottles,PET drink bottles,1,recycling bin,recycling bin,urban £,0.168
+Plastic bottles,PET drink bottles,1,recycling bin,recycling bin,urban ££,0.06756756756756757
+Plastic bottles,PET drink bottles,1,recycling bin,recycling bin,urban £££,0.0425531914893617
+Plastic bottles,PET drink bottles,1,recycling bin,recycling bin,rural £/££,0.1346153846153846
+Plastic bottles,PET drink bottles,1,recycling bin,recycling bin,rural £££,0.08431372549019607
+Plastic bottles,PET drink bottles,2,grey bin,recycling bin,urban £,0.1183673469387755
+Plastic bottles,PET drink bottles,2,grey bin,recycling bin,urban ££,0.12105263157894736
+Plastic bottles,PET drink bottles,2,grey bin,recycling bin,urban £££,0.032
+Plastic bottles,PET drink bottles,2,grey bin,recycling bin,rural £/££,0.16530612244897958
+Plastic bottles,PET drink bottles,2,grey bin,recycling bin,rural £££,0.08163265306122448
+Plastic bottles,PET drink bottles,2,recycling bin,recycling bin,urban £,0.13265306122448978
+Plastic bottles,PET drink bottles,2,recycling bin,recycling bin,urban ££,0.12894736842105264
+Plastic bottles,PET drink bottles,2,recycling bin,recycling bin,urban £££,0.068
+Plastic bottles,PET drink bottles,2,recycling bin,recycling bin,rural £/££,0.10612244897959182
+Plastic bottles,PET drink bottles,2,recycling bin,recycling bin,rural £££,0.08775510204081632
+Plastic bottles,Other plastic bottles,1,grey bin,recycling bin,urban £,0.042
+Plastic bottles,Other plastic bottles,1,grey bin,recycling bin,urban ££,0.11351351351351352
+Plastic bottles,Other plastic bottles,1,grey bin,recycling bin,urban £££,0.05106382978723404
+Plastic bottles,Other plastic bottles,1,grey bin,recycling bin,rural £/££,0.06346153846153846
+Plastic bottles,Other plastic bottles,1,grey bin,recycling bin,rural £££,0.03137254901960784
+Plastic bottles,Other plastic bottles,1,recycling bin,recycling bin,urban £,0.048
+Plastic bottles,Other plastic bottles,1,recycling bin,recycling bin,urban ££,0.021621621621621623
+Plastic bottles,Other plastic bottles,1,recycling bin,recycling bin,urban £££,0.05106382978723404
+Plastic bottles,Other plastic bottles,1,recycling bin,recycling bin,rural £/££,0.044230769230769226
+Plastic bottles,Other plastic bottles,1,recycling bin,recycling bin,rural £££,0.050980392156862744
+Plastic bottles,Other plastic bottles,2,grey bin,recycling bin,urban £,0.1326530612244898
+Plastic bottles,Other plastic bottles,2,grey bin,recycling bin,urban ££,0.09736842105263159
+Plastic bottles,Other plastic bottles,2,grey bin,recycling bin,urban £££,0.07200000000000001
+Plastic bottles,Other plastic bottles,2,grey bin,recycling bin,rural £/££,0.04489795918367347
+Plastic bottles,Other plastic bottles,2,grey bin,recycling bin,rural £££,0.10204081632653061
+Plastic bottles,Other plastic bottles,2,recycling bin,recycling bin,urban £,0.05918367346938775
+Plastic bottles,Other plastic bottles,2,recycling bin,recycling bin,urban ££,0.06052631578947368
+Plastic bottles,Other plastic bottles,2,recycling bin,recycling bin,urban £££,0.07
+Plastic bottles,Other plastic bottles,2,recycling bin,recycling bin,rural £/££,0.0653061224489796
+Plastic bottles,Other plastic bottles,2,recycling bin,recycling bin,rural £££,0.05510204081632653
+Dense plastic,Dense plastic packaging exc. EPS,1,grey bin,recycling bin,urban £,0.28800000000000003
+Dense plastic,Dense plastic packaging exc. EPS,1,grey bin,recycling bin,urban ££,0.3108108108108108
+Dense plastic,Dense plastic packaging exc. EPS,1,grey bin,recycling bin,urban £££,0.27872340425531916
+Dense plastic,Dense plastic packaging exc. EPS,1,grey bin,recycling bin,rural £/££,0.17307692307692307
+Dense plastic,Dense plastic packaging exc. EPS,1,grey bin,recycling bin,rural £££,0.41372549019607846
+Dense plastic,Dense plastic packaging exc. EPS,1,recycling bin,recycling bin,urban £,0.11199999999999999
+Dense plastic,Dense plastic packaging exc. EPS,1,recycling bin,recycling bin,urban ££,0.024324324324324326
+Dense plastic,Dense plastic packaging exc. EPS,1,recycling bin,recycling bin,urban £££,0.0702127659574468
+Dense plastic,Dense plastic packaging exc. EPS,1,recycling bin,recycling bin,rural £/££,0.05
+Dense plastic,Dense plastic packaging exc. EPS,1,recycling bin,recycling bin,rural £££,0.08235294117647059
+Dense plastic,Dense plastic packaging exc. EPS,2,grey bin,recycling bin,urban £,0.26326530612244897
+Dense plastic,Dense plastic packaging exc. EPS,2,grey bin,recycling bin,urban ££,0.3
+Dense plastic,Dense plastic packaging exc. EPS,2,grey bin,recycling bin,urban £££,0.214
+Dense plastic,Dense plastic packaging exc. EPS,2,grey bin,recycling bin,rural £/££,0.2183673469387755
+Dense plastic,Dense plastic packaging exc. EPS,2,grey bin,recycling bin,rural £££,0.4244897959183673
+Dense plastic,Dense plastic packaging exc. EPS,2,recycling bin,recycling bin,urban £,0.10408163265306122
+Dense plastic,Dense plastic packaging exc. EPS,2,recycling bin,recycling bin,urban ££,0.09736842105263159
+Dense plastic,Dense plastic packaging exc. EPS,2,recycling bin,recycling bin,urban £££,0.055999999999999994
+Dense plastic,Dense plastic packaging exc. EPS,2,recycling bin,recycling bin,rural £/££,0.08775510204081634
+Dense plastic,Dense plastic packaging exc. EPS,2,recycling bin,recycling bin,rural £££,0.06326530612244897
+Dense plastic,Expanded polystyrene packaging,1,grey bin,grey bin,urban £,0.04
+Dense plastic,Expanded polystyrene packaging,1,grey bin,grey bin,urban ££,0.005405405405405406
+Dense plastic,Expanded polystyrene packaging,1,grey bin,grey bin,urban £££,0.02553191489361702
+Dense plastic,Expanded polystyrene packaging,1,grey bin,grey bin,rural £/££,0.009615384615384616
+Dense plastic,Expanded polystyrene packaging,1,grey bin,grey bin,rural £££,0.0
+Dense plastic,Expanded polystyrene packaging,1,recycling bin,grey bin,urban £,0.008
+Dense plastic,Expanded polystyrene packaging,1,recycling bin,grey bin,urban ££,0.0
+Dense plastic,Expanded polystyrene packaging,1,recycling bin,grey bin,urban £££,0.01276595744680851
+Dense plastic,Expanded polystyrene packaging,1,recycling bin,grey bin,rural £/££,0.0019230769230769232
+Dense plastic,Expanded polystyrene packaging,1,recycling bin,grey bin,rural £££,0.00392156862745098
+Dense plastic,Expanded polystyrene packaging,2,grey bin,grey bin,urban £,0.022448979591836737
+Dense plastic,Expanded polystyrene packaging,2,grey bin,grey bin,urban ££,0.02631578947368421
+Dense plastic,Expanded polystyrene packaging,2,grey bin,grey bin,urban £££,0.02
+Dense plastic,Expanded polystyrene packaging,2,grey bin,grey bin,rural £/££,0.006122448979591836
+Dense plastic,Expanded polystyrene packaging,2,grey bin,grey bin,rural £££,0.08367346938775509
+Dense plastic,Expanded polystyrene packaging,2,recycling bin,grey bin,urban £,0.0020408163265306124
+Dense plastic,Expanded polystyrene packaging,2,recycling bin,grey bin,urban ££,0.005263157894736842
+Dense plastic,Expanded polystyrene packaging,2,recycling bin,grey bin,urban £££,0.002
+Dense plastic,Expanded polystyrene packaging,2,recycling bin,grey bin,rural £/££,0.0020408163265306124
+Dense plastic,Expanded polystyrene packaging,2,recycling bin,grey bin,rural £££,0.004081632653061225
+Dense plastic,"Video tapes, DVDs and CDs",1,grey bin,grey bin,urban £,0.013999999999999999
+Dense plastic,"Video tapes, DVDs and CDs",1,grey bin,grey bin,urban ££,0.0
+Dense plastic,"Video tapes, DVDs and CDs",1,grey bin,grey bin,urban £££,0.006382978723404255
+Dense plastic,"Video tapes, DVDs and CDs",1,grey bin,grey bin,rural £/££,0.03461538461538462
+Dense plastic,"Video tapes, DVDs and CDs",1,grey bin,grey bin,rural £££,0.00196078431372549
+Dense plastic,"Video tapes, DVDs and CDs",1,recycling bin,grey bin,urban £,0.0
+Dense plastic,"Video tapes, DVDs and CDs",1,recycling bin,grey bin,urban ££,0.0
+Dense plastic,"Video tapes, DVDs and CDs",1,recycling bin,grey bin,urban £££,0.0
+Dense plastic,"Video tapes, DVDs and CDs",1,recycling bin,grey bin,rural £/££,0.0
+Dense plastic,"Video tapes, DVDs and CDs",1,recycling bin,grey bin,rural £££,0.0
+Dense plastic,"Video tapes, DVDs and CDs",2,grey bin,grey bin,urban £,0.012244897959183673
+Dense plastic,"Video tapes, DVDs and CDs",2,grey bin,grey bin,urban ££,0.039473684210526314
+Dense plastic,"Video tapes, DVDs and CDs",2,grey bin,grey bin,urban £££,0.01
+Dense plastic,"Video tapes, DVDs and CDs",2,grey bin,grey bin,rural £/££,0.036734693877551024
+Dense plastic,"Video tapes, DVDs and CDs",2,grey bin,grey bin,rural £££,0.0
+Dense plastic,"Video tapes, DVDs and CDs",2,recycling bin,grey bin,urban £,0.012244897959183673
+Dense plastic,"Video tapes, DVDs and CDs",2,recycling bin,grey bin,urban ££,0.0
+Dense plastic,"Video tapes, DVDs and CDs",2,recycling bin,grey bin,urban £££,0.0
+Dense plastic,"Video tapes, DVDs and CDs",2,recycling bin,grey bin,rural £/££,0.006122448979591836
+Dense plastic,"Video tapes, DVDs and CDs",2,recycling bin,grey bin,rural £££,0.004081632653061225
+Dense plastic,Other dense plastic - non-packaging,1,grey bin,grey bin,urban £,0.09
+Dense plastic,Other dense plastic - non-packaging,1,grey bin,grey bin,urban ££,0.024324324324324326
+Dense plastic,Other dense plastic - non-packaging,1,grey bin,grey bin,urban £££,0.11063829787234043
+Dense plastic,Other dense plastic - non-packaging,1,grey bin,grey bin,rural £/££,0.05384615384615384
+Dense plastic,Other dense plastic - non-packaging,1,grey bin,grey bin,rural £££,0.07450980392156863
+Dense plastic,Other dense plastic - non-packaging,1,recycling bin,grey bin,urban £,0.01
+Dense plastic,Other dense plastic - non-packaging,1,recycling bin,grey bin,urban ££,0.0
+Dense plastic,Other dense plastic - non-packaging,1,recycling bin,grey bin,urban £££,0.06382978723404255
+Dense plastic,Other dense plastic - non-packaging,1,recycling bin,grey bin,rural £/££,0.025
+Dense plastic,Other dense plastic - non-packaging,1,recycling bin,grey bin,rural £££,0.00392156862745098
+Dense plastic,Other dense plastic - non-packaging,2,grey bin,grey bin,urban £,0.3
+Dense plastic,Other dense plastic - non-packaging,2,grey bin,grey bin,urban ££,0.013157894736842105
+Dense plastic,Other dense plastic - non-packaging,2,grey bin,grey bin,urban £££,0.168
+Dense plastic,Other dense plastic - non-packaging,2,grey bin,grey bin,rural £/££,0.11224489795918367
+Dense plastic,Other dense plastic - non-packaging,2,grey bin,grey bin,rural £££,0.15306122448979592
+Dense plastic,Other dense plastic - non-packaging,2,recycling bin,grey bin,urban £,0.018367346938775512
+Dense plastic,Other dense plastic - non-packaging,2,recycling bin,grey bin,urban ££,0.015789473684210527
+Dense plastic,Other dense plastic - non-packaging,2,recycling bin,grey bin,urban £££,0.013999999999999999
+Dense plastic,Other dense plastic - non-packaging,2,recycling bin,grey bin,rural £/££,0.012244897959183673
+Dense plastic,Other dense plastic - non-packaging,2,recycling bin,grey bin,rural £££,0.004081632653061225
+Plastic film,Carrier Bags,1,grey bin,recycling site,urban £,0.11199999999999999
+Plastic film,Carrier Bags,1,grey bin,recycling site,urban ££,0.14054054054054055
+Plastic film,Carrier Bags,1,grey bin,recycling site,urban £££,0.08723404255319148
+Plastic film,Carrier Bags,1,grey bin,recycling site,rural £/££,0.13653846153846153
+Plastic film,Carrier Bags,1,grey bin,recycling site,rural £££,0.11372549019607843
+Plastic film,Carrier Bags,1,recycling bin,recycling site,urban £,0.012
+Plastic film,Carrier Bags,1,recycling bin,recycling site,urban ££,0.005405405405405406
+Plastic film,Carrier Bags,1,recycling bin,recycling site,urban £££,0.00851063829787234
+Plastic film,Carrier Bags,1,recycling bin,recycling site,rural £/££,0.005769230769230769
+Plastic film,Carrier Bags,1,recycling bin,recycling site,rural £££,0.00392156862745098
+Plastic film,Carrier Bags,2,grey bin,recycling site,urban £,0.12857142857142856
+Plastic film,Carrier Bags,2,grey bin,recycling site,urban ££,0.12631578947368424
+Plastic film,Carrier Bags,2,grey bin,recycling site,urban £££,0.21
+Plastic film,Carrier Bags,2,grey bin,recycling site,rural £/££,0.046938775510204075
+Plastic film,Carrier Bags,2,grey bin,recycling site,rural £££,0.19795918367346937
+Plastic film,Carrier Bags,2,recycling bin,recycling site,urban £,0.012244897959183673
+Plastic film,Carrier Bags,2,recycling bin,recycling site,urban ££,0.007894736842105263
+Plastic film,Carrier Bags,2,recycling bin,recycling site,urban £££,0.004
+Plastic film,Carrier Bags,2,recycling bin,recycling site,rural £/££,0.018367346938775512
+Plastic film,Carrier Bags,2,recycling bin,recycling site,rural £££,0.0163265306122449
+Plastic film,Bin Bags,1,grey bin,grey bin,urban £,0.046
+Plastic film,Bin Bags,1,grey bin,grey bin,urban ££,0.03783783783783783
+Plastic film,Bin Bags,1,grey bin,grey bin,urban £££,0.02127659574468085
+Plastic film,Bin Bags,1,grey bin,grey bin,rural £/££,0.07307692307692307
+Plastic film,Bin Bags,1,grey bin,grey bin,rural £££,0.06470588235294117
+Plastic film,Bin Bags,1,recycling bin,grey bin,urban £,0.002
+Plastic film,Bin Bags,1,recycling bin,grey bin,urban ££,0.0
+Plastic film,Bin Bags,1,recycling bin,grey bin,urban £££,0.00425531914893617
+Plastic film,Bin Bags,1,recycling bin,grey bin,rural £/££,0.0
+Plastic film,Bin Bags,1,recycling bin,grey bin,rural £££,0.00196078431372549
+Plastic film,Bin Bags,2,grey bin,grey bin,urban £,0.09387755102040815
+Plastic film,Bin Bags,2,grey bin,grey bin,urban ££,0.05263157894736842
+Plastic film,Bin Bags,2,grey bin,grey bin,urban £££,0.086
+Plastic film,Bin Bags,2,grey bin,grey bin,rural £/££,0.04489795918367347
+Plastic film,Bin Bags,2,grey bin,grey bin,rural £££,0.07142857142857142
+Plastic film,Bin Bags,2,recycling bin,grey bin,urban £,0.0
+Plastic film,Bin Bags,2,recycling bin,grey bin,urban ££,0.018421052631578946
+Plastic film,Bin Bags,2,recycling bin,grey bin,urban £££,0.0
+Plastic film,Bin Bags,2,recycling bin,grey bin,rural £/££,0.01020408163265306
+Plastic film,Bin Bags,2,recycling bin,grey bin,rural £££,0.0
+Plastic film,Other Plastic Film,1,grey bin,grey bin,urban £,0.43200000000000005
+Plastic film,Other Plastic Film,1,grey bin,grey bin,urban ££,0.3621621621621622
+Plastic film,Other Plastic Film,1,grey bin,grey bin,urban £££,0.2872340425531915
+Plastic film,Other Plastic Film,1,grey bin,grey bin,rural £/££,0.33653846153846156
+Plastic film,Other Plastic Film,1,grey bin,grey bin,rural £££,0.4019607843137255
+Plastic film,Other Plastic Film,1,recycling bin,grey bin,urban £,0.038
+Plastic film,Other Plastic Film,1,recycling bin,grey bin,urban ££,0.008108108108108109
+Plastic film,Other Plastic Film,1,recycling bin,grey bin,urban £££,0.05106382978723404
+Plastic film,Other Plastic Film,1,recycling bin,grey bin,rural £/££,0.032692307692307694
+Plastic film,Other Plastic Film,1,recycling bin,grey bin,rural £££,0.047058823529411764
+Plastic film,Other Plastic Film,2,grey bin,grey bin,urban £,0.4
+Plastic film,Other Plastic Film,2,grey bin,grey bin,urban ££,0.3263157894736843
+Plastic film,Other Plastic Film,2,grey bin,grey bin,urban £££,0.4
+Plastic film,Other Plastic Film,2,grey bin,grey bin,rural £/££,0.22040816326530613
+Plastic film,Other Plastic Film,2,grey bin,grey bin,rural £££,0.5612244897959183
+Plastic film,Other Plastic Film,2,recycling bin,grey bin,urban £,0.02040816326530612
+Plastic film,Other Plastic Film,2,recycling bin,grey bin,urban ££,0.021052631578947368
+Plastic film,Other Plastic Film,2,recycling bin,grey bin,urban £££,0.013999999999999999
+Plastic film,Other Plastic Film,2,recycling bin,grey bin,rural £/££,0.07346938775510205
+Plastic film,Other Plastic Film,2,recycling bin,grey bin,rural £££,0.0163265306122449
+Garden waste,Green garden waste,1,grey bin,food&garden ?,urban £,0.036000000000000004
+Garden waste,Green garden waste,1,grey bin,food&garden ?,urban ££,0.021621621621621623
+Garden waste,Green garden waste,1,grey bin,food&garden ?,urban £££,0.3659574468085106
+Garden waste,Green garden waste,1,grey bin,food&garden ?,rural £/££,0.007692307692307693
+Garden waste,Green garden waste,1,grey bin,food&garden ?,rural £££,0.029411764705882353
+Garden waste,Green garden waste,1,recycling bin,food&garden ?,urban £,0.0
+Garden waste,Green garden waste,1,recycling bin,food&garden ?,urban ££,0.0
+Garden waste,Green garden waste,1,recycling bin,food&garden ?,urban £££,0.0
+Garden waste,Green garden waste,1,recycling bin,food&garden ?,rural £/££,0.0
+Garden waste,Green garden waste,1,recycling bin,food&garden ?,rural £££,0.0
+Garden waste,Green garden waste,2,grey bin,food&garden ?,urban £,0.012244897959183673
+Garden waste,Green garden waste,2,grey bin,food&garden ?,urban ££,0.013157894736842105
+Garden waste,Green garden waste,2,grey bin,food&garden ?,urban £££,0.02
+Garden waste,Green garden waste,2,grey bin,food&garden ?,rural £/££,0.01020408163265306
+Garden waste,Green garden waste,2,grey bin,food&garden ?,rural £££,0.03469387755102041
+Garden waste,Green garden waste,2,recycling bin,food&garden ?,urban £,0.0
+Garden waste,Green garden waste,2,recycling bin,food&garden ?,urban ££,0.0
+Garden waste,Green garden waste,2,recycling bin,food&garden ?,urban £££,0.002
+Garden waste,Green garden waste,2,recycling bin,food&garden ?,rural £/££,0.0020408163265306124
+Garden waste,Green garden waste,2,recycling bin,food&garden ?,rural £££,0.0
+Garden waste,Woody and bulky garden waste,1,grey bin,food&garden ?,urban £,0.0
+Garden waste,Woody and bulky garden waste,1,grey bin,food&garden ?,urban ££,0.0
+Garden waste,Woody and bulky garden waste,1,grey bin,food&garden ?,urban £££,0.0
+Garden waste,Woody and bulky garden waste,1,grey bin,food&garden ?,rural £/££,0.0
+Garden waste,Woody and bulky garden waste,1,grey bin,food&garden ?,rural £££,0.00980392156862745
+Garden waste,Woody and bulky garden waste,1,recycling bin,food&garden ?,urban £,0.0
+Garden waste,Woody and bulky garden waste,1,recycling bin,food&garden ?,urban ££,0.0
+Garden waste,Woody and bulky garden waste,1,recycling bin,food&garden ?,urban £££,0.0
+Garden waste,Woody and bulky garden waste,1,recycling bin,food&garden ?,rural £/££,0.0
+Garden waste,Woody and bulky garden waste,1,recycling bin,food&garden ?,rural £££,0.0
+Garden waste,Woody and bulky garden waste,2,grey bin,food&garden ?,urban £,0.0
+Garden waste,Woody and bulky garden waste,2,grey bin,food&garden ?,urban ££,0.0
+Garden waste,Woody and bulky garden waste,2,grey bin,food&garden ?,urban £££,0.0
+Garden waste,Woody and bulky garden waste,2,grey bin,food&garden ?,rural £/££,0.08775510204081632
+Garden waste,Woody and bulky garden waste,2,grey bin,food&garden ?,rural £££,0.02040816326530612
+Garden waste,Woody and bulky garden waste,2,recycling bin,food&garden ?,urban £,0.0
+Garden waste,Woody and bulky garden waste,2,recycling bin,food&garden ?,urban ££,0.0
+Garden waste,Woody and bulky garden waste,2,recycling bin,food&garden ?,urban £££,0.0
+Garden waste,Woody and bulky garden waste,2,recycling bin,food&garden ?,rural £/££,0.0
+Garden waste,Woody and bulky garden waste,2,recycling bin,food&garden ?,rural £££,0.0
+Garden waste,Soil,1,grey bin,recycling site,urban £,0.11599999999999999
+Garden waste,Soil,1,grey bin,recycling site,urban ££,0.0
+Garden waste,Soil,1,grey bin,recycling site,urban £££,0.0
+Garden waste,Soil,1,grey bin,recycling site,rural £/££,0.0
+Garden waste,Soil,1,grey bin,recycling site,rural £££,0.0
+Garden waste,Soil,1,recycling bin,recycling site,urban £,0.0
+Garden waste,Soil,1,recycling bin,recycling site,urban ££,0.0
+Garden waste,Soil,1,recycling bin,recycling site,urban £££,0.0
+Garden waste,Soil,1,recycling bin,recycling site,rural £/££,0.0
+Garden waste,Soil,1,recycling bin,recycling site,rural £££,0.0
+Garden waste,Soil,2,grey bin,recycling site,urban £,0.16122448979591839
+Garden waste,Soil,2,grey bin,recycling site,urban ££,0.0
+Garden waste,Soil,2,grey bin,recycling site,urban £££,0.0
+Garden waste,Soil,2,grey bin,recycling site,rural £/££,0.0
+Garden waste,Soil,2,grey bin,recycling site,rural £££,0.022448979591836737
+Garden waste,Soil,2,recycling bin,recycling site,urban £,0.0
+Garden waste,Soil,2,recycling bin,recycling site,urban ££,0.0
+Garden waste,Soil,2,recycling bin,recycling site,urban £££,0.0
+Garden waste,Soil,2,recycling bin,recycling site,rural £/££,0.0
+Garden waste,Soil,2,recycling bin,recycling site,rural £££,0.0
+Food wastes,Avoidable food waste,1,grey bin,food&garden ?,urban £,0.956
+Food wastes,Avoidable food waste,1,grey bin,food&garden ?,urban ££,1.2216216216216218
+Food wastes,Avoidable food waste,1,grey bin,food&garden ?,urban £££,0.5191489361702127
+Food wastes,Avoidable food waste,1,grey bin,food&garden ?,rural £/££,0.8961538461538462
+Food wastes,Avoidable food waste,1,grey bin,food&garden ?,rural £££,1.0607843137254902
+Food wastes,Avoidable food waste,1,recycling bin,food&garden ?,urban £,0.0
+Food wastes,Avoidable food waste,1,recycling bin,food&garden ?,urban ££,0.0
+Food wastes,Avoidable food waste,1,recycling bin,food&garden ?,urban £££,0.036170212765957444
+Food wastes,Avoidable food waste,1,recycling bin,food&garden ?,rural £/££,0.0
+Food wastes,Avoidable food waste,1,recycling bin,food&garden ?,rural £££,0.0
+Food wastes,Avoidable food waste,2,grey bin,food&garden ?,urban £,1.5428571428571427
+Food wastes,Avoidable food waste,2,grey bin,food&garden ?,urban ££,1.418421052631579
+Food wastes,Avoidable food waste,2,grey bin,food&garden ?,urban £££,0.7759999999999999
+Food wastes,Avoidable food waste,2,grey bin,food&garden ?,rural £/££,0.8244897959183674
+Food wastes,Avoidable food waste,2,grey bin,food&garden ?,rural £££,0.8469387755102041
+Food wastes,Avoidable food waste,2,recycling bin,food&garden ?,urban £,0.0020408163265306124
+Food wastes,Avoidable food waste,2,recycling bin,food&garden ?,urban ££,0.002631578947368421
+Food wastes,Avoidable food waste,2,recycling bin,food&garden ?,urban £££,0.016
+Food wastes,Avoidable food waste,2,recycling bin,food&garden ?,rural £/££,0.03469387755102041
+Food wastes,Avoidable food waste,2,recycling bin,food&garden ?,rural £££,0.01020408163265306
+Food wastes,Unavoidable food waste,1,grey bin,food&garden ?,urban £,1.54
+Food wastes,Unavoidable food waste,1,grey bin,food&garden ?,urban ££,1.364864864864865
+Food wastes,Unavoidable food waste,1,grey bin,food&garden ?,urban £££,0.7872340425531915
+Food wastes,Unavoidable food waste,1,grey bin,food&garden ?,rural £/££,0.8730769230769231
+Food wastes,Unavoidable food waste,1,grey bin,food&garden ?,rural £££,1.3372549019607844
+Food wastes,Unavoidable food waste,1,recycling bin,food&garden ?,urban £,0.03
+Food wastes,Unavoidable food waste,1,recycling bin,food&garden ?,urban ££,0.04864864864864865
+Food wastes,Unavoidable food waste,1,recycling bin,food&garden ?,urban £££,0.0
+Food wastes,Unavoidable food waste,1,recycling bin,food&garden ?,rural £/££,0.009615384615384616
+Food wastes,Unavoidable food waste,1,recycling bin,food&garden ?,rural £££,0.0
+Food wastes,Unavoidable food waste,2,grey bin,food&garden ?,urban £,1.3204081632653062
+Food wastes,Unavoidable food waste,2,grey bin,food&garden ?,urban ££,0.9184210526315791
+Food wastes,Unavoidable food waste,2,grey bin,food&garden ?,urban £££,0.9620000000000001
+Food wastes,Unavoidable food waste,2,grey bin,food&garden ?,rural £/££,0.889795918367347
+Food wastes,Unavoidable food waste,2,grey bin,food&garden ?,rural £££,1.4591836734693877
+Food wastes,Unavoidable food waste,2,recycling bin,food&garden ?,urban £,0.0
+Food wastes,Unavoidable food waste,2,recycling bin,food&garden ?,urban ££,0.018421052631578946
+Food wastes,Unavoidable food waste,2,recycling bin,food&garden ?,urban £££,0.0
+Food wastes,Unavoidable food waste,2,recycling bin,food&garden ?,rural £/££,0.0326530612244898
+Food wastes,Unavoidable food waste,2,recycling bin,food&garden ?,rural £££,0.0
+Food wastes,Cooking oil/fats,1,grey bin,recycling site,urban £,0.0
+Food wastes,Cooking oil/fats,1,grey bin,recycling site,urban ££,0.002702702702702703
+Food wastes,Cooking oil/fats,1,grey bin,recycling site,urban £££,0.0
+Food wastes,Cooking oil/fats,1,grey bin,recycling site,rural £/££,0.0
+Food wastes,Cooking oil/fats,1,grey bin,recycling site,rural £££,0.0
+Food wastes,Cooking oil/fats,1,recycling bin,recycling site,urban £,0.0
+Food wastes,Cooking oil/fats,1,recycling bin,recycling site,urban ££,0.0
+Food wastes,Cooking oil/fats,1,recycling bin,recycling site,urban £££,0.0
+Food wastes,Cooking oil/fats,1,recycling bin,recycling site,rural £/££,0.0
+Food wastes,Cooking oil/fats,1,recycling bin,recycling site,rural £££,0.0
+Food wastes,Cooking oil/fats,2,grey bin,recycling site,urban £,0.014285714285714285
+Food wastes,Cooking oil/fats,2,grey bin,recycling site,urban ££,0.005263157894736842
+Food wastes,Cooking oil/fats,2,grey bin,recycling site,urban £££,0.012
+Food wastes,Cooking oil/fats,2,grey bin,recycling site,rural £/££,0.00816326530612245
+Food wastes,Cooking oil/fats,2,grey bin,recycling site,rural £££,0.0
+Food wastes,Cooking oil/fats,2,recycling bin,recycling site,urban £,0.0
+Food wastes,Cooking oil/fats,2,recycling bin,recycling site,urban ££,0.0
+Food wastes,Cooking oil/fats,2,recycling bin,recycling site,urban £££,0.0
+Food wastes,Cooking oil/fats,2,recycling bin,recycling site,rural £/££,0.0
+Food wastes,Cooking oil/fats,2,recycling bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - treated,1,grey bin,recycling site,urban £,0.012
+Wood wastes - non-furniture and garden waste,Wood - treated,1,grey bin,recycling site,urban ££,0.016216216216216217
+Wood wastes - non-furniture and garden waste,Wood - treated,1,grey bin,recycling site,urban £££,0.0425531914893617
+Wood wastes - non-furniture and garden waste,Wood - treated,1,grey bin,recycling site,rural £/££,0.011538461538461537
+Wood wastes - non-furniture and garden waste,Wood - treated,1,grey bin,recycling site,rural £££,0.0058823529411764705
+Wood wastes - non-furniture and garden waste,Wood - treated,1,recycling bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Wood - treated,1,recycling bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Wood - treated,1,recycling bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - treated,1,recycling bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Wood - treated,1,recycling bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - treated,2,grey bin,recycling site,urban £,0.08979591836734695
+Wood wastes - non-furniture and garden waste,Wood - treated,2,grey bin,recycling site,urban ££,0.05526315789473685
+Wood wastes - non-furniture and garden waste,Wood - treated,2,grey bin,recycling site,urban £££,0.036000000000000004
+Wood wastes - non-furniture and garden waste,Wood - treated,2,grey bin,recycling site,rural £/££,0.06326530612244897
+Wood wastes - non-furniture and garden waste,Wood - treated,2,grey bin,recycling site,rural £££,0.030612244897959183
+Wood wastes - non-furniture and garden waste,Wood - treated,2,recycling bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Wood - treated,2,recycling bin,recycling site,urban ££,0.002631578947368421
+Wood wastes - non-furniture and garden waste,Wood - treated,2,recycling bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - treated,2,recycling bin,recycling site,rural £/££,0.022448979591836737
+Wood wastes - non-furniture and garden waste,Wood - treated,2,recycling bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,grey bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,grey bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,grey bin,recycling site,urban £££,0.02127659574468085
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,grey bin,recycling site,rural £/££,0.019230769230769232
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,grey bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,recycling bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,recycling bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,recycling bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,recycling bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,1,recycling bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,grey bin,recycling site,urban £,0.07346938775510205
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,grey bin,recycling site,urban ££,0.042105263157894736
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,grey bin,recycling site,urban £££,0.07400000000000001
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,grey bin,recycling site,rural £/££,0.01020408163265306
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,grey bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,recycling bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,recycling bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,recycling bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,recycling bin,recycling site,rural £/££,0.0020408163265306124
+Wood wastes - non-furniture and garden waste,Wood - untreated,2,recycling bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,grey bin,recycling site,urban £,0.013999999999999999
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,grey bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,grey bin,recycling site,urban £££,0.002127659574468085
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,grey bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,grey bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,recycling bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,recycling bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,recycling bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,recycling bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,1,recycling bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,grey bin,recycling site,urban £,0.00816326530612245
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,grey bin,recycling site,urban ££,0.005263157894736842
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,grey bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,grey bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,grey bin,recycling site,rural £££,0.061224489795918366
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,recycling bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,recycling bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,recycling bin,recycling site,urban £££,0.004
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,recycling bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Chipboard and mdf,2,recycling bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,grey bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,grey bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,grey bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,grey bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,grey bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,recycling bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,recycling bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,recycling bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,recycling bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,1,recycling bin,recycling site,rural £££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,grey bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,grey bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,grey bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,grey bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,grey bin,recycling site,rural £££,0.0673469387755102
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,recycling bin,recycling site,urban £,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,recycling bin,recycling site,urban ££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,recycling bin,recycling site,urban £££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,recycling bin,recycling site,rural £/££,0.0
+Wood wastes - non-furniture and garden waste,Composite wood materials,2,recycling bin,recycling site,rural £££,0.0
+WEEE,WEEE - Large Domestic App,1,grey bin,recycling site,urban £,0.0
+WEEE,WEEE - Large Domestic App,1,grey bin,recycling site,urban ££,0.0
+WEEE,WEEE - Large Domestic App,1,grey bin,recycling site,urban £££,0.010638297872340425
+WEEE,WEEE - Large Domestic App,1,grey bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Large Domestic App,1,grey bin,recycling site,rural £££,0.0
+WEEE,WEEE - Large Domestic App,1,recycling bin,recycling site,urban £,0.0
+WEEE,WEEE - Large Domestic App,1,recycling bin,recycling site,urban ££,0.0
+WEEE,WEEE - Large Domestic App,1,recycling bin,recycling site,urban £££,0.0
+WEEE,WEEE - Large Domestic App,1,recycling bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Large Domestic App,1,recycling bin,recycling site,rural £££,0.0
+WEEE,WEEE - Large Domestic App,2,grey bin,recycling site,urban £,0.05102040816326531
+WEEE,WEEE - Large Domestic App,2,grey bin,recycling site,urban ££,0.07631578947368421
+WEEE,WEEE - Large Domestic App,2,grey bin,recycling site,urban £££,0.0
+WEEE,WEEE - Large Domestic App,2,grey bin,recycling site,rural £/££,0.05102040816326531
+WEEE,WEEE - Large Domestic App,2,grey bin,recycling site,rural £££,0.0
+WEEE,WEEE - Large Domestic App,2,recycling bin,recycling site,urban £,0.0
+WEEE,WEEE - Large Domestic App,2,recycling bin,recycling site,urban ££,0.0
+WEEE,WEEE - Large Domestic App,2,recycling bin,recycling site,urban £££,0.0
+WEEE,WEEE - Large Domestic App,2,recycling bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Large Domestic App,2,recycling bin,recycling site,rural £££,0.0
+WEEE,WEEE - Small Domestic App,1,grey bin,recycling site,urban £,0.11
+WEEE,WEEE - Small Domestic App,1,grey bin,recycling site,urban ££,0.0013513513513513514
+WEEE,WEEE - Small Domestic App,1,grey bin,recycling site,urban £££,0.01276595744680851
+WEEE,WEEE - Small Domestic App,1,grey bin,recycling site,rural £/££,0.023076923076923075
+WEEE,WEEE - Small Domestic App,1,grey bin,recycling site,rural £££,0.025490196078431372
+WEEE,WEEE - Small Domestic App,1,recycling bin,recycling site,urban £,0.0
+WEEE,WEEE - Small Domestic App,1,recycling bin,recycling site,urban ££,0.0
+WEEE,WEEE - Small Domestic App,1,recycling bin,recycling site,urban £££,0.0
+WEEE,WEEE - Small Domestic App,1,recycling bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Small Domestic App,1,recycling bin,recycling site,rural £££,0.0
+WEEE,WEEE - Small Domestic App,2,grey bin,recycling site,urban £,0.13877551020408163
+WEEE,WEEE - Small Domestic App,2,grey bin,recycling site,urban ££,0.021052631578947368
+WEEE,WEEE - Small Domestic App,2,grey bin,recycling site,urban £££,0.016
+WEEE,WEEE - Small Domestic App,2,grey bin,recycling site,rural £/££,0.022448979591836737
+WEEE,WEEE - Small Domestic App,2,grey bin,recycling site,rural £££,0.046938775510204075
+WEEE,WEEE - Small Domestic App,2,recycling bin,recycling site,urban £,0.0
+WEEE,WEEE - Small Domestic App,2,recycling bin,recycling site,urban ££,0.013157894736842105
+WEEE,WEEE - Small Domestic App,2,recycling bin,recycling site,urban £££,0.0
+WEEE,WEEE - Small Domestic App,2,recycling bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Small Domestic App,2,recycling bin,recycling site,rural £££,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,grey bin,recycling site,urban £,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,grey bin,recycling site,urban ££,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,grey bin,recycling site,urban £££,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,grey bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,grey bin,recycling site,rural £££,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,recycling bin,recycling site,urban £,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,recycling bin,recycling site,urban ££,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,recycling bin,recycling site,urban £££,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,recycling bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Cathode Ray Tubes,1,recycling bin,recycling site,rural £££,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,grey bin,recycling site,urban £,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,grey bin,recycling site,urban ££,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,grey bin,recycling site,urban £££,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,grey bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,grey bin,recycling site,rural £££,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,recycling bin,recycling site,urban £,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,recycling bin,recycling site,urban ££,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,recycling bin,recycling site,urban £££,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,recycling bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Cathode Ray Tubes,2,recycling bin,recycling site,rural £££,0.0
+WEEE,WEEE - Fridges & Freezers,1,grey bin,recycling site,urban £,0.0
+WEEE,WEEE - Fridges & Freezers,1,grey bin,recycling site,urban ££,0.0
+WEEE,WEEE - Fridges & Freezers,1,grey bin,recycling site,urban £££,0.0
+WEEE,WEEE - Fridges & Freezers,1,grey bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Fridges & Freezers,1,grey bin,recycling site,rural £££,0.0
+WEEE,WEEE - Fridges & Freezers,1,recycling bin,recycling site,urban £,0.0
+WEEE,WEEE - Fridges & Freezers,1,recycling bin,recycling site,urban ££,0.0
+WEEE,WEEE - Fridges & Freezers,1,recycling bin,recycling site,urban £££,0.0
+WEEE,WEEE - Fridges & Freezers,1,recycling bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Fridges & Freezers,1,recycling bin,recycling site,rural £££,0.0
+WEEE,WEEE - Fridges & Freezers,2,grey bin,recycling site,urban £,0.0
+WEEE,WEEE - Fridges & Freezers,2,grey bin,recycling site,urban ££,0.0
+WEEE,WEEE - Fridges & Freezers,2,grey bin,recycling site,urban £££,0.0
+WEEE,WEEE - Fridges & Freezers,2,grey bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Fridges & Freezers,2,grey bin,recycling site,rural £££,0.0
+WEEE,WEEE - Fridges & Freezers,2,recycling bin,recycling site,urban £,0.0
+WEEE,WEEE - Fridges & Freezers,2,recycling bin,recycling site,urban ££,0.0
+WEEE,WEEE - Fridges & Freezers,2,recycling bin,recycling site,urban £££,0.0
+WEEE,WEEE - Fridges & Freezers,2,recycling bin,recycling site,rural £/££,0.0
+WEEE,WEEE - Fridges & Freezers,2,recycling bin,recycling site,rural £££,0.0
+Tyres,Tyres,1,grey bin,recycling site,urban £,0.0
+Tyres,Tyres,1,grey bin,recycling site,urban ££,0.0
+Tyres,Tyres,1,grey bin,recycling site,urban £££,0.0
+Tyres,Tyres,1,grey bin,recycling site,rural £/££,0.0
+Tyres,Tyres,1,grey bin,recycling site,rural £££,0.0
+Tyres,Tyres,1,recycling bin,recycling site,urban £,0.0
+Tyres,Tyres,1,recycling bin,recycling site,urban ££,0.0
+Tyres,Tyres,1,recycling bin,recycling site,urban £££,0.0
+Tyres,Tyres,1,recycling bin,recycling site,rural £/££,0.0
+Tyres,Tyres,1,recycling bin,recycling site,rural £££,0.0
+Tyres,Tyres,2,grey bin,recycling site,urban £,0.0
+Tyres,Tyres,2,grey bin,recycling site,urban ££,0.0
+Tyres,Tyres,2,grey bin,recycling site,urban £££,0.0
+Tyres,Tyres,2,grey bin,recycling site,rural £/££,0.0
+Tyres,Tyres,2,grey bin,recycling site,rural £££,0.0
+Tyres,Tyres,2,recycling bin,recycling site,urban £,0.0
+Tyres,Tyres,2,recycling bin,recycling site,urban ££,0.0
+Tyres,Tyres,2,recycling bin,recycling site,urban £££,0.0
+Tyres,Tyres,2,recycling bin,recycling site,rural £/££,0.0
+Tyres,Tyres,2,recycling bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,grey bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,grey bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,grey bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,grey bin,recycling site,rural £/££,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,grey bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,recycling bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,recycling bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,recycling bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,recycling bin,recycling site,rural £/££,0.0
+"Miscellaneous 
+combustible",Soft furniture,1,recycling bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,grey bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,grey bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,grey bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,grey bin,recycling site,rural £/££,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,grey bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,recycling bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,recycling bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,recycling bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Soft furniture,2,recycling bin,recycling site,rural £/££,0.014285714285714285
+"Miscellaneous 
+combustible",Soft furniture,2,recycling bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,grey bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,grey bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,grey bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,grey bin,recycling site,rural £/££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,grey bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,recycling bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,recycling bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,recycling bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,recycling bin,recycling site,rural £/££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,1,recycling bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,grey bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,grey bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,grey bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,grey bin,recycling site,rural £/££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,grey bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,recycling bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,recycling bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,recycling bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,recycling bin,recycling site,rural £/££,0.0
+"Miscellaneous 
+combustible",Wooden furniture,2,recycling bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Bric-a-brac,1,grey bin,recycling site,urban £,0.1
+"Miscellaneous 
+combustible",Bric-a-brac,1,grey bin,recycling site,urban ££,0.013513513513513514
+"Miscellaneous 
+combustible",Bric-a-brac,1,grey bin,recycling site,urban £££,0.03829787234042553
+"Miscellaneous 
+combustible",Bric-a-brac,1,grey bin,recycling site,rural £/££,0.06923076923076923
+"Miscellaneous 
+combustible",Bric-a-brac,1,grey bin,recycling site,rural £££,0.12156862745098039
+"Miscellaneous 
+combustible",Bric-a-brac,1,recycling bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Bric-a-brac,1,recycling bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Bric-a-brac,1,recycling bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Bric-a-brac,1,recycling bin,recycling site,rural £/££,0.0019230769230769232
+"Miscellaneous 
+combustible",Bric-a-brac,1,recycling bin,recycling site,rural £££,0.049019607843137254
+"Miscellaneous 
+combustible",Bric-a-brac,2,grey bin,recycling site,urban £,0.05918367346938775
+"Miscellaneous 
+combustible",Bric-a-brac,2,grey bin,recycling site,urban ££,0.005263157894736842
+"Miscellaneous 
+combustible",Bric-a-brac,2,grey bin,recycling site,urban £££,0.022000000000000002
+"Miscellaneous 
+combustible",Bric-a-brac,2,grey bin,recycling site,rural £/££,0.08163265306122448
+"Miscellaneous 
+combustible",Bric-a-brac,2,grey bin,recycling site,rural £££,0.05714285714285714
+"Miscellaneous 
+combustible",Bric-a-brac,2,recycling bin,recycling site,urban £,0.0
+"Miscellaneous 
+combustible",Bric-a-brac,2,recycling bin,recycling site,urban ££,0.0
+"Miscellaneous 
+combustible",Bric-a-brac,2,recycling bin,recycling site,urban £££,0.0
+"Miscellaneous 
+combustible",Bric-a-brac,2,recycling bin,recycling site,rural £/££,0.0
+"Miscellaneous 
+combustible",Bric-a-brac,2,recycling bin,recycling site,rural £££,0.0
+"Miscellaneous 
+combustible",Mattresses,1,grey bin,grey bin,urban £,0.0
+"Miscellaneous 
+combustible",Mattresses,1,grey bin,grey bin,urban ££,0.0
+"Miscellaneous 
+combustible",Mattresses,1,grey bin,grey bin,urban £££,0.0
+"Miscellaneous 
+combustible",Mattresses,1,grey bin,grey bin,rural £/££,0.0
+"Miscellaneous 
+combustible",Mattresses,1,grey bin,grey bin,rural £££,0.0
+"Miscellaneous 
+combustible",Mattresses,1,recycling bin,grey bin,urban £,0.0
+"Miscellaneous 
+combustible",Mattresses,1,recycling bin,grey bin,urban ££,0.0
+"Miscellaneous 
+combustible",Mattresses,1,recycling bin,grey bin,urban £££,0.0
+"Miscellaneous 
+combustible",Mattresses,1,recycling bin,grey bin,rural £/££,0.0
+"Miscellaneous 
+combustible",Mattresses,1,recycling bin,grey bin,rural £££,0.0
+"Miscellaneous 
+combustible",Mattresses,2,grey bin,grey bin,urban £,0.0
+"Miscellaneous 
+combustible",Mattresses,2,grey bin,grey bin,urban ££,0.0
+"Miscellaneous 
+combustible",Mattresses,2,grey bin,grey bin,urban £££,0.0
+"Miscellaneous 
+combustible",Mattresses,2,grey bin,grey bin,rural £/££,0.0
+"Miscellaneous 
+combustible",Mattresses,2,grey bin,grey bin,rural £££,0.0
+"Miscellaneous 
+combustible",Mattresses,2,recycling bin,grey bin,urban £,0.0
+"Miscellaneous 
+combustible",Mattresses,2,recycling bin,grey bin,urban ££,0.0
+"Miscellaneous 
+combustible",Mattresses,2,recycling bin,grey bin,urban £££,0.0
+"Miscellaneous 
+combustible",Mattresses,2,recycling bin,grey bin,rural £/££,0.0
+"Miscellaneous 
+combustible",Mattresses,2,recycling bin,grey bin,rural £££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,grey bin,grey bin,urban £,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,grey bin,grey bin,urban ££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,grey bin,grey bin,urban £££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,grey bin,grey bin,rural £/££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,grey bin,grey bin,rural £££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,recycling bin,grey bin,urban £,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,recycling bin,grey bin,urban ££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,recycling bin,grey bin,urban £££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,recycling bin,grey bin,rural £/££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,1,recycling bin,grey bin,rural £££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,grey bin,grey bin,urban £,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,grey bin,grey bin,urban ££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,grey bin,grey bin,urban £££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,grey bin,grey bin,rural £/££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,grey bin,grey bin,rural £££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,recycling bin,grey bin,urban £,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,recycling bin,grey bin,urban ££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,recycling bin,grey bin,urban £££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,recycling bin,grey bin,rural £/££,0.0
+"Miscellaneous 
+combustible",Other combustible materials not otherwise specified,2,recycling bin,grey bin,rural £££,0.0
+Textiles & footwear,Clothing textiles,1,grey bin,recycling site,urban £,0.136
+Textiles & footwear,Clothing textiles,1,grey bin,recycling site,urban ££,0.13513513513513514
+Textiles & footwear,Clothing textiles,1,grey bin,recycling site,urban £££,0.06170212765957447
+Textiles & footwear,Clothing textiles,1,grey bin,recycling site,rural £/££,0.21346153846153845
+Textiles & footwear,Clothing textiles,1,grey bin,recycling site,rural £££,0.1411764705882353
+Textiles & footwear,Clothing textiles,1,recycling bin,recycling site,urban £,0.0
+Textiles & footwear,Clothing textiles,1,recycling bin,recycling site,urban ££,0.0
+Textiles & footwear,Clothing textiles,1,recycling bin,recycling site,urban £££,0.014893617021276595
+Textiles & footwear,Clothing textiles,1,recycling bin,recycling site,rural £/££,0.0
+Textiles & footwear,Clothing textiles,1,recycling bin,recycling site,rural £££,0.0
+Textiles & footwear,Clothing textiles,2,grey bin,recycling site,urban £,0.16530612244897958
+Textiles & footwear,Clothing textiles,2,grey bin,recycling site,urban ££,0.14210526315789473
+Textiles & footwear,Clothing textiles,2,grey bin,recycling site,urban £££,0.126
+Textiles & footwear,Clothing textiles,2,grey bin,recycling site,rural £/££,0.18571428571428572
+Textiles & footwear,Clothing textiles,2,grey bin,recycling site,rural £££,0.2612244897959184
+Textiles & footwear,Clothing textiles,2,recycling bin,recycling site,urban £,0.0020408163265306124
+Textiles & footwear,Clothing textiles,2,recycling bin,recycling site,urban ££,0.002631578947368421
+Textiles & footwear,Clothing textiles,2,recycling bin,recycling site,urban £££,0.0
+Textiles & footwear,Clothing textiles,2,recycling bin,recycling site,rural £/££,0.02653061224489796
+Textiles & footwear,Clothing textiles,2,recycling bin,recycling site,rural £££,0.0020408163265306124
+Textiles & footwear,"Shoes, belts & bags",1,grey bin,recycling site,urban £,0.08
+Textiles & footwear,"Shoes, belts & bags",1,grey bin,recycling site,urban ££,0.04054054054054054
+Textiles & footwear,"Shoes, belts & bags",1,grey bin,recycling site,urban £££,0.06595744680851064
+Textiles & footwear,"Shoes, belts & bags",1,grey bin,recycling site,rural £/££,0.04615384615384615
+Textiles & footwear,"Shoes, belts & bags",1,grey bin,recycling site,rural £££,0.10980392156862745
+Textiles & footwear,"Shoes, belts & bags",1,recycling bin,recycling site,urban £,0.032
+Textiles & footwear,"Shoes, belts & bags",1,recycling bin,recycling site,urban ££,0.0
+Textiles & footwear,"Shoes, belts & bags",1,recycling bin,recycling site,urban £££,0.010638297872340425
+Textiles & footwear,"Shoes, belts & bags",1,recycling bin,recycling site,rural £/££,0.0
+Textiles & footwear,"Shoes, belts & bags",1,recycling bin,recycling site,rural £££,0.0
+Textiles & footwear,"Shoes, belts & bags",2,grey bin,recycling site,urban £,0.08775510204081632
+Textiles & footwear,"Shoes, belts & bags",2,grey bin,recycling site,urban ££,0.08421052631578947
+Textiles & footwear,"Shoes, belts & bags",2,grey bin,recycling site,urban £££,0.092
+Textiles & footwear,"Shoes, belts & bags",2,grey bin,recycling site,rural £/££,0.10204081632653061
+Textiles & footwear,"Shoes, belts & bags",2,grey bin,recycling site,rural £££,0.16734693877551018
+Textiles & footwear,"Shoes, belts & bags",2,recycling bin,recycling site,urban £,0.0
+Textiles & footwear,"Shoes, belts & bags",2,recycling bin,recycling site,urban ££,0.018421052631578946
+Textiles & footwear,"Shoes, belts & bags",2,recycling bin,recycling site,urban £££,0.0
+Textiles & footwear,"Shoes, belts & bags",2,recycling bin,recycling site,rural £/££,0.00816326530612245
+Textiles & footwear,"Shoes, belts & bags",2,recycling bin,recycling site,rural £££,0.006122448979591836
+Textiles & footwear,Carpet & underlay,1,grey bin,grey bin,urban £,0.05
+Textiles & footwear,Carpet & underlay,1,grey bin,grey bin,urban ££,0.0
+Textiles & footwear,Carpet & underlay,1,grey bin,grey bin,urban £££,0.26382978723404255
+Textiles & footwear,Carpet & underlay,1,grey bin,grey bin,rural £/££,0.03461538461538462
+Textiles & footwear,Carpet & underlay,1,grey bin,grey bin,rural £££,0.011764705882352941
+Textiles & footwear,Carpet & underlay,1,recycling bin,grey bin,urban £,0.0
+Textiles & footwear,Carpet & underlay,1,recycling bin,grey bin,urban ££,0.0
+Textiles & footwear,Carpet & underlay,1,recycling bin,grey bin,urban £££,0.0
+Textiles & footwear,Carpet & underlay,1,recycling bin,grey bin,rural £/££,0.0
+Textiles & footwear,Carpet & underlay,1,recycling bin,grey bin,rural £££,0.0
+Textiles & footwear,Carpet & underlay,2,grey bin,grey bin,urban £,0.004081632653061225
+Textiles & footwear,Carpet & underlay,2,grey bin,grey bin,urban ££,0.005263157894736842
+Textiles & footwear,Carpet & underlay,2,grey bin,grey bin,urban £££,0.02
+Textiles & footwear,Carpet & underlay,2,grey bin,grey bin,rural £/££,0.00816326530612245
+Textiles & footwear,Carpet & underlay,2,grey bin,grey bin,rural £££,0.05510204081632653
+Textiles & footwear,Carpet & underlay,2,recycling bin,grey bin,urban £,0.0
+Textiles & footwear,Carpet & underlay,2,recycling bin,grey bin,urban ££,0.0
+Textiles & footwear,Carpet & underlay,2,recycling bin,grey bin,urban £££,0.0
+Textiles & footwear,Carpet & underlay,2,recycling bin,grey bin,rural £/££,0.0
+Textiles & footwear,Carpet & underlay,2,recycling bin,grey bin,rural £££,0.0
+Textiles & footwear,Non-clothing textiles,1,grey bin,recycling site,urban £,0.042
+Textiles & footwear,Non-clothing textiles,1,grey bin,recycling site,urban ££,0.021621621621621623
+Textiles & footwear,Non-clothing textiles,1,grey bin,recycling site,urban £££,0.09574468085106383
+Textiles & footwear,Non-clothing textiles,1,grey bin,recycling site,rural £/££,0.01730769230769231
+Textiles & footwear,Non-clothing textiles,1,grey bin,recycling site,rural £££,0.0392156862745098
+Textiles & footwear,Non-clothing textiles,1,recycling bin,recycling site,urban £,0.008
+Textiles & footwear,Non-clothing textiles,1,recycling bin,recycling site,urban ££,0.0
+Textiles & footwear,Non-clothing textiles,1,recycling bin,recycling site,urban £££,0.0
+Textiles & footwear,Non-clothing textiles,1,recycling bin,recycling site,rural £/££,0.0
+Textiles & footwear,Non-clothing textiles,1,recycling bin,recycling site,rural £££,0.0
+Textiles & footwear,Non-clothing textiles,2,grey bin,recycling site,urban £,0.06938775510204082
+Textiles & footwear,Non-clothing textiles,2,grey bin,recycling site,urban ££,0.05789473684210527
+Textiles & footwear,Non-clothing textiles,2,grey bin,recycling site,urban £££,0.07
+Textiles & footwear,Non-clothing textiles,2,grey bin,recycling site,rural £/££,0.09183673469387756
+Textiles & footwear,Non-clothing textiles,2,grey bin,recycling site,rural £££,0.08775510204081632
+Textiles & footwear,Non-clothing textiles,2,recycling bin,recycling site,urban £,0.0
+Textiles & footwear,Non-clothing textiles,2,recycling bin,recycling site,urban ££,0.002631578947368421
+Textiles & footwear,Non-clothing textiles,2,recycling bin,recycling site,urban £££,0.0
+Textiles & footwear,Non-clothing textiles,2,recycling bin,recycling site,rural £/££,0.05102040816326531
+Textiles & footwear,Non-clothing textiles,2,recycling bin,recycling site,rural £££,0.0020408163265306124
+Misc. non-combustible,Rubble,1,grey bin,recycling site,urban £,0.0
+Misc. non-combustible,Rubble,1,grey bin,recycling site,urban ££,0.0
+Misc. non-combustible,Rubble,1,grey bin,recycling site,urban £££,0.0
+Misc. non-combustible,Rubble,1,grey bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Rubble,1,grey bin,recycling site,rural £££,0.0
+Misc. non-combustible,Rubble,1,recycling bin,recycling site,urban £,0.0
+Misc. non-combustible,Rubble,1,recycling bin,recycling site,urban ££,0.0
+Misc. non-combustible,Rubble,1,recycling bin,recycling site,urban £££,0.0
+Misc. non-combustible,Rubble,1,recycling bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Rubble,1,recycling bin,recycling site,rural £££,0.0
+Misc. non-combustible,Rubble,2,grey bin,recycling site,urban £,0.0
+Misc. non-combustible,Rubble,2,grey bin,recycling site,urban ££,0.0
+Misc. non-combustible,Rubble,2,grey bin,recycling site,urban £££,0.0
+Misc. non-combustible,Rubble,2,grey bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Rubble,2,grey bin,recycling site,rural £££,0.0
+Misc. non-combustible,Rubble,2,recycling bin,recycling site,urban £,0.0
+Misc. non-combustible,Rubble,2,recycling bin,recycling site,urban ££,0.0
+Misc. non-combustible,Rubble,2,recycling bin,recycling site,urban £££,0.0
+Misc. non-combustible,Rubble,2,recycling bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Rubble,2,recycling bin,recycling site,rural £££,0.0
+Misc. non-combustible,Plasterboard,1,grey bin,recycling site,urban £,0.0
+Misc. non-combustible,Plasterboard,1,grey bin,recycling site,urban ££,0.0
+Misc. non-combustible,Plasterboard,1,grey bin,recycling site,urban £££,0.11063829787234043
+Misc. non-combustible,Plasterboard,1,grey bin,recycling site,rural £/££,0.1423076923076923
+Misc. non-combustible,Plasterboard,1,grey bin,recycling site,rural £££,0.00784313725490196
+Misc. non-combustible,Plasterboard,1,recycling bin,recycling site,urban £,0.0
+Misc. non-combustible,Plasterboard,1,recycling bin,recycling site,urban ££,0.0
+Misc. non-combustible,Plasterboard,1,recycling bin,recycling site,urban £££,0.0
+Misc. non-combustible,Plasterboard,1,recycling bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Plasterboard,1,recycling bin,recycling site,rural £££,0.0
+Misc. non-combustible,Plasterboard,2,grey bin,recycling site,urban £,0.0
+Misc. non-combustible,Plasterboard,2,grey bin,recycling site,urban ££,0.0
+Misc. non-combustible,Plasterboard,2,grey bin,recycling site,urban £££,0.0
+Misc. non-combustible,Plasterboard,2,grey bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Plasterboard,2,grey bin,recycling site,rural £££,0.0
+Misc. non-combustible,Plasterboard,2,recycling bin,recycling site,urban £,0.0
+Misc. non-combustible,Plasterboard,2,recycling bin,recycling site,urban ££,0.0
+Misc. non-combustible,Plasterboard,2,recycling bin,recycling site,urban £££,0.0
+Misc. non-combustible,Plasterboard,2,recycling bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Plasterboard,2,recycling bin,recycling site,rural £££,0.0
+Misc. non-combustible,Other construction and demolition waste,1,grey bin,recycling site,urban £,0.0
+Misc. non-combustible,Other construction and demolition waste,1,grey bin,recycling site,urban ££,0.002702702702702703
+Misc. non-combustible,Other construction and demolition waste,1,grey bin,recycling site,urban £££,0.01276595744680851
+Misc. non-combustible,Other construction and demolition waste,1,grey bin,recycling site,rural £/££,0.5076923076923077
+Misc. non-combustible,Other construction and demolition waste,1,grey bin,recycling site,rural £££,0.060784313725490195
+Misc. non-combustible,Other construction and demolition waste,1,recycling bin,recycling site,urban £,0.0
+Misc. non-combustible,Other construction and demolition waste,1,recycling bin,recycling site,urban ££,0.0
+Misc. non-combustible,Other construction and demolition waste,1,recycling bin,recycling site,urban £££,0.02127659574468085
+Misc. non-combustible,Other construction and demolition waste,1,recycling bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Other construction and demolition waste,1,recycling bin,recycling site,rural £££,0.0
+Misc. non-combustible,Other construction and demolition waste,2,grey bin,recycling site,urban £,0.09795918367346938
+Misc. non-combustible,Other construction and demolition waste,2,grey bin,recycling site,urban ££,0.0
+Misc. non-combustible,Other construction and demolition waste,2,grey bin,recycling site,urban £££,0.0
+Misc. non-combustible,Other construction and demolition waste,2,grey bin,recycling site,rural £/££,0.22448979591836735
+Misc. non-combustible,Other construction and demolition waste,2,grey bin,recycling site,rural £££,0.0
+Misc. non-combustible,Other construction and demolition waste,2,recycling bin,recycling site,urban £,0.0
+Misc. non-combustible,Other construction and demolition waste,2,recycling bin,recycling site,urban ££,0.0
+Misc. non-combustible,Other construction and demolition waste,2,recycling bin,recycling site,urban £££,0.0
+Misc. non-combustible,Other construction and demolition waste,2,recycling bin,recycling site,rural £/££,0.0
+Misc. non-combustible,Other construction and demolition waste,2,recycling bin,recycling site,rural £££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,grey bin,grey bin,urban £,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,grey bin,grey bin,urban ££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,grey bin,grey bin,urban £££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,grey bin,grey bin,rural £/££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,grey bin,grey bin,rural £££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,recycling bin,grey bin,urban £,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,recycling bin,grey bin,urban ££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,recycling bin,grey bin,urban £££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,recycling bin,grey bin,rural £/££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,1,recycling bin,grey bin,rural £££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,grey bin,grey bin,urban £,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,grey bin,grey bin,urban ££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,grey bin,grey bin,urban £££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,grey bin,grey bin,rural £/££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,grey bin,grey bin,rural £££,0.018367346938775512
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,recycling bin,grey bin,urban £,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,recycling bin,grey bin,urban ££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,recycling bin,grey bin,urban £££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,recycling bin,grey bin,rural £/££,0.0
+Misc. non-combustible,Other non-combustible materials not otherwise specified,2,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,Fire extinguishers,1,grey bin,grey bin,urban £,0.0
+Hazardous wastes,Fire extinguishers,1,grey bin,grey bin,urban ££,0.0
+Hazardous wastes,Fire extinguishers,1,grey bin,grey bin,urban £££,0.0
+Hazardous wastes,Fire extinguishers,1,grey bin,grey bin,rural £/££,0.0
+Hazardous wastes,Fire extinguishers,1,grey bin,grey bin,rural £££,0.0
+Hazardous wastes,Fire extinguishers,1,recycling bin,grey bin,urban £,0.0
+Hazardous wastes,Fire extinguishers,1,recycling bin,grey bin,urban ££,0.0
+Hazardous wastes,Fire extinguishers,1,recycling bin,grey bin,urban £££,0.0
+Hazardous wastes,Fire extinguishers,1,recycling bin,grey bin,rural £/££,0.0
+Hazardous wastes,Fire extinguishers,1,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,Fire extinguishers,2,grey bin,grey bin,urban £,0.0
+Hazardous wastes,Fire extinguishers,2,grey bin,grey bin,urban ££,0.0
+Hazardous wastes,Fire extinguishers,2,grey bin,grey bin,urban £££,0.0
+Hazardous wastes,Fire extinguishers,2,grey bin,grey bin,rural £/££,0.0
+Hazardous wastes,Fire extinguishers,2,grey bin,grey bin,rural £££,0.0
+Hazardous wastes,Fire extinguishers,2,recycling bin,grey bin,urban £,0.0
+Hazardous wastes,Fire extinguishers,2,recycling bin,grey bin,urban ££,0.0
+Hazardous wastes,Fire extinguishers,2,recycling bin,grey bin,urban £££,0.0
+Hazardous wastes,Fire extinguishers,2,recycling bin,grey bin,rural £/££,0.0
+Hazardous wastes,Fire extinguishers,2,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,Gas bottles,1,grey bin,recycling site,urban £,0.0
+Hazardous wastes,Gas bottles,1,grey bin,recycling site,urban ££,0.0
+Hazardous wastes,Gas bottles,1,grey bin,recycling site,urban £££,0.0
+Hazardous wastes,Gas bottles,1,grey bin,recycling site,rural £/££,0.0
+Hazardous wastes,Gas bottles,1,grey bin,recycling site,rural £££,0.0
+Hazardous wastes,Gas bottles,1,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,Gas bottles,1,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,Gas bottles,1,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,Gas bottles,1,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,Gas bottles,1,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,Gas bottles,2,grey bin,recycling site,urban £,0.0653061224489796
+Hazardous wastes,Gas bottles,2,grey bin,recycling site,urban ££,0.0
+Hazardous wastes,Gas bottles,2,grey bin,recycling site,urban £££,0.0
+Hazardous wastes,Gas bottles,2,grey bin,recycling site,rural £/££,0.0
+Hazardous wastes,Gas bottles,2,grey bin,recycling site,rural £££,0.0
+Hazardous wastes,Gas bottles,2,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,Gas bottles,2,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,Gas bottles,2,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,Gas bottles,2,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,Gas bottles,2,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,Ink & toner cartridges,1,grey bin,grey bin,urban £,0.002
+Hazardous wastes,Ink & toner cartridges,1,grey bin,grey bin,urban ££,0.0
+Hazardous wastes,Ink & toner cartridges,1,grey bin,grey bin,urban £££,0.002127659574468085
+Hazardous wastes,Ink & toner cartridges,1,grey bin,grey bin,rural £/££,0.0
+Hazardous wastes,Ink & toner cartridges,1,grey bin,grey bin,rural £££,0.00196078431372549
+Hazardous wastes,Ink & toner cartridges,1,recycling bin,grey bin,urban £,0.0
+Hazardous wastes,Ink & toner cartridges,1,recycling bin,grey bin,urban ££,0.0
+Hazardous wastes,Ink & toner cartridges,1,recycling bin,grey bin,urban £££,0.0
+Hazardous wastes,Ink & toner cartridges,1,recycling bin,grey bin,rural £/££,0.0
+Hazardous wastes,Ink & toner cartridges,1,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,Ink & toner cartridges,2,grey bin,grey bin,urban £,0.0
+Hazardous wastes,Ink & toner cartridges,2,grey bin,grey bin,urban ££,0.0
+Hazardous wastes,Ink & toner cartridges,2,grey bin,grey bin,urban £££,0.0
+Hazardous wastes,Ink & toner cartridges,2,grey bin,grey bin,rural £/££,0.0
+Hazardous wastes,Ink & toner cartridges,2,grey bin,grey bin,rural £££,0.0
+Hazardous wastes,Ink & toner cartridges,2,recycling bin,grey bin,urban £,0.0
+Hazardous wastes,Ink & toner cartridges,2,recycling bin,grey bin,urban ££,0.0
+Hazardous wastes,Ink & toner cartridges,2,recycling bin,grey bin,urban £££,0.0
+Hazardous wastes,Ink & toner cartridges,2,recycling bin,grey bin,rural £/££,0.0
+Hazardous wastes,Ink & toner cartridges,2,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,Paint,1,grey bin,grey bin,urban £,0.07
+Hazardous wastes,Paint,1,grey bin,grey bin,urban ££,0.04054054054054054
+Hazardous wastes,Paint,1,grey bin,grey bin,urban £££,0.02340425531914894
+Hazardous wastes,Paint,1,grey bin,grey bin,rural £/££,0.0
+Hazardous wastes,Paint,1,grey bin,grey bin,rural £££,0.07254901960784314
+Hazardous wastes,Paint,1,recycling bin,grey bin,urban £,0.0
+Hazardous wastes,Paint,1,recycling bin,grey bin,urban ££,0.0
+Hazardous wastes,Paint,1,recycling bin,grey bin,urban £££,0.0
+Hazardous wastes,Paint,1,recycling bin,grey bin,rural £/££,0.0
+Hazardous wastes,Paint,1,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,Paint,2,grey bin,grey bin,urban £,0.07551020408163266
+Hazardous wastes,Paint,2,grey bin,grey bin,urban ££,0.007894736842105263
+Hazardous wastes,Paint,2,grey bin,grey bin,urban £££,0.0
+Hazardous wastes,Paint,2,grey bin,grey bin,rural £/££,0.04285714285714286
+Hazardous wastes,Paint,2,grey bin,grey bin,rural £££,0.014285714285714285
+Hazardous wastes,Paint,2,recycling bin,grey bin,urban £,0.0
+Hazardous wastes,Paint,2,recycling bin,grey bin,urban ££,0.0
+Hazardous wastes,Paint,2,recycling bin,grey bin,urban £££,0.0
+Hazardous wastes,Paint,2,recycling bin,grey bin,rural £/££,0.0
+Hazardous wastes,Paint,2,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,grey bin,grey bin,urban £,0.006
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,grey bin,grey bin,urban ££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,grey bin,grey bin,urban £££,0.00425531914893617
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,grey bin,grey bin,rural £/££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,grey bin,grey bin,rural £££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,recycling bin,grey bin,urban £,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,recycling bin,grey bin,urban ££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,recycling bin,grey bin,urban £££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,recycling bin,grey bin,rural £/££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",1,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,grey bin,grey bin,urban £,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,grey bin,grey bin,urban ££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,grey bin,grey bin,urban £££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,grey bin,grey bin,rural £/££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,grey bin,grey bin,rural £££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,recycling bin,grey bin,urban £,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,recycling bin,grey bin,urban ££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,recycling bin,grey bin,urban £££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,recycling bin,grey bin,rural £/££,0.0
+Hazardous wastes,"Pesticides, varnish, inks and other chemcicals",2,recycling bin,grey bin,rural £££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,grey bin,recycling site,urban £,0.004
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,grey bin,recycling site,urban ££,0.010810810810810811
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,grey bin,recycling site,urban £££,0.002127659574468085
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,grey bin,recycling site,rural £/££,0.0019230769230769232
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,grey bin,recycling site,rural £££,0.00196078431372549
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,1,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,grey bin,recycling site,urban £,0.01020408163265306
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,grey bin,recycling site,urban ££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,grey bin,recycling site,urban £££,0.004
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,grey bin,recycling site,rural £/££,0.0020408163265306124
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,grey bin,recycling site,rural £££,0.022551020408163265
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,WEEE - Fluorescent tubes and other light bulbs,2,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,Mineral Oil,1,grey bin,recycling site,urban £,0.018000000000000002
+Hazardous wastes,Mineral Oil,1,grey bin,recycling site,urban ££,0.0
+Hazardous wastes,Mineral Oil,1,grey bin,recycling site,urban £££,0.0
+Hazardous wastes,Mineral Oil,1,grey bin,recycling site,rural £/££,0.0
+Hazardous wastes,Mineral Oil,1,grey bin,recycling site,rural £££,0.0
+Hazardous wastes,Mineral Oil,1,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,Mineral Oil,1,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,Mineral Oil,1,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,Mineral Oil,1,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,Mineral Oil,1,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,Mineral Oil,2,grey bin,recycling site,urban £,0.0
+Hazardous wastes,Mineral Oil,2,grey bin,recycling site,urban ££,0.0
+Hazardous wastes,Mineral Oil,2,grey bin,recycling site,urban £££,0.0
+Hazardous wastes,Mineral Oil,2,grey bin,recycling site,rural £/££,0.0
+Hazardous wastes,Mineral Oil,2,grey bin,recycling site,rural £££,0.024489795918367346
+Hazardous wastes,Mineral Oil,2,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,Mineral Oil,2,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,Mineral Oil,2,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,Mineral Oil,2,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,Mineral Oil,2,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,Automotive batteries,1,grey bin,recycling site,urban £,0.0
+Hazardous wastes,Automotive batteries,1,grey bin,recycling site,urban ££,0.0
+Hazardous wastes,Automotive batteries,1,grey bin,recycling site,urban £££,0.0
+Hazardous wastes,Automotive batteries,1,grey bin,recycling site,rural £/££,0.0
+Hazardous wastes,Automotive batteries,1,grey bin,recycling site,rural £££,0.0
+Hazardous wastes,Automotive batteries,1,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,Automotive batteries,1,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,Automotive batteries,1,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,Automotive batteries,1,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,Automotive batteries,1,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,Automotive batteries,2,grey bin,recycling site,urban £,0.0
+Hazardous wastes,Automotive batteries,2,grey bin,recycling site,urban ££,0.0
+Hazardous wastes,Automotive batteries,2,grey bin,recycling site,urban £££,0.0
+Hazardous wastes,Automotive batteries,2,grey bin,recycling site,rural £/££,0.0
+Hazardous wastes,Automotive batteries,2,grey bin,recycling site,rural £££,0.0
+Hazardous wastes,Automotive batteries,2,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,Automotive batteries,2,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,Automotive batteries,2,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,Automotive batteries,2,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,Automotive batteries,2,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,Non automotive batteries,1,grey bin,recycling site,urban £,0.0
+Hazardous wastes,Non automotive batteries,1,grey bin,recycling site,urban ££,0.002702702702702703
+Hazardous wastes,Non automotive batteries,1,grey bin,recycling site,urban £££,0.002127659574468085
+Hazardous wastes,Non automotive batteries,1,grey bin,recycling site,rural £/££,0.0
+Hazardous wastes,Non automotive batteries,1,grey bin,recycling site,rural £££,0.00392156862745098
+Hazardous wastes,Non automotive batteries,1,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,Non automotive batteries,1,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,Non automotive batteries,1,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,Non automotive batteries,1,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,Non automotive batteries,1,recycling bin,recycling site,rural £££,0.0
+Hazardous wastes,Non automotive batteries,2,grey bin,recycling site,urban £,0.0020408163265306124
+Hazardous wastes,Non automotive batteries,2,grey bin,recycling site,urban ££,0.0
+Hazardous wastes,Non automotive batteries,2,grey bin,recycling site,urban £££,0.004
+Hazardous wastes,Non automotive batteries,2,grey bin,recycling site,rural £/££,0.0020408163265306124
+Hazardous wastes,Non automotive batteries,2,grey bin,recycling site,rural £££,0.018367346938775512
+Hazardous wastes,Non automotive batteries,2,recycling bin,recycling site,urban £,0.0
+Hazardous wastes,Non automotive batteries,2,recycling bin,recycling site,urban ££,0.0
+Hazardous wastes,Non automotive batteries,2,recycling bin,recycling site,urban £££,0.0
+Hazardous wastes,Non automotive batteries,2,recycling bin,recycling site,rural £/££,0.0
+Hazardous wastes,Non automotive batteries,2,recycling bin,recycling site,rural £££,0.0
+Healthcare waste,Disposable Nappies,1,grey bin,grey bin,urban £,0.532
+Healthcare waste,Disposable Nappies,1,grey bin,grey bin,urban ££,0.17297297297297298
+Healthcare waste,Disposable Nappies,1,grey bin,grey bin,urban £££,0.055319148936170216
+Healthcare waste,Disposable Nappies,1,grey bin,grey bin,rural £/££,0.37692307692307697
+Healthcare waste,Disposable Nappies,1,grey bin,grey bin,rural £££,0.48823529411764705
+Healthcare waste,Disposable Nappies,1,recycling bin,grey bin,urban £,0.044000000000000004
+Healthcare waste,Disposable Nappies,1,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Disposable Nappies,1,recycling bin,grey bin,urban £££,0.010638297872340425
+Healthcare waste,Disposable Nappies,1,recycling bin,grey bin,rural £/££,0.0038461538461538464
+Healthcare waste,Disposable Nappies,1,recycling bin,grey bin,rural £££,0.0
+Healthcare waste,Disposable Nappies,2,grey bin,grey bin,urban £,0.39183673469387753
+Healthcare waste,Disposable Nappies,2,grey bin,grey bin,urban ££,0.18947368421052632
+Healthcare waste,Disposable Nappies,2,grey bin,grey bin,urban £££,0.23399999999999999
+Healthcare waste,Disposable Nappies,2,grey bin,grey bin,rural £/££,0.40408163265306124
+Healthcare waste,Disposable Nappies,2,grey bin,grey bin,rural £££,0.44693877551020406
+Healthcare waste,Disposable Nappies,2,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Disposable Nappies,2,recycling bin,grey bin,urban ££,0.007894736842105263
+Healthcare waste,Disposable Nappies,2,recycling bin,grey bin,urban £££,0.006
+Healthcare waste,Disposable Nappies,2,recycling bin,grey bin,rural £/££,0.014285714285714285
+Healthcare waste,Disposable Nappies,2,recycling bin,grey bin,rural £££,0.004081632653061225
+Healthcare waste,Other absorbent hygiene products,1,grey bin,grey bin,urban £,0.1
+Healthcare waste,Other absorbent hygiene products,1,grey bin,grey bin,urban ££,0.008108108108108109
+Healthcare waste,Other absorbent hygiene products,1,grey bin,grey bin,urban £££,0.02553191489361702
+Healthcare waste,Other absorbent hygiene products,1,grey bin,grey bin,rural £/££,0.03076923076923077
+Healthcare waste,Other absorbent hygiene products,1,grey bin,grey bin,rural £££,0.00980392156862745
+Healthcare waste,Other absorbent hygiene products,1,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Other absorbent hygiene products,1,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Other absorbent hygiene products,1,recycling bin,grey bin,urban £££,0.0
+Healthcare waste,Other absorbent hygiene products,1,recycling bin,grey bin,rural £/££,0.0
+Healthcare waste,Other absorbent hygiene products,1,recycling bin,grey bin,rural £££,0.0
+Healthcare waste,Other absorbent hygiene products,2,grey bin,grey bin,urban £,0.01020408163265306
+Healthcare waste,Other absorbent hygiene products,2,grey bin,grey bin,urban ££,0.002631578947368421
+Healthcare waste,Other absorbent hygiene products,2,grey bin,grey bin,urban £££,0.022000000000000002
+Healthcare waste,Other absorbent hygiene products,2,grey bin,grey bin,rural £/££,0.02040816326530612
+Healthcare waste,Other absorbent hygiene products,2,grey bin,grey bin,rural £££,0.02653061224489796
+Healthcare waste,Other absorbent hygiene products,2,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Other absorbent hygiene products,2,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Other absorbent hygiene products,2,recycling bin,grey bin,urban £££,0.0
+Healthcare waste,Other absorbent hygiene products,2,recycling bin,grey bin,rural £/££,0.0020408163265306124
+Healthcare waste,Other absorbent hygiene products,2,recycling bin,grey bin,rural £££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,1,grey bin,grey bin,urban £,0.002
+Healthcare waste,Potentially hazardous healthcare waste,1,grey bin,grey bin,urban ££,0.008108108108108109
+Healthcare waste,Potentially hazardous healthcare waste,1,grey bin,grey bin,urban £££,0.00425531914893617
+Healthcare waste,Potentially hazardous healthcare waste,1,grey bin,grey bin,rural £/££,0.011538461538461537
+Healthcare waste,Potentially hazardous healthcare waste,1,grey bin,grey bin,rural £££,0.000980392156862745
+Healthcare waste,Potentially hazardous healthcare waste,1,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Potentially hazardous healthcare waste,1,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,1,recycling bin,grey bin,urban £££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,1,recycling bin,grey bin,rural £/££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,1,recycling bin,grey bin,rural £££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,2,grey bin,grey bin,urban £,0.018367346938775512
+Healthcare waste,Potentially hazardous healthcare waste,2,grey bin,grey bin,urban ££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,2,grey bin,grey bin,urban £££,0.01
+Healthcare waste,Potentially hazardous healthcare waste,2,grey bin,grey bin,rural £/££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,2,grey bin,grey bin,rural £££,0.022448979591836737
+Healthcare waste,Potentially hazardous healthcare waste,2,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Potentially hazardous healthcare waste,2,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,2,recycling bin,grey bin,urban £££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,2,recycling bin,grey bin,rural £/££,0.0
+Healthcare waste,Potentially hazardous healthcare waste,2,recycling bin,grey bin,rural £££,0.0
+Healthcare waste,Dead animals,1,grey bin,grey bin,urban £,0.022000000000000002
+Healthcare waste,Dead animals,1,grey bin,grey bin,urban ££,0.002702702702702703
+Healthcare waste,Dead animals,1,grey bin,grey bin,urban £££,0.01276595744680851
+Healthcare waste,Dead animals,1,grey bin,grey bin,rural £/££,0.04038461538461539
+Healthcare waste,Dead animals,1,grey bin,grey bin,rural £££,0.047058823529411764
+Healthcare waste,Dead animals,1,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Dead animals,1,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Dead animals,1,recycling bin,grey bin,urban £££,0.0
+Healthcare waste,Dead animals,1,recycling bin,grey bin,rural £/££,0.0
+Healthcare waste,Dead animals,1,recycling bin,grey bin,rural £££,0.0
+Healthcare waste,Dead animals,2,grey bin,grey bin,urban £,0.0020408163265306124
+Healthcare waste,Dead animals,2,grey bin,grey bin,urban ££,0.0
+Healthcare waste,Dead animals,2,grey bin,grey bin,urban £££,0.0
+Healthcare waste,Dead animals,2,grey bin,grey bin,rural £/££,0.006122448979591836
+Healthcare waste,Dead animals,2,grey bin,grey bin,rural £££,0.0
+Healthcare waste,Dead animals,2,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Dead animals,2,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Dead animals,2,recycling bin,grey bin,urban £££,0.0
+Healthcare waste,Dead animals,2,recycling bin,grey bin,rural £/££,0.0
+Healthcare waste,Dead animals,2,recycling bin,grey bin,rural £££,0.0
+Healthcare waste,Pet excrement and bedding,1,grey bin,grey bin,urban £,0.804
+Healthcare waste,Pet excrement and bedding,1,grey bin,grey bin,urban ££,0.7837837837837838
+Healthcare waste,Pet excrement and bedding,1,grey bin,grey bin,urban £££,0.3468085106382979
+Healthcare waste,Pet excrement and bedding,1,grey bin,grey bin,rural £/££,0.47115384615384615
+Healthcare waste,Pet excrement and bedding,1,grey bin,grey bin,rural £££,0.34705882352941175
+Healthcare waste,Pet excrement and bedding,1,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Pet excrement and bedding,1,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Pet excrement and bedding,1,recycling bin,grey bin,urban £££,0.0
+Healthcare waste,Pet excrement and bedding,1,recycling bin,grey bin,rural £/££,0.005769230769230769
+Healthcare waste,Pet excrement and bedding,1,recycling bin,grey bin,rural £££,0.0
+Healthcare waste,Pet excrement and bedding,2,grey bin,grey bin,urban £,0.6469387755102041
+Healthcare waste,Pet excrement and bedding,2,grey bin,grey bin,urban ££,0.7842105263157895
+Healthcare waste,Pet excrement and bedding,2,grey bin,grey bin,urban £££,0.322
+Healthcare waste,Pet excrement and bedding,2,grey bin,grey bin,rural £/££,0.6938775510204082
+Healthcare waste,Pet excrement and bedding,2,grey bin,grey bin,rural £££,0.44081632653061226
+Healthcare waste,Pet excrement and bedding,2,recycling bin,grey bin,urban £,0.0
+Healthcare waste,Pet excrement and bedding,2,recycling bin,grey bin,urban ££,0.0
+Healthcare waste,Pet excrement and bedding,2,recycling bin,grey bin,urban £££,0.0
+Healthcare waste,Pet excrement and bedding,2,recycling bin,grey bin,rural £/££,0.0
+Healthcare waste,Pet excrement and bedding,2,recycling bin,grey bin,rural £££,0.0
+Fines (<10mm),Fines (<10mm),1,grey bin,grey bin,urban £,0.102
+Fines (<10mm),Fines (<10mm),1,grey bin,grey bin,urban ££,0.10810810810810811
+Fines (<10mm),Fines (<10mm),1,grey bin,grey bin,urban £££,0.3893617021276596
+Fines (<10mm),Fines (<10mm),1,grey bin,grey bin,rural £/££,1.3346153846153848
+Fines (<10mm),Fines (<10mm),1,grey bin,grey bin,rural £££,0.03137254901960784
+Fines (<10mm),Fines (<10mm),1,recycling bin,grey bin,urban £,0.0
+Fines (<10mm),Fines (<10mm),1,recycling bin,grey bin,urban ££,0.0
+Fines (<10mm),Fines (<10mm),1,recycling bin,grey bin,urban £££,0.0
+Fines (<10mm),Fines (<10mm),1,recycling bin,grey bin,rural £/££,0.036538461538461534
+Fines (<10mm),Fines (<10mm),1,recycling bin,grey bin,rural £££,0.0
+Fines (<10mm),Fines (<10mm),2,grey bin,grey bin,urban £,0.2897959183673469
+Fines (<10mm),Fines (<10mm),2,grey bin,grey bin,urban ££,0.33157894736842103
+Fines (<10mm),Fines (<10mm),2,grey bin,grey bin,urban £££,0.386
+Fines (<10mm),Fines (<10mm),2,grey bin,grey bin,rural £/££,1.6346938775510202
+Fines (<10mm),Fines (<10mm),2,grey bin,grey bin,rural £££,0.1469387755102041
+Fines (<10mm),Fines (<10mm),2,recycling bin,grey bin,urban £,0.0
+Fines (<10mm),Fines (<10mm),2,recycling bin,grey bin,urban ££,0.002631578947368421
+Fines (<10mm),Fines (<10mm),2,recycling bin,grey bin,urban £££,0.0
+Fines (<10mm),Fines (<10mm),2,recycling bin,grey bin,rural £/££,0.0326530612244898
+Fines (<10mm),Fines (<10mm),2,recycling bin,grey bin,rural £££,0.0

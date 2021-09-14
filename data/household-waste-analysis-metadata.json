@@ -1,0 +1,49 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "household-waste-analysis.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "materialL1",
+      "titles": "material-L1",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterialL1"
+    }, {
+      "name": "materialL2",
+      "titles": "material-L2",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterialL2"
+    }, {
+      "name": "phase",
+      "titles": "phase",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasPhase"
+    }, {
+      "name": "stream",
+      "titles": "stream",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasStream"
+    }, {
+      "name": "idealStream",
+      "titles": "idealStream",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasIdealStream"
+    }, {
+      "name": "stratum",
+      "titles": "stratum",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasStratum"
+    }, {
+      "name": "kgPerHhPerWk",
+      "titles": "kgPerHhPerWk",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasKgPerHhPerWk"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/household-waste-analysis"
+    }],
+    "primaryKey": ["materialL1", "materialL2", "phase", "stream", "stratum"], 
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/household-waste-analysis/{materialL1}/{materialL2}/{phase}/{stream}/{stratum}"
+  }
+}
