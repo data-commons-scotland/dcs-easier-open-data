@@ -1,28 +1,4 @@
 
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-03-28>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sat";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-03-28" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-03-29>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sun";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-03-29" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-03-30>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Mon";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-03-30" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-03-31>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Tue";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-03-31" .
-
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-04-01>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 92;
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Wed";
@@ -40,12 +16,6 @@
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Fri";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-04-03" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-04-04>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sat";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-04-04" .
 
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-04-05>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 99;
@@ -250,12 +220,6 @@
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Fri";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-05-08" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-05-09>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sat";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-05-09" .
 
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-05-10>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 48;
@@ -568,36 +532,6 @@
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Tue";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-06-30" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-07-01>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Wed";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-07-01" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-07-02>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Thu";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-07-02" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-07-03>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Fri";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-07-03" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-07-04>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sat";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-07-04" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-07-05>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sun";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-07-05" .
 
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-07-06>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 34;
@@ -1025,48 +959,6 @@
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-09-14" .
 
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-09-15>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Tue";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-09-15" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-09-16>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Wed";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-09-16" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-09-17>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Thu";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-09-17" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-09-18>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Fri";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-09-18" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-09-19>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sat";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-09-19" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-09-20>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sun";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-09-20" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-09-21>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Mon";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-09-21" .
-
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-09-22>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 30;
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Tue";
@@ -1294,18 +1186,6 @@
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Thu";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-10-29" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-10-30>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Fri";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-10-30" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-10-31>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sat";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-10-31" .
 
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-11-01>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 40;
@@ -1570,12 +1450,6 @@
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Mon";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-12-14" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-12-15>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Tue";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2020-12-15" .
 
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2020-12-16>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 46;
@@ -1943,12 +1817,6 @@
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-02-14" .
 
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-02-15>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Mon";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-02-15" .
-
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-02-16>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 42;
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Tue";
@@ -2159,12 +2027,6 @@
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-03-22" .
 
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-03-23>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Tue";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-03-23" .
-
 <http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-03-24>
   <http://wastemattersscotland.org/linked-data/property/hasCount> 53;
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Wed";
@@ -2296,39 +2158,3 @@
   <http://wastemattersscotland.org/linked-data/property/hasDay> "Wed";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-04-14" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-04-15>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Thu";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-04-15" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-04-16>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Fri";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-04-16" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-04-17>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sat";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-04-17" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-04-18>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Sun";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-04-18" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-04-19>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Mon";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-04-19" .
-
-<http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/2021-04-20>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 0;
-  <http://wastemattersscotland.org/linked-data/property/hasDay> "Tue";
-  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>;
-  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-04-20" .

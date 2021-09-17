@@ -59,7 +59,7 @@
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://www.zerowastescotland.org.uk/sites/default/files/The%20Scottish%20Carbon%20Metric.pdf" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>
-  <http://wastemattersscotland.org/linked-data/property/hasCount> 389;
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 360;
   <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
   <http://wastemattersscotland.org/linked-data/property/hasCreator> "Transition Stirling";
   <http://wastemattersscotland.org/linked-data/property/hasDescription> "The per-day number of people visiting the store.";

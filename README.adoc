@@ -79,7 +79,7 @@ useful dimensions.
 
 | anchor:sepa-material[] sepa-material | SEPA's waste materials classification. |  34 x 1 | link:data/README.adoc#sepa-material[files] | SEPA | https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool[SEPA] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/[OGL v2.0]
 
-| anchor:stirling-community-food-footfall[] stirling-community-food-footfall | The per-day number of people visiting the store. |  389 x 3 | link:data/README.adoc#stirling-community-food-footfall[files] | Transition Stirling | file:///[Transition Stirling] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
+| anchor:stirling-community-food-footfall[] stirling-community-food-footfall | The per-day number of people visiting the store. |  360 x 3 | link:data/README.adoc#stirling-community-food-footfall[files] | Transition Stirling | file:///[Transition Stirling] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
 
 | anchor:stirling-community-food-tonnes[] stirling-community-food-tonnes | The per-day amount of food flowing in/out of the organisation from/to partner organisations. |  1350 x 4 | link:data/README.adoc#stirling-community-food-tonnes[files] | Transition Stirling | file:///[Transition Stirling] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
 
