@@ -1,0 +1,29 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "stirling-community-food-footfall.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "yyyyMmDd",
+      "titles": "yyyy-MM-dd",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd"
+    }, {
+      "name": "day",
+      "titles": "day",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasDay"
+    }, {
+      "name": "count",
+      "titles": "count",
+      "datatype": "integer",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCount"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall"
+    }],
+    "primaryKey": ["yyyyMmDd"], 
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/stirling-community-food-footfall/{yyyyMmDd}"
+  }
+}

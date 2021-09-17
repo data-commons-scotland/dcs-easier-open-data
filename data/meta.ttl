@@ -12,7 +12,7 @@
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/meta> <http://wastemattersscotland.org/linked-data/property/hasCount>
-    16;
+    18;
   <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
   <http://wastemattersscotland.org/linked-data/property/hasCreator> "DCS";
   <http://wastemattersscotland.org/linked-data/property/hasDescription> "Meta level information.";
@@ -49,14 +49,26 @@
 <http://wastemattersscotland.org/linked-data/entity/meta/co2e-multiplier> <http://wastemattersscotland.org/linked-data/property/hasCount>
     37;
   <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2012;
-  <http://wastemattersscotland.org/linked-data/property/hasCreator> "Zero Waste Scotland";
+  <http://wastemattersscotland.org/linked-data/property/hasCreator> "ZWS";
   <http://wastemattersscotland.org/linked-data/property/hasDescription> "Per-material weight-multipliers to calaculate CO2e amounts. This data has been copied from section 6.2 of The Scottish Carbon Metric.";
   <http://wastemattersscotland.org/linked-data/property/hasLicence> "OGL v3.0";
   <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/";
   <http://wastemattersscotland.org/linked-data/property/hasName> "co2e-multiplier";
   <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Published as a PDF document.";
-  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "Zero Waste Scotland";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "ZWS";
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://www.zerowastescotland.org.uk/sites/default/files/The%20Scottish%20Carbon%20Metric.pdf" .
+
+<http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-footfall>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 389;
+  <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasCreator> "Transition Stirling";
+  <http://wastemattersscotland.org/linked-data/property/hasDescription> "The per-day number of people visiting the store.";
+  <http://wastemattersscotland.org/linked-data/property/hasLicence> "CC BY 4.0";
+  <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
+  <http://wastemattersscotland.org/linked-data/property/hasName> "stirling-community-food-footfall";
+  <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Supplied as an Excel spreadsheet.";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "Transition Stirling";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/region> <http://wastemattersscotland.org/linked-data/property/hasCount>
     34;
@@ -141,6 +153,18 @@
   <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Published as an RDF data cube, the data can be accessed via SPARQL.";
   <http://wastemattersscotland.org/linked-data/property/hasSupplier> "statistics.gov.scot";
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "http://statistics.gov.scot/data/population-estimates-current-geographic-boundaries" .
+
+<http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-tonnes>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 1350;
+  <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasCreator> "Transition Stirling";
+  <http://wastemattersscotland.org/linked-data/property/hasDescription> "The per-day amount of food flowing in/out of the organisation from/to partner organisations.";
+  <http://wastemattersscotland.org/linked-data/property/hasLicence> "CC BY 4.0";
+  <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
+  <http://wastemattersscotland.org/linked-data/property/hasName> "stirling-community-food-tonnes";
+  <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Supplied as an Excel spreadsheet.";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "Transition Stirling";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/waste-site-material-io> <http://wastemattersscotland.org/linked-data/property/hasCount>
     118333;

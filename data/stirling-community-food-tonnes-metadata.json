@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "stirling-community-food-tonnes.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "yyyyMmDd",
+      "titles": "yyyy-MM-dd",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd"
+    }, {
+      "name": "ioDirection",
+      "titles": "io-direction",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasIoDirection"
+    }, {
+      "name": "counterParty",
+      "titles": "counter-party",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCounterParty"
+    }, {
+      "name": "tonnes",
+      "titles": "tonnes",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasTonnes"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/stirling-community-food-tonnes"
+    }],
+    "primaryKey": ["yyyyMmDd", "ioDirection", "counterParty"], 
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/stirling-community-food-tonnes/{yyyyMmDd}/{ioDirection}/{counterParty}"
+  }
+}

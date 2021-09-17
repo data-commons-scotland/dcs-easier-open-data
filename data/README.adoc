@@ -1,5 +1,5 @@
              
-==== The 16 _easier_ datasets
+==== The 18 _easier_ datasets
 
 [width="100%",cols="<,<,<,<,<",stripes="hover"]
 
@@ -46,6 +46,10 @@
 | anchor:region[] region | link:region.csv[region.csv] | link:region.json[region.json] | link:region.ttl[region.ttl] | link:region-metadata.json[region-metadata.json]
 
 | anchor:sepa-material[] sepa-material | link:sepa-material.csv[sepa-material.csv] | link:sepa-material.json[sepa-material.json] | link:sepa-material.ttl[sepa-material.ttl] | link:sepa-material-metadata.json[sepa-material-metadata.json]
+
+| anchor:stirling-community-food-footfall[] stirling-community-food-footfall | link:stirling-community-food-footfall.csv[stirling-community-food-footfall.csv] | link:stirling-community-food-footfall.json[stirling-community-food-footfall.json] | link:stirling-community-food-footfall.ttl[stirling-community-food-footfall.ttl] | link:stirling-community-food-footfall-metadata.json[stirling-community-food-footfall-metadata.json]
+
+| anchor:stirling-community-food-tonnes[] stirling-community-food-tonnes | link:stirling-community-food-tonnes.csv[stirling-community-food-tonnes.csv] | link:stirling-community-food-tonnes.json[stirling-community-food-tonnes.json] | link:stirling-community-food-tonnes.ttl[stirling-community-food-tonnes.ttl] | link:stirling-community-food-tonnes-metadata.json[stirling-community-food-tonnes-metadata.json]
 
 | anchor:waste-site-io[] waste-site-io | link:waste-site-io.csv[waste-site-io.csv] | link:waste-site-io.json[waste-site-io.json] | link:waste-site-io.ttl[waste-site-io.ttl] | link:waste-site-io-metadata.json[waste-site-io-metadata.json]
 
