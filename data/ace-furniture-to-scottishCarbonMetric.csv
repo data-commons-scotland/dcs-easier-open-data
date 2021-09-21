@@ -1,0 +1,165 @@
+category,item,material
+Furniture ,"Bedside unit, cabinet or table",Wood
+Furniture ,"Bench, kitchen or garden, solid wood",Wood
+Furniture ,"Blanket box, Ottoman",Wood
+Furniture ,Bookcase / Shelving Unit,Wood
+Furniture ,"Cabinet (display & kitchen), Bureau",Wood
+Furniture ,"Chair, Kitchen, Dining or Wooden",Wood
+Furniture ,"Chest-of-Drawers, Tallboy",Wood
+Furniture ,"Small Desk, Computer Table",Wood
+Furniture ,Large Desk,Wood
+Furniture ,Dressing table ,Wood
+Furniture ,Fire surround ,Wood
+Furniture ,Grandfather clock ,Wood
+Furniture ,Headboard unit (with built-in bedside cabinets) ,Wood
+Furniture ,Headboard,Wood
+Furniture ,TV / Hi-fi unit ,Wood
+Furniture ,Piano,Wood
+Furniture ,"Sideboard, not large ",Wood
+Furniture ,"Table small eg. Cane, coffee, occassional, nest of ",Wood
+Furniture ,"Table, large e.g. dining",Wood
+Furniture ,"Table, medium e.g. kitchen",Wood
+Furniture ,Wall unit,Wood
+Furniture ,"Wardrobe, double ",Wood
+Furniture ,"Wardrobe, single ",Wood
+Furniture ,Welsh Dresser ,Wood
+Home Office Furniture ,"Cabinet, large",Scrap Metal
+Home Office Furniture ,"Filing cabinet, large ",Scrap Metal
+Home Office Furniture ,"Cabinet or filing cabinet, small",Scrap Metal
+Home Office Furniture ,Office Chair ,Wood
+Home Office Furniture ,Office Desk ,Wood
+Soft Furniture ,2 seater sofa,Textiles and Footwear
+Soft Furniture ,3 seater sofa,Textiles and Footwear
+Soft Furniture ,Armchair ,Textiles and Footwear
+Soft Furniture ,Recliner,Textiles and Footwear
+Soft Furniture ,"Bed, single complete (base, mattress + headboard) ",Textiles and Footwear
+Soft Furniture ,"Bed, double complete (base, mattress + headboard) ",Textiles and Footwear
+Soft Furniture ,"Bed, king-size complete (base, mattress + headboard) ",Textiles and Footwear
+Soft Furniture ,"Bed base, single wood / divan / folding / Z bed ",Wood
+Soft Furniture ,"Bed base, double wood / divan / folding / Z bed ",Wood
+Soft Furniture ,"Bed base, king-size wood, divan or double metal ",Wood
+Soft Furniture ,Bunk bed / cabin bed ,Wood
+Soft Furniture ,"Cane chair, bookcase",Wood
+Soft Furniture ,"Chair, easy, fireside, lounge, rocking",Wood
+Soft Furniture ,Chaise Longue ,Wood
+Soft Furniture ,Futon / Sofabed (wooden base with mattress) ,Textiles and Footwear
+Soft Furniture ,"Mattress, single ",Textiles and Footwear
+Soft Furniture ,"Mattress, double ",Textiles and Footwear
+Soft Furniture ,"Mattress, king-size ",Textiles and Footwear
+Soft Furniture ,Pouffe / Stool,Textiles and Footwear
+Soft Furniture ,"Sofa bed, foam flop out ",Textiles and Footwear
+Soft Furniture ,"Sofa bed, metal frame ",Scrap Metal
+Soft Furniture ,"Sofa, cane / conservatory (normally with cushions) ",Wood
+Bric-a-Brac,Bric-a-Brac (small packet) ,Average Plastics
+Bric-a-Brac,Bric-a-Brac (box) ,Scrap Metal
+Children's Items,Cot ,Wood
+Children's Items,High Chair,Wood
+Children's Items,Pram,Scrap Metal
+Children's Items,Pushchair,Scrap Metal
+Children's Items,Stairgate,Average Plastics
+Children's Items,"Toys, box",Average Plastics
+Leisure,"Bike, adult",Scrap Metal
+Leisure,"Bike, child",Scrap Metal
+Miscellaneous,"Small misc, eg scales, saucepans, shoe racks, pedal bin, picture, magazine rack, fireguard, CD stand, picture frame, curtain pole, lampshade, suitcase, wine rack, Christmas tree",Wood
+Miscellaneous,"Medium misc, eg tea trolley, ironing board, plant stand, coat or hat stand, small mirror, clothes horse, ",Wood
+Miscellaneous,"Large misc, eg carpet cleaner, large mirror, ladder, laundry basket, loose shelves",Wood
+Flooring,"Carpet tiles, lino,  carpet, flooring or underlay for standard room 12'x12'",Textiles and Footwear
+Flooring,Small rug 3'x6',Textiles and Footwear
+Bedding & window dressings,"Pillow, pillow case",Textiles
+Bedding & window dressings,Sheet,Textiles
+Bedding & window dressings,"Blanket, towel, throw, duvet cover",Textiles
+Bedding & window dressings,"Blinds (fabric), light or mid weight curtains",Textiles
+Bedding & window dressings,"Blinds (wood, metal), curtains (thick, lined)",Textiles
+Bathroom Items ,Bath (metal) ,Scrap Metal
+Bathroom Items ,Bath (non-metal) ,Average plastic rigid (including bottles)
+Bathroom Items ,Bathroom Cabinet /Shower Screen,Average plastic rigid (including bottles)
+Bathroom Items ,Cistern ,Plasterboard
+Bathroom Items ,Shower equipment/tray ,Plasterboard
+Bathroom Items ,Sink (ceramic) ,Plasterboard
+Bathroom Items ,Sink (metal) ,Scrap Metal
+Bathroom Items ,Toilet ,Plasterboard
+Bathroom Items ,"Vanity Unit, including sink ",Wood
+DIY,Door (pvc),PVC (including forming)
+DIY,Door (wood) ,Wood
+DIY,Gate (metal) ,Scrap Metal
+DIY,Gate (wood),Wood
+DIY,Paint  (5l),Batteries (Post Consumer Non Automotive)
+DIY,Patio door,PVC (including forming)
+DIY,"Tiles (ceramic), per square metre",Plasterboard
+DIY,Window (wood),Wood
+DIY,Window (glazed),PVC (including forming)
+DIY,Worktop (kitchen) ,Wood
+Garden,BBQ,Scrap Metal
+Garden,"Chair (metal, plastic or wood)",PVC (including forming)
+Garden,Lounger ,PVC (including forming)
+Garden,Rotary Drier ,Scrap Metal
+Garden,"Table (metal, plastic or wood)",PVC (including forming)
+Garden,"Tool (large) i.e. spade, fork",Scrap Metal
+Garden,Tool (small) i.e. trowel,Scrap Metal
+Garden,Waterbutt,PVC (including forming)
+Garden,Wheelbarrow ,Scrap Metal
+Gas Appliances,"Cooker, gas",WEEE - Large
+Gas Appliances,"Hob, gas",WEEE - Large
+Gas Appliances,"Fire, gas",WEEE - Large
+Cat 1 - Large Household Appliances,"Baby belling, counter top cooker, hostess trolley ",WEEE - Large
+Cat 1 - Large Household Appliances,Cooker hood,WEEE - Large
+Cat 1 - Large Household Appliances,"Cooker, electric ",WEEE - Large
+Cat 1 - Large Household Appliances,Dishwasher ,WEEE - Large
+Cat 1 - Large Household Appliances,Spin-Dryer ,WEEE - Large
+Cat 1 - Large Household Appliances,Tumble-Dryer ,WEEE - Large
+Cat 1 - Large Household Appliances,Twin-tub ,WEEE - Large
+Cat 1 - Large Household Appliances,Washer Drier,WEEE - Large
+Cat 1 - Large Household Appliances,Washing Machine ,WEEE - Large
+Cat 2 - Small Household Appliances,Electric sewing maching,WEEE - Small
+Cat 2 - Small Household Appliances,Fan (electric) ,WEEE - Small
+Cat 2 - Small Household Appliances,Fan heater,WEEE - Small
+Cat 2 - Small Household Appliances,Fire,WEEE - Small
+Cat 2 - Small Household Appliances,"Hair & Beauty Elec  i.e. hair dryer, foot massager, hair curlers, hair straighteners",WEEE - Small
+Cat 2 - Small Household Appliances,"Hob, electric",WEEE - Small
+Cat 2 - Small Household Appliances,"Medium elec - bread machine, video camera, trouser press",WEEE - Small
+Cat 2 - Small Household Appliances,Microwave ,WEEE - Small
+Cat 2 - Small Household Appliances,Radiator,WEEE - Small
+Cat 2 - Small Household Appliances,"Small elec - kettle, toaster, clock, sandwich maker,coffee maker, juicer, rice cooker ,steamer, iron, food mixer",WEEE - Small
+Cat 2 - Small Household Appliances,Vacuum ,WEEE - Small
+Cat 3 - IT & Telecommunications,"Computer, base unit",WEEE - Mixed
+Cat 3 - IT & Telecommunications,Laptop,WEEE - Mixed
+Cat 3 - IT & Telecommunications,"Mobile Phone & Accessories (hands free kit, charger)",WEEE - Mixed
+Cat 3 - IT & Telecommunications,"PC Accessories (keyboard, mouse)",WEEE - Mixed
+Cat 3 - IT & Telecommunications,"PC Printers, Scanners, Shredder",WEEE - Mixed
+Cat 3 - IT & Telecommunications,Photocopier ,WEEE - Mixed
+Cat 3 - IT & Telecommunications,Telecommunications equipment,WEEE - Mixed
+Cat 3 - IT & Telecommunications,"Wordprocessor, Electric Typewriter",WEEE - Mixed
+Cat 4 - Consumer Equipment,"Hi-fi, integrated",WEEE - Mixed
+Cat 4 - Consumer Equipment,"Hi-fi, separates (amplifier, cassette deck, CD player, radio, speakers)",WEEE - Mixed
+Cat 4 - Consumer Equipment,"Video, DVD, Games Consoles, Digiboxes",WEEE - Mixed
+Cat 5 - Lighting Equipment,Lamp / Light,WEEE - Mixed
+Cat 6 - Electrical & Electronic Tools,"Garden tools, electrical (small) i.e. strimmer, hedge cutter, garden vac",WEEE - Mixed
+Cat 6 - Electrical & Electronic Tools,"Garden tools, electrical (large) i.e. lawnmower, shredder",WEEE - Mixed
+Cat 6 - Electrical & Electronic Tools,"Power Tools i.e. drill, electric screwdriver",WEEE - Mixed
+"Cat 7 - Toys, leisure & sports","Musical Instruments i.e. keyboard, organ",WEEE - Mixed
+"Cat 7 - Toys, leisure & sports",Sunbed,WEEE - Large
+Cat 8 - Medical devices,Electric Armchair,WEEE - Large
+Cat 8 - Medical devices,"Electric Bed, double",WEEE - Large
+Cat 8 - Medical devices,"Electric Bed, single",WEEE - Large
+Cat 8 - Medical devices,Electric Wheelchair,WEEE - Large
+Cat 11 - Display Equipment,"CRT-Monitor <14"" ",WEEE - Mixed
+Cat 11 - Display Equipment,"CRT-Monitor 14"" ",WEEE - Mixed
+Cat 11 - Display Equipment,"CRT-Monitor 15"" ",WEEE - Mixed
+Cat 11 - Display Equipment,"CRT-Monitor 17"" ",WEEE - Mixed
+Cat 11 - Display Equipment,"CRT-Monitor 19"" ",WEEE - Mixed
+Cat 11 - Display Equipment,"CRT-Monitor 21"" ",WEEE - Mixed
+Cat 11 - Display Equipment,TV Portable or TV Combi,WEEE - Mixed
+Cat 11 - Display Equipment,"Flat screen display 15-17""",WEEE - Mixed
+Cat 11 - Display Equipment,"Flat screen display 19-20""",WEEE - Mixed
+Cat 11 - Display Equipment,"Flat screen display 22-24""",WEEE - Mixed
+Cat 11 - Display Equipment,"Flat screen display 26-30""",WEEE - Mixed
+Cat 11 - Display Equipment,"Flat screen display 32-37""",WEEE - Mixed
+Cat 11 - Display Equipment,"Flat screen display 40-46""",WEEE - Mixed
+Cat 12 - Cooling Appliances containing refrigeration,"Air Conditioner, Dehumidifier",WEEE - Mixed
+Cat 12 - Cooling Appliances containing refrigeration,"Freezer, chest ",WEEE - Fridges and Freezers
+Cat 12 - Cooling Appliances containing refrigeration,"Freezer, free standing",WEEE - Fridges and Freezers
+Cat 12 - Cooling Appliances containing refrigeration,"Freezer / Fridge, table top",WEEE - Fridges and Freezers
+Cat 12 - Cooling Appliances containing refrigeration,"Freezer, undercounter",WEEE - Fridges and Freezers
+Cat 12 - Cooling Appliances containing refrigeration,"Fridge, free standing",WEEE - Fridges and Freezers
+Cat 12 - Cooling Appliances containing refrigeration,"Fridge, undercounter",WEEE - Fridges and Freezers
+Cat 12 - Cooling Appliances containing refrigeration,Fridge-Freezer ,WEEE - Fridges and Freezers

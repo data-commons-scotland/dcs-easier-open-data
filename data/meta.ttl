@@ -12,7 +12,7 @@
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/business-waste-data" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/meta> <http://wastemattersscotland.org/linked-data/property/hasCount>
-    18;
+    21;
   <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
   <http://wastemattersscotland.org/linked-data/property/hasCreator> "DCS";
   <http://wastemattersscotland.org/linked-data/property/hasDescription> "Meta level information.";
@@ -20,6 +20,18 @@
   <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
   <http://wastemattersscotland.org/linked-data/property/hasName> "meta";
   <http://wastemattersscotland.org/linked-data/property/hasSupplier> "DCS";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
+
+<http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-avg-weight>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 164;
+  <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasCreator> "Alloa Community Enterprises";
+  <http://wastemattersscotland.org/linked-data/property/hasDescription> "The per-furniture-category average weights of items sold.";
+  <http://wastemattersscotland.org/linked-data/property/hasLicence> "CC BY 4.0";
+  <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
+  <http://wastemattersscotland.org/linked-data/property/hasName> "ace-furniture-avg-weight";
+  <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Supplied as an Excel spreadsheet.";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "Alloa Community Enterprises";
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/household-waste-analysis>
@@ -190,6 +202,18 @@
   <http://wastemattersscotland.org/linked-data/property/hasSupplier> "Publications Office of the EU";
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02000D0532-20150601&from=EN#tocId7" .
 
+<http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-count> <http://wastemattersscotland.org/linked-data/property/hasCount>
+    175;
+  <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasCreator> "Alloa Community Enterprises";
+  <http://wastemattersscotland.org/linked-data/property/hasDescription> "The per-accounting-period per-furniture-category counts of items sold.";
+  <http://wastemattersscotland.org/linked-data/property/hasLicence> "CC BY 4.0";
+  <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
+  <http://wastemattersscotland.org/linked-data/property/hasName> "ace-furniture-count";
+  <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Supplied as an Excel spreadsheet.";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "Alloa Community Enterprises";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
+
 <http://wastemattersscotland.org/linked-data/entity/meta/waste-site-io> <http://wastemattersscotland.org/linked-data/property/hasCount>
     1254;
   <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2020;
@@ -201,6 +225,18 @@
   <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Published through a web-based data tool, the data can be downloaded as a CSV file.";
   <http://wastemattersscotland.org/linked-data/property/hasSupplier> "SEPA";
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "https://www.sepa.org.uk/data-visualisation/waste-sites-and-capacity-tool" .
+
+<http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric>
+  <http://wastemattersscotland.org/linked-data/property/hasCount> 164;
+  <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasCreator> "DCS";
+  <http://wastemattersscotland.org/linked-data/property/hasDescription> "A per-furniture-category mapping to a Scottish Carbon Metric material.";
+  <http://wastemattersscotland.org/linked-data/property/hasLicence> "CC BY 4.0";
+  <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
+  <http://wastemattersscotland.org/linked-data/property/hasName> "ace-furniture-to-scottishCarbonMetric";
+  <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "A reasoned mapping.";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplier> "DCS";
+  <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/sepa-material> <http://wastemattersscotland.org/linked-data/property/hasCount>
     34;

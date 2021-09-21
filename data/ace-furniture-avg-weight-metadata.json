@@ -1,0 +1,29 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "ace-furniture-avg-weight.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "category",
+      "titles": "category",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCategory"
+    }, {
+      "name": "item",
+      "titles": "item",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasItem"
+    }, {
+      "name": "avgKg",
+      "titles": "avg-kg",
+      "datatype": "decimal",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasAvgKg"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-avg-weight"
+    }],
+    "primaryKey": ["category", "item"], 
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/ace-furniture-avg-weight/{category}/{item}"
+  }
+}

@@ -1,0 +1,984 @@
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Bedside%20unit%2C%20cabinet%20or%20table>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bedside unit, cabinet or table";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Bench%2C%20kitchen%20or%20garden%2C%20solid%20wood>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bench, kitchen or garden, solid wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Blanket%20box%2C%20Ottoman>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Blanket box, Ottoman";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Bookcase%20%2F%20Shelving%20Unit>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bookcase / Shelving Unit";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Cabinet%20%28display%20%26%20kitchen%29%2C%20Bureau>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cabinet (display & kitchen), Bureau";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Chair%2C%20Kitchen%2C%20Dining%20or%20Wooden>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Chair, Kitchen, Dining or Wooden";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Chest-of-Drawers%2C%20Tallboy>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Chest-of-Drawers, Tallboy";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Small%20Desk%2C%20Computer%20Table>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Small Desk, Computer Table";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Large%20Desk>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Large Desk";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Dressing%20table>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Dressing table";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Fire%20surround>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Fire surround";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Grandfather%20clock>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Grandfather clock";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Headboard%20unit%20%28with%20built-in%20bedside%20cabinets%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Headboard unit (with built-in bedside cabinets)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Headboard>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Headboard";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/TV%20%2F%20Hi-fi%20unit>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "TV / Hi-fi unit";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Piano>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Piano";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Sideboard%2C%20not%20large>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Sideboard, not large";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Table%20small%20eg.%20Cane%2C%20coffee%2C%20occassional%2C%20nest%20of>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Table small eg. Cane, coffee, occassional, nest of";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Table%2C%20large%20e.g.%20dining>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Table, large e.g. dining";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Table%2C%20medium%20e.g.%20kitchen>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Table, medium e.g. kitchen";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Wall%20unit>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Wall unit";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Wardrobe%2C%20double>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Wardrobe, double";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Wardrobe%2C%20single>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Wardrobe, single";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Furniture/Welsh%20Dresser>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Welsh Dresser";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Home%20Office%20Furniture/Cabinet%2C%20large>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Home Office Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cabinet, large";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Home%20Office%20Furniture/Filing%20cabinet%2C%20large>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Home Office Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Filing cabinet, large";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Home%20Office%20Furniture/Cabinet%20or%20filing%20cabinet%2C%20small>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Home Office Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cabinet or filing cabinet, small";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Home%20Office%20Furniture/Office%20Chair>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Home Office Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Office Chair";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Home%20Office%20Furniture/Office%20Desk>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Home Office Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Office Desk";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/2%20seater%20sofa>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "2 seater sofa";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/3%20seater%20sofa>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "3 seater sofa";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Armchair>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Armchair";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Recliner>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Recliner";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Bed%2C%20single%20complete%20%28base%2C%20mattress%20%2B%20headboard%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bed, single complete (base, mattress + headboard)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Bed%2C%20double%20complete%20%28base%2C%20mattress%20%2B%20headboard%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bed, double complete (base, mattress + headboard)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Bed%2C%20king-size%20complete%20%28base%2C%20mattress%20%2B%20headboard%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bed, king-size complete (base, mattress + headboard)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Bed%20base%2C%20single%20wood%20%2F%20divan%20%2F%20folding%20%2F%20Z%20bed>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bed base, single wood / divan / folding / Z bed";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Bed%20base%2C%20double%20wood%20%2F%20divan%20%2F%20folding%20%2F%20Z%20bed>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bed base, double wood / divan / folding / Z bed";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Bed%20base%2C%20king-size%20wood%2C%20divan%20or%20double%20metal>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bed base, king-size wood, divan or double metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Bunk%20bed%20%2F%20cabin%20bed>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bunk bed / cabin bed";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Cane%20chair%2C%20bookcase>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cane chair, bookcase";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Chair%2C%20easy%2C%20fireside%2C%20lounge%2C%20rocking>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Chair, easy, fireside, lounge, rocking";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Chaise%20Longue>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Chaise Longue";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Futon%20%2F%20Sofabed%20%28wooden%20base%20with%20mattress%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Futon / Sofabed (wooden base with mattress)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Mattress%2C%20single>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Mattress, single";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Mattress%2C%20double>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Mattress, double";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Mattress%2C%20king-size>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Mattress, king-size";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Pouffe%20%2F%20Stool>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Pouffe / Stool";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Sofa%20bed%2C%20foam%20flop%20out>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Sofa bed, foam flop out";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Sofa%20bed%2C%20metal%20frame>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Sofa bed, metal frame";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Soft%20Furniture/Sofa%2C%20cane%20%2F%20conservatory%20%28normally%20with%20cushions%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Soft Furniture";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Sofa, cane / conservatory (normally with cushions)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bric-a-Brac/Bric-a-Brac%20%28small%20packet%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bric-a-Brac";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bric-a-Brac (small packet)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Average Plastics";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bric-a-Brac/Bric-a-Brac%20%28box%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bric-a-Brac";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bric-a-Brac (box)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Children%27s%20Items/Cot>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Children's Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cot";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Children%27s%20Items/High%20Chair>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Children's Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "High Chair";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Children%27s%20Items/Pram>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Children's Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Pram";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Children%27s%20Items/Pushchair>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Children's Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Pushchair";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Children%27s%20Items/Stairgate>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Children's Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Stairgate";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Average Plastics";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Children%27s%20Items/Toys%2C%20box>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Children's Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Toys, box";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Average Plastics";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Leisure/Bike%2C%20adult>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Leisure";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bike, adult";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Leisure/Bike%2C%20child>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Leisure";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bike, child";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Miscellaneous/Small%20misc%2C%20eg%20scales%2C%20saucepans%2C%20shoe%20racks%2C%20pedal%20bin%2C%20picture%2C%20magazine%20rack%2C%20fireguard%2C%20CD%20stand%2C%20picture%20frame%2C%20curtain%20pole%2C%20lampshade%2C%20suitcase%2C%20wine%20rack%2C%20Christmas%20tree>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Miscellaneous";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Small misc, eg scales, saucepans, shoe racks, pedal bin, picture, magazine rack, fireguard, CD stand, picture frame, curtain pole, lampshade, suitcase, wine rack, Christmas tree";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Miscellaneous/Medium%20misc%2C%20eg%20tea%20trolley%2C%20ironing%20board%2C%20plant%20stand%2C%20coat%20or%20hat%20stand%2C%20small%20mirror%2C%20clothes%20horse%2C>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Miscellaneous";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Medium misc, eg tea trolley, ironing board, plant stand, coat or hat stand, small mirror, clothes horse,";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Miscellaneous/Large%20misc%2C%20eg%20carpet%20cleaner%2C%20large%20mirror%2C%20ladder%2C%20laundry%20basket%2C%20loose%20shelves>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Miscellaneous";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Large misc, eg carpet cleaner, large mirror, ladder, laundry basket, loose shelves";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Flooring/Carpet%20tiles%2C%20lino%2C%20%20carpet%2C%20flooring%20or%20underlay%20for%20standard%20room%2012%27x12%27>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Flooring";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Carpet tiles, lino,  carpet, flooring or underlay for standard room 12'x12'";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Flooring/Small%20rug%203%27x6%27>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Flooring";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Small rug 3'x6'";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles and Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bedding%20%26%20window%20dressings/Pillow%2C%20pillow%20case>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bedding & window dressings";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Pillow, pillow case";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bedding%20%26%20window%20dressings/Sheet>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bedding & window dressings";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Sheet";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bedding%20%26%20window%20dressings/Blanket%2C%20towel%2C%20throw%2C%20duvet%20cover>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bedding & window dressings";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Blanket, towel, throw, duvet cover";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bedding%20%26%20window%20dressings/Blinds%20%28fabric%29%2C%20light%20or%20mid%20weight%20curtains>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bedding & window dressings";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Blinds (fabric), light or mid weight curtains";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bedding%20%26%20window%20dressings/Blinds%20%28wood%2C%20metal%29%2C%20curtains%20%28thick%2C%20lined%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bedding & window dressings";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Blinds (wood, metal), curtains (thick, lined)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Bath%20%28metal%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bath (metal)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Bath%20%28non-metal%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bath (non-metal)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Average plastic rigid (including bottles)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Bathroom%20Cabinet%20%2FShower%20Screen>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Bathroom Cabinet /Shower Screen";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Average plastic rigid (including bottles)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Cistern>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cistern";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Plasterboard";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Shower%20equipment%2Ftray>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Shower equipment/tray";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Plasterboard";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Sink%20%28ceramic%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Sink (ceramic)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Plasterboard";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Sink%20%28metal%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Sink (metal)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Toilet>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Toilet";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Plasterboard";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Bathroom%20Items/Vanity%20Unit%2C%20including%20sink>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Bathroom Items";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Vanity Unit, including sink";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Door%20%28pvc%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Door (pvc)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PVC (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Door%20%28wood%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Door (wood)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Gate%20%28metal%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Gate (metal)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Gate%20%28wood%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Gate (wood)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Paint%20%20%285l%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Paint  (5l)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Batteries (Post Consumer Non Automotive)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Patio%20door>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Patio door";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PVC (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Tiles%20%28ceramic%29%2C%20per%20square%20metre>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Tiles (ceramic), per square metre";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Plasterboard";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Window%20%28wood%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Window (wood)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Window%20%28glazed%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Window (glazed)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PVC (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/DIY/Worktop%20%28kitchen%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "DIY";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Worktop (kitchen)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/BBQ>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "BBQ";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/Chair%20%28metal%2C%20plastic%20or%20wood%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Chair (metal, plastic or wood)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PVC (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/Lounger>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Lounger";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PVC (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/Rotary%20Drier>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Rotary Drier";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/Table%20%28metal%2C%20plastic%20or%20wood%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Table (metal, plastic or wood)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PVC (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/Tool%20%28large%29%20i.e.%20spade%2C%20fork>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Tool (large) i.e. spade, fork";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/Tool%20%28small%29%20i.e.%20trowel>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Tool (small) i.e. trowel";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/Waterbutt>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Waterbutt";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "PVC (including forming)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Garden/Wheelbarrow>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Garden";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Wheelbarrow";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Gas%20Appliances/Cooker%2C%20gas>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Gas Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cooker, gas";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Gas%20Appliances/Hob%2C%20gas>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Gas Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Hob, gas";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Gas%20Appliances/Fire%2C%20gas>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Gas Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Fire, gas";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Baby%20belling%2C%20counter%20top%20cooker%2C%20hostess%20trolley>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Baby belling, counter top cooker, hostess trolley";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Cooker%20hood>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cooker hood";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Cooker%2C%20electric>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Cooker, electric";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Dishwasher>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Dishwasher";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Spin-Dryer>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Spin-Dryer";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Tumble-Dryer>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Tumble-Dryer";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Twin-tub>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Twin-tub";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Washer%20Drier>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Washer Drier";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%201%20-%20Large%20Household%20Appliances/Washing%20Machine>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 1 - Large Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Washing Machine";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Electric%20sewing%20maching>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Electric sewing maching";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Fan%20%28electric%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Fan (electric)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Fan%20heater>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Fan heater";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Fire>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Fire";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Hair%20%26%20Beauty%20Elec%20%20i.e.%20hair%20dryer%2C%20foot%20massager%2C%20hair%20curlers%2C%20hair%20straighteners>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Hair & Beauty Elec  i.e. hair dryer, foot massager, hair curlers, hair straighteners";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Hob%2C%20electric>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Hob, electric";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Medium%20elec%20-%20bread%20machine%2C%20video%20camera%2C%20trouser%20press>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Medium elec - bread machine, video camera, trouser press";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Microwave>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Microwave";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Radiator>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Radiator";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Small%20elec%20-%20kettle%2C%20toaster%2C%20clock%2C%20sandwich%20maker%2Ccoffee%20maker%2C%20juicer%2C%20rice%20cooker%20%2Csteamer%2C%20iron%2C%20food%20mixer>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Small elec - kettle, toaster, clock, sandwich maker,coffee maker, juicer, rice cooker ,steamer, iron, food mixer";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%202%20-%20Small%20Household%20Appliances/Vacuum>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 2 - Small Household Appliances";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Vacuum";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Small";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%203%20-%20IT%20%26%20Telecommunications/Computer%2C%20base%20unit>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 3 - IT & Telecommunications";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Computer, base unit";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%203%20-%20IT%20%26%20Telecommunications/Laptop>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 3 - IT & Telecommunications";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Laptop";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%203%20-%20IT%20%26%20Telecommunications/Mobile%20Phone%20%26%20Accessories%20%28hands%20free%20kit%2C%20charger%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 3 - IT & Telecommunications";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Mobile Phone & Accessories (hands free kit, charger)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%203%20-%20IT%20%26%20Telecommunications/PC%20Accessories%20%28keyboard%2C%20mouse%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 3 - IT & Telecommunications";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "PC Accessories (keyboard, mouse)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%203%20-%20IT%20%26%20Telecommunications/PC%20Printers%2C%20Scanners%2C%20Shredder>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 3 - IT & Telecommunications";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "PC Printers, Scanners, Shredder";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%203%20-%20IT%20%26%20Telecommunications/Photocopier>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 3 - IT & Telecommunications";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Photocopier";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%203%20-%20IT%20%26%20Telecommunications/Telecommunications%20equipment>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 3 - IT & Telecommunications";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Telecommunications equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%203%20-%20IT%20%26%20Telecommunications/Wordprocessor%2C%20Electric%20Typewriter>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 3 - IT & Telecommunications";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Wordprocessor, Electric Typewriter";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%204%20-%20Consumer%20Equipment/Hi-fi%2C%20integrated>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 4 - Consumer Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Hi-fi, integrated";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%204%20-%20Consumer%20Equipment/Hi-fi%2C%20separates%20%28amplifier%2C%20cassette%20deck%2C%20CD%20player%2C%20radio%2C%20speakers%29>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 4 - Consumer Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Hi-fi, separates (amplifier, cassette deck, CD player, radio, speakers)";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%204%20-%20Consumer%20Equipment/Video%2C%20DVD%2C%20Games%20Consoles%2C%20Digiboxes>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 4 - Consumer Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Video, DVD, Games Consoles, Digiboxes";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%205%20-%20Lighting%20Equipment/Lamp%20%2F%20Light>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 5 - Lighting Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Lamp / Light";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%206%20-%20Electrical%20%26%20Electronic%20Tools/Garden%20tools%2C%20electrical%20%28small%29%20i.e.%20strimmer%2C%20hedge%20cutter%2C%20garden%20vac>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 6 - Electrical & Electronic Tools";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Garden tools, electrical (small) i.e. strimmer, hedge cutter, garden vac";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%206%20-%20Electrical%20%26%20Electronic%20Tools/Garden%20tools%2C%20electrical%20%28large%29%20i.e.%20lawnmower%2C%20shredder>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 6 - Electrical & Electronic Tools";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Garden tools, electrical (large) i.e. lawnmower, shredder";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%206%20-%20Electrical%20%26%20Electronic%20Tools/Power%20Tools%20i.e.%20drill%2C%20electric%20screwdriver>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 6 - Electrical & Electronic Tools";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Power Tools i.e. drill, electric screwdriver";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%207%20-%20Toys%2C%20leisure%20%26%20sports/Musical%20Instruments%20i.e.%20keyboard%2C%20organ>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 7 - Toys, leisure & sports";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Musical Instruments i.e. keyboard, organ";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%207%20-%20Toys%2C%20leisure%20%26%20sports/Sunbed>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 7 - Toys, leisure & sports";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Sunbed";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%208%20-%20Medical%20devices/Electric%20Armchair>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 8 - Medical devices";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Electric Armchair";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%208%20-%20Medical%20devices/Electric%20Bed%2C%20double>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 8 - Medical devices";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Electric Bed, double";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%208%20-%20Medical%20devices/Electric%20Bed%2C%20single>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 8 - Medical devices";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Electric Bed, single";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%208%20-%20Medical%20devices/Electric%20Wheelchair>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 8 - Medical devices";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Electric Wheelchair";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Large";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/CRT-Monitor%20%3C14%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "CRT-Monitor <14\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/CRT-Monitor%2014%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "CRT-Monitor 14\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/CRT-Monitor%2015%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "CRT-Monitor 15\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/CRT-Monitor%2017%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "CRT-Monitor 17\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/CRT-Monitor%2019%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "CRT-Monitor 19\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/CRT-Monitor%2021%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "CRT-Monitor 21\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/TV%20Portable%20or%20TV%20Combi>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "TV Portable or TV Combi";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/Flat%20screen%20display%2015-17%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Flat screen display 15-17\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/Flat%20screen%20display%2019-20%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Flat screen display 19-20\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/Flat%20screen%20display%2022-24%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Flat screen display 22-24\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/Flat%20screen%20display%2026-30%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Flat screen display 26-30\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/Flat%20screen%20display%2032-37%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Flat screen display 32-37\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2011%20-%20Display%20Equipment/Flat%20screen%20display%2040-46%22>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 11 - Display Equipment";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Flat screen display 40-46\"";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2012%20-%20Cooling%20Appliances%20containing%20refrigeration/Air%20Conditioner%2C%20Dehumidifier>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 12 - Cooling Appliances containing refrigeration";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Air Conditioner, Dehumidifier";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Mixed";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2012%20-%20Cooling%20Appliances%20containing%20refrigeration/Freezer%2C%20chest>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 12 - Cooling Appliances containing refrigeration";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Freezer, chest";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Fridges and Freezers";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2012%20-%20Cooling%20Appliances%20containing%20refrigeration/Freezer%2C%20free%20standing>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 12 - Cooling Appliances containing refrigeration";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Freezer, free standing";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Fridges and Freezers";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2012%20-%20Cooling%20Appliances%20containing%20refrigeration/Freezer%20%2F%20Fridge%2C%20table%20top>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 12 - Cooling Appliances containing refrigeration";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Freezer / Fridge, table top";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Fridges and Freezers";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2012%20-%20Cooling%20Appliances%20containing%20refrigeration/Freezer%2C%20undercounter>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 12 - Cooling Appliances containing refrigeration";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Freezer, undercounter";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Fridges and Freezers";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2012%20-%20Cooling%20Appliances%20containing%20refrigeration/Fridge%2C%20free%20standing>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 12 - Cooling Appliances containing refrigeration";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Fridge, free standing";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Fridges and Freezers";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2012%20-%20Cooling%20Appliances%20containing%20refrigeration/Fridge%2C%20undercounter>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 12 - Cooling Appliances containing refrigeration";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Fridge, undercounter";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Fridges and Freezers";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .
+
+<http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/Cat%2012%20-%20Cooling%20Appliances%20containing%20refrigeration/Fridge-Freezer>
+  <http://wastemattersscotland.org/linked-data/property/hasCategory> "Cat 12 - Cooling Appliances containing refrigeration";
+  <http://wastemattersscotland.org/linked-data/property/hasItem> "Fridge-Freezer";
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE - Fridges and Freezers";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric> .

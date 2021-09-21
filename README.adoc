@@ -34,7 +34,7 @@ We have tried to rectify the inconsistencies that occur in the source data
 However, this is still "work-in-progress" and we yet to tease out & make consistent further 
 useful dimensions.
 
-==== The 18 _easier_ datasets
+==== The 21 _easier_ datasets
 
 [width="100%",cols="<,<,^,<,<,<,<",stripes="hover"]
 
@@ -50,6 +50,12 @@ useful dimensions.
 1+<h| creator
 1+<h| supplier
 1+<h| licence
+
+| anchor:ace-furniture-avg-weight[] ace-furniture-avg-weight | The per-furniture-category average weights of items sold. |  164 x 3 | link:data/README.adoc#ace-furniture-avg-weight[files] | Alloa Community Enterprises | file:///[Alloa Community Enterprises] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
+
+| anchor:ace-furniture-count[] ace-furniture-count | The per-accounting-period per-furniture-category counts of items sold. |  175 x 4 | link:data/README.adoc#ace-furniture-count[files] | Alloa Community Enterprises | file:///[Alloa Community Enterprises] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
+
+| anchor:ace-furniture-to-scottishCarbonMetric[] ace-furniture-to-scottishCarbonMetric | A per-furniture-category mapping to a Scottish Carbon Metric material. |  164 x 3 | link:data/README.adoc#ace-furniture-to-scottishCarbonMetric[files] | DCS | file:///[DCS] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
 
 | anchor:bin-collection[] bin-collection | The categorised quantities of the waste collected from household bins. |  136 x 7 | link:data/README.adoc#bin-collection[files] | Stirling council | https://data.stirling.gov.uk/dataset/waste-management[Stirling council] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 
@@ -71,7 +77,7 @@ useful dimensions.
 
 | anchor:household-waste-analysis[] household-waste-analysis | (An anonymised subset of) An analysis of sampled bin collection contents. |  1440 x 7 | link:data/README.adoc#household-waste-analysis[files] | ZWS | file:///[ZWS] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
 
-| anchor:meta[] meta | Meta level information. |  18 x 10 | link:data/README.adoc#meta[files] | DCS | file:///[DCS] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
+| anchor:meta[] meta | Meta level information. |  21 x 10 | link:data/README.adoc#meta[files] | DCS | file:///[DCS] | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
 
 | anchor:population[] population | People counts. Useful for calculating per-citizen amounts. |  288 x 3 | link:data/README.adoc#population[files] | NRS | http://statistics.gov.scot/data/population-estimates-current-geographic-boundaries[statistics.gov.scot] | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 

@@ -1,5 +1,5 @@
              
-==== The 18 _easier_ datasets
+==== The 21 _easier_ datasets
 
 [width="100%",cols="<,<,<,<,<",stripes="hover"]
 
@@ -18,6 +18,12 @@
 (Javascript oriented format)
 1+^h| Turtle +
 (linked data format)
+
+| anchor:ace-furniture-avg-weight[] ace-furniture-avg-weight | work-in-progress | work-in-progress | work-in-progress | link:ace-furniture-avg-weight-metadata.json[ace-furniture-avg-weight-metadata.json]
+
+| anchor:ace-furniture-count[] ace-furniture-count | work-in-progress | work-in-progress | work-in-progress | link:ace-furniture-count-metadata.json[ace-furniture-count-metadata.json]
+
+| anchor:ace-furniture-to-scottishCarbonMetric[] ace-furniture-to-scottishCarbonMetric | link:ace-furniture-to-scottishCarbonMetric.csv[ace-furniture-to-scottishCarbonMetric.csv] | link:ace-furniture-to-scottishCarbonMetric.json[ace-furniture-to-scottishCarbonMetric.json] | link:ace-furniture-to-scottishCarbonMetric.ttl[ace-furniture-to-scottishCarbonMetric.ttl] | link:ace-furniture-to-scottishCarbonMetric-metadata.json[ace-furniture-to-scottishCarbonMetric-metadata.json]
 
 | anchor:bin-collection[] bin-collection | link:bin-collection.csv[bin-collection.csv] | link:bin-collection.json[bin-collection.json] | link:bin-collection.ttl[bin-collection.ttl] | link:bin-collection-metadata.json[bin-collection-metadata.json]
 

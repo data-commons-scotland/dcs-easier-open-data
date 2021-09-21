@@ -1,0 +1,29 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "ace-furniture-to-scottishCarbonMetric.csv",
+  "tableSchema": {
+    "columns": [{
+      "name": "category",
+      "titles": "category",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCategory"
+    }, {
+      "name": "item",
+      "titles": "item",
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasItem"
+    }, {
+      "name": "material",
+      "titles": "material",
+      "datatype": "string",
+      "required": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaterial"
+    }, {
+      "virtual": true,
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMeta",
+      "valueUrl": "http://wastemattersscotland.org/linked-data/entity/meta/ace-furniture-to-scottishCarbonMetric"
+    }],
+    "primaryKey": ["category", "item"], 
+    "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/ace-furniture-to-scottishCarbonMetric/{category}/{item}"
+  }
+}
