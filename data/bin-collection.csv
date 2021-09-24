@@ -37,6 +37,32 @@ Stirling,2020,3,Glass wastes,true,false,694.86
 Stirling,2020,4,Glass wastes,true,true,1.26
 Stirling,2020,2,Household and similar wastes,false,false,5447.70
 Stirling,2020,2,Paper and cardboard wastes,true,false,839.22
+Stirling,2021,2,Household and similar wastes,false,true,19.52
+Stirling,2021,2,Animal and mixed food waste,false,false,2572.96
+Stirling,2021,2,Plastic wastes,true,true,0.86
+Stirling,2021,3,Animal and mixed food waste,false,true,2.14
+Stirling,2021,1,Household and similar wastes,false,true,56.18
+Stirling,2021,1,Plastic wastes,true,false,648.82
+Stirling,2021,3,Plastic wastes,true,true,1.28
+Stirling,2021,2,Glass wastes,true,false,675.52
+Stirling,2021,3,Household and similar wastes,false,false,2545.18
+Stirling,2021,3,Paper and cardboard wastes,true,false,640.86
+Stirling,2021,2,Plastic wastes,true,false,598.32
+Stirling,2021,3,Plastic wastes,true,false,371.32
+Stirling,2021,1,Paper and cardboard wastes,true,true,3.62
+Stirling,2021,3,Paper and cardboard wastes,true,true,0.78
+Stirling,2021,1,Household and similar wastes,false,false,4168.92
+Stirling,2021,1,Animal and mixed food waste,false,false,1398.24
+Stirling,2021,1,Paper and cardboard wastes,true,false,856.00
+Stirling,2021,3,Household and similar wastes,false,true,10.74
+Stirling,2021,2,Animal and mixed food waste,false,true,1.00
+Stirling,2021,2,Paper and cardboard wastes,true,true,6.44
+Stirling,2021,1,Glass wastes,true,false,736.84
+Stirling,2021,3,Animal and mixed food waste,false,false,1944.04
+Stirling,2021,3,Glass wastes,true,false,409.44
+Stirling,2021,2,Household and similar wastes,false,false,4163.08
+Stirling,2021,1,Animal and mixed food waste,false,true,0.3
+Stirling,2021,2,Paper and cardboard wastes,true,false,913.60
 Stirling,2019,2,Household and similar wastes,false,true,34.12
 Stirling,2019,2,Animal and mixed food waste,false,false,3219.10
 Stirling,2019,4,Paper and cardboard wastes,true,true,3.08
@@ -118,20 +144,3 @@ Stirling,2018,2,Household and similar wastes,false,false,3595.26
 Stirling,2018,1,Paper and cardboard wastes,false,true,1.32
 Stirling,2018,1,Animal and mixed food waste,false,true,89.70
 Stirling,2018,2,Paper and cardboard wastes,true,false,712.66
-Stirling,2021,2,Household and similar wastes,false,true,19.52
-Stirling,2021,2,Animal and mixed food waste,false,false,2572.96
-Stirling,2021,2,Plastic wastes,true,true,0.86
-Stirling,2021,1,Household and similar wastes,false,true,56.18
-Stirling,2021,1,Plastic wastes,true,false,648.82
-Stirling,2021,2,Glass wastes,true,false,675.52
-Stirling,2021,2,Plastic wastes,true,false,598.32
-Stirling,2021,1,Paper and cardboard wastes,true,true,3.62
-Stirling,2021,1,Household and similar wastes,false,false,4168.92
-Stirling,2021,1,Animal and mixed food waste,false,false,1398.24
-Stirling,2021,1,Paper and cardboard wastes,true,false,856.00
-Stirling,2021,2,Animal and mixed food waste,false,true,1.00
-Stirling,2021,2,Paper and cardboard wastes,true,true,6.44
-Stirling,2021,1,Glass wastes,true,false,736.84
-Stirling,2021,2,Household and similar wastes,false,false,4163.08
-Stirling,2021,1,Animal and mixed food waste,false,true,0.3
-Stirling,2021,2,Paper and cardboard wastes,true,false,913.60

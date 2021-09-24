@@ -119,7 +119,7 @@
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
 
 <http://wastemattersscotland.org/linked-data/entity/meta/bin-collection> <http://wastemattersscotland.org/linked-data/property/hasCount>
-    136;
+    145;
   <http://wastemattersscotland.org/linked-data/property/hasCreationDate> 2021;
   <http://wastemattersscotland.org/linked-data/property/hasCreator> "Stirling council";
   <http://wastemattersscotland.org/linked-data/property/hasDescription> "The categorised quantities of the waste collected from household bins.";
