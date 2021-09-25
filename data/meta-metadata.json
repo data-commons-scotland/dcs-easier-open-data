@@ -13,15 +13,20 @@
       "datatype": "string",
       "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasDescription"
     }, {
+      "name": "suppliedDate", 
+      "titles": "supplied-date", 
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasSuppliedDate"
+    }, {
+      "name": "maxDateInData", 
+      "titles": "max-date-in-data", 
+      "datatype": "string",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasMaxDateInData"
+    }, {
       "name": "creator", 
       "titles": "creator", 
       "datatype": "string",
       "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCreator"
-    }, {
-      "name": "creationDate", 
-      "titles": "created-when", 
-      "datatype": "integer",
-      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCreationDate"
     }, {
       "name": "supplier", 
       "titles": "supplier", 
