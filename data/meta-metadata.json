@@ -53,10 +53,15 @@
       "datatype": "string",
       "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasSourcingNotes"
     }, {
-      "name": "count", 
-      "titles": "count", 
+      "name": "recordCount", 
+      "titles": "record-count", 
       "datatype": "integer",
-      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasCount"
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasRecordCount"
+    }, {
+      "name": "attributeCount", 
+      "titles": "attribute-count", 
+      "datatype": "integer",
+      "propertyUrl": "http://wastemattersscotland.org/linked-data/property/hasAttributeCount"
     }],
     "primaryKey": "name",
     "aboutUrl": "http://wastemattersscotland.org/linked-data/entity/meta/{name}"
