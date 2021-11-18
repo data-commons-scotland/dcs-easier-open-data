@@ -125,11 +125,11 @@
   <http://wastemattersscotland.org/linked-data/property/hasDescription> "The per-year per-quarter per-material amount (weight and CO2e) of reused items.";
   <http://wastemattersscotland.org/linked-data/property/hasLicence> "CC BY 4.0";
   <http://wastemattersscotland.org/linked-data/property/hasLicenceUrl> "https://creativecommons.org/licenses/by/4.0/";
-  <http://wastemattersscotland.org/linked-data/property/hasMaxDateInData> "2019-12-31";
+  <http://wastemattersscotland.org/linked-data/property/hasMaxDateInData> "2021-09-30";
   <http://wastemattersscotland.org/linked-data/property/hasName> "fairshare";
-  <http://wastemattersscotland.org/linked-data/property/hasRecordCount> 376;
+  <http://wastemattersscotland.org/linked-data/property/hasRecordCount> 390;
   <http://wastemattersscotland.org/linked-data/property/hasSourcingNotes> "Supplied as an Excel spreadsheet.";
-  <http://wastemattersscotland.org/linked-data/property/hasSuppliedDate> "2021-05-26";
+  <http://wastemattersscotland.org/linked-data/property/hasSuppliedDate> "2021-11-17";
   <http://wastemattersscotland.org/linked-data/property/hasSupplier> "The Fair Share";
   <http://wastemattersscotland.org/linked-data/property/hasSupplyUrl> "file:///" .
 

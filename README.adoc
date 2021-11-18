@@ -69,7 +69,7 @@ useful dimensions.
 
 | anchor:ewc-code[] ewc-code | EWC (European Waste Classification) codes and descriptions. Also a mapping to SEPA's materials classification. |  |  973 x 3 | link:data/README.adoc#ewc-code[files] | 2021-02-14 | https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02000D0532-20150601&from=EN#tocId7[Publications Office of the EU] | European Commission of the EU | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
 
-| anchor:fairshare[] fairshare | The per-year per-quarter per-material amount (weight and CO2e) of reused items. | 2019-12-31 |  376 x 7 | link:data/README.adoc#fairshare[files] | 2021-05-26 | file:///[The Fair Share] | The Fair Share | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
+| anchor:fairshare[] fairshare | The per-year per-quarter per-material amount (weight and CO2e) of reused items. | 2021-09-30 |  390 x 7 | link:data/README.adoc#fairshare[files] | 2021-11-17 | file:///[The Fair Share] | The Fair Share | https://creativecommons.org/licenses/by/4.0/[CC BY 4.0]
 
 | anchor:household[] household | Occupied residential dwelling counts. Useful for calculating per-household amounts. | 2020-12-31 |  320 x 3 | link:data/README.adoc#household[files] | 2021-09-24 | http://statistics.gov.scot/data/household-estimates[statistics.gov.scot] | NRS | http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/[OGL v3.0]
 

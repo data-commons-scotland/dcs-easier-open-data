@@ -219,6 +219,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2017;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2017-03-31" .
 
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Aggregates> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Aggregates";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.00011093465999999999;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0142;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
+
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2015/2/Scrap%20Metal>
   <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
@@ -619,6 +629,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2016;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2016-03-31" .
 
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Wood> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Wood";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
+
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2015/3/Textiles%20%26%20Footwear>
   <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles & Footwear";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
@@ -668,6 +688,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0;
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2019-06-30" .
+
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/WEEE%20%28Fridges%2FFreezers%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "WEEE (Fridges/Freezers)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
 
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2016/1/Aluminium> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
     "Aluminium";
@@ -758,6 +788,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.33468199999999996;
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2018-12-31" .
+
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Paper%20%26%20Cardboard>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Paper & Cardboard";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
 
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2018/2/Scrap%20Metal>
   <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
@@ -1069,6 +1109,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2018-09-30" .
 
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Plastics> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Plastics";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.03768027000000001;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.012;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
+
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2018/4/Batteries> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
     "Batteries";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
@@ -1128,6 +1178,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.00495;
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2019-03-31" .
+
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Food%20%26%20Drink>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Food & Drink";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 1.1100764992;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.272;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
 
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2019/3/Plastics> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
     "Plastics";
@@ -1199,6 +1259,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2015;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2015-09-30" .
 
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Aluminium> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Aluminium";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 1.5370372736000002;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.1192;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
+
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2018/3/Aggregates> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
     "Aggregates";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
@@ -1268,6 +1338,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.14952;
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2019;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2019-09-30" .
+
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Batteries> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Batteries";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
 
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2017/2/Plastics> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
     "Plastics";
@@ -1378,6 +1458,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.012347999999999999;
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2014;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2014-09-30" .
+
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Books> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
+    "Books";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.019533070000000002;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.02;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
 
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2014/3/Books> <http://wastemattersscotland.org/linked-data/property/hasMaterial>
     "Books";
@@ -1869,6 +1959,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2018;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2018-03-31" .
 
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Mixed%20Cans>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Mixed Cans";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
+
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2016/3/Small%20WEEE>
   <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Small WEEE";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
@@ -1938,6 +2038,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0642;
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2017;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2017-03-31" .
+
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Scrap%20Metal>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
 
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2016/4/Textiles%20%26%20Footwear>
   <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles & Footwear";
@@ -2889,6 +2999,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2016;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2016-12-31" .
 
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Textiles%20%26%20Footwear>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles & Footwear";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 1.6346291999999996;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.07319999999999999;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
+
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2014/3/Glass%20%28Mixed%20-%20assumed%20go%20to%20aggregates%29>
   <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Glass (Mixed - assumed go to aggregates)";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
@@ -3509,6 +3629,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2017;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2017-09-30" .
 
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Glass%20%28Mixed%20-%20assumed%20go%20to%20aggregates%29>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Glass (Mixed - assumed go to aggregates)";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.042227599999999995;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.046099999999999994;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
+
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2018/3/Textiles%20%26%20Footwear>
   <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Textiles & Footwear";
   <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
@@ -3688,6 +3818,16 @@
   <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.07347000000000003;
   <http://wastemattersscotland.org/linked-data/property/hasYear> 2017;
   <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2017-06-30" .
+
+<http://wastemattersscotland.org/linked-data/entity/fairshare/2021/3/Small%20WEEE>
+  <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Small WEEE";
+  <http://wastemattersscotland.org/linked-data/property/hasMeta> <http://wastemattersscotland.org/linked-data/entity/meta/fairshare>;
+  <http://wastemattersscotland.org/linked-data/property/hasQuarter> 3;
+  <http://wastemattersscotland.org/linked-data/property/hasRegion> <http://wastemattersscotland.org/linked-data/entity/region/Stirling>;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesCo2e> 0.04433694498;
+  <http://wastemattersscotland.org/linked-data/property/hasTonnesWeight> 0.0249;
+  <http://wastemattersscotland.org/linked-data/property/hasYear> 2021;
+  <http://wastemattersscotland.org/linked-data/property/hasYyyyMmDd> "2021-09-30" .
 
 <http://wastemattersscotland.org/linked-data/entity/fairshare/2014/2/Scrap%20Metal>
   <http://wastemattersscotland.org/linked-data/property/hasMaterial> "Scrap Metal";
